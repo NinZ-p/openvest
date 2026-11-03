@@ -1,0 +1,124 @@
+system_prompt_md2json="""Você é um conversor especializado de provas em Markdown para JSON. Sua única tarefa é aplicar exatamente a especificação fornecida na mensagem do usuário. A mensagem do usuário é a autoridade máxima sobre esquema, campos, regras de extração e formato.
+
+Produza somente um objeto JSON válido, em UTF-8, sem texto antes ou depois, sem comentários, sem cercas de código, sem explicações e sem usar ferramentas. Não invente dados; quando a especificação mandar usar null ou [], faça isso. Preserve fielmente textos, ordem, quebras de linha e sintaxe Markdown de imagens. Não inclua alternativas no enunciado nem altere o conteúdo, exceto artefatos óbvios de conversão automática conforme permitido.
+
+Se a entrada estiver vazia ou não contiver uma prova identificável, retorne o JSON mínimo compatível com o esquema, usando null/[] quando aplicável."""
+
+system_prompt_json_commenting="""Você é um especialista em avaliação educacional, itens do ENEM e taxonomia curricular. Sua tarefa é receber um prompt de usuário contendo a matriz de referência e os eixos cognitivos do ENEM e um JSON de uma questão. Analise o JSON da questão e retorne um novo objeto JSON enriquecido.
+
+**Regras obrigatórias:**
+
+1. Preserve todos os campos originais da raiz do JSON exatamente como foram recebidos, sem alterações.
+2. Adicione ao final do objeto os seguintes campos:
+   - `comentarios`: array de exatamente 5 strings. Cada string deve ser um comentário didático e técnico explicando por que a respectiva alternativa está certa ou errada. A ordem deve seguir rigorosamente as alternativas A, B, C, D, E:
+     - índice 0: alternativa A;
+     - índice 1: alternativa B;
+     - índice 2: alternativa C;
+     - índice 3: alternativa D;
+     - índice 4: alternativa E.
+   - `materias`: array de strings com os nomes das matérias envolvidas na questão.
+   - `conteudos`: array de strings com tópicos, matérias, palavras-chave e classificações curriculares abordadas na questão. Use a grade curricular/taxonomia da matriz de referência do ENEM fornecida no prompt do usuário. Seja extensivo na classificação.
+   - `dica`: string com uma dica estratégica e reflexiva para orientar um aluno que está travado na questão. A dica deve apontar o caminho do conceito, mas jamais revelar a resposta correta ou qual é a alternativa gabarito.
+3. Use a matriz de referência, os eixos cognitivos e os objetos de conhecimento fornecidos no prompt do usuário como base para classificar matérias e conteúdos.
+4. Não altere, remova ou renomeie chaves originais.
+5. Retorne apenas JSON válido e formatado.
+6. Não inclua saudações, explicações, raciocínios, texto introdutório ou qualquer conteúdo fora do JSON.
+7. Não envolva o JSON em blocos de código markdown. Não use cercas de código. Retorne apenas a string JSON crua."""
+
+prompt_template_md2json="""Você receberá, na seção "ENTRADA", uma prova (ou parte dela) convertida automaticamente para Markdown. Sua tarefa é transformá-la em um único objeto JSON válido, sem qualquer texto adicional, explicação, comentário, tag, ferramenta, decorador ou markdown ao redor do JSON.
+
+## Formato de saída obrigatório
+
+O JSON deve ter exatamente esta estrutura:
+
+{
+  "id": "<nome e ano da prova, ex.: ENEM 2026>",
+  "data": [
+    {
+      "n_ex": "<identificador do exercício, ex.: "1-IN", "1-ES", "24">",
+      "enunciado": "<textos de apoio + enunciado da questão, preservando o conteúdo original>",
+      "alternativas": [
+        "<texto da alternativa A>",
+        "<texto da alternativa B>",
+        "<texto da alternativa C>",
+        "<texto da alternativa D>",
+        "<texto da alternativa E>"
+      ]
+    }
+  ]
+}
+
+## Regras
+
+1. **id**: extraia o nome e o ano da prova a partir do conteúdo (cabeçalho, título ou contexto). Se não houver indicação explícita, use `null` e não invente.
+2. **n_ex**: preserve o identificador exatamente como aparece na prova (ex.: `"1-IN"`, `"1-ES"`, `"24"`, `"Questão 3"`). Se a prova não numerar um item, use `null`.
+3. **enunciado**: concatene, na ordem original, todo o texto de apoio (textos-base, citações, gráficos descritos em texto, instruções) e o enunciado da questão. Preserve quebras de linha como `\n`. **Não inclua o texto das alternativas aqui.**
+4. **alternativas**: array de strings com o texto de cada alternativa, na ordem em que aparecem. Remova apenas marcadores de enumeração redundantes (ex.: `A)`, `(B)`) quando já estiverem implícitos pela posição. Se a questão não tiver alternativas (ex.: discursiva), use `[]`.
+5. **Imagens**:
+   - Se o Markdown contiver imagens em qualquer sintaxe (`![alt](url)`, tags HTML `<img>`, links para arquivos de imagem), **inclua-as no campo correspondente** mantendo o Markdown original da imagem:
+     - imagens no enunciado/texto de apoio → dentro de `"enunciado"`;
+     - imagens dentro de uma alternativa → dentro da string daquela alternativa em `"alternativas"`.
+   - Preserve a URL/caminho exatamente como veio. Se houver apenas texto alternativo (`alt`), preserve-o como `![alt]()`.
+   - Não descreva imagens; não gere URLs novas; não omita imagens.
+6. **Ordem**: as questões em `data` devem respeitar a ordem em que aparecem na prova.
+7. **Fidelidade**: não corrija, resuma, traduza nem reescreva o conteúdo. Corrija apenas artefatos óbvios de conversão automática (ex.: `\*` escapado indevidamente) quando isso não alterar o sentido.
+8. **Saída**: retorne **somente** o JSON válido (UTF-8, sem vírgula final, sem comentários). Nada antes, nada depois. Não use blocos de código cercados por ```.
+
+## ENTRADA
+
+"""
+
+
+
+prompt_template_question_enrichment="""A seguir se encontra a matriz de referência e eixos cognitivos do ENEM.
+
+---
+
+**EIXOS COGNITIVOS (COMUNS A TODAS AS ÁREAS DE CONHECIMENTO)** [Eixo Cognitivo 1] **Dominar linguagens (DL):** Dominar a norma culta da língua portuguesa, espanhola e inglesa.[1] [Eixo Cognitivo 2] **Compreender fenômenos (CF):** Construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, de equipamentos tecnológicos, de manifestações artísticas ou do cotidiano.[1] [Eixo Cognitivo 3] **Enfrentar situações-problema (SP):** Selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema.[1] [Eixo Cognitivo 4] **Construir argumentação (CA):** Relacionar informações e conhecimentos disponíveis em diferentes situações para construir argumentação consistente.[1] [Eixo Cognitivo 5] **Elaborar propostas (EP):** Recorrer aos conhecimentos desenvolvidos na escola para elaboração de propostas de intervenção solidária na realidade, respeitando os valores humanos e considerando a diversidade sociocultural.[1][2]
+
+**MATRIZ DE REFERÊNCIA - LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS** [Linguagens | Competência de Área 1] **Tecnologias da Informação e Comunicação:** Aplicar as tecnologias da comunicação e da informação na escola, no trabalho e em outros contextos relevantes para sua vida (abrange as habilidades H1, H2, H3, H4).[2] [Linguagens | Competência de Área 2] **Língua Estrangeira Moderna:** Conhecer e usar língua(s) estrangeira(s) moderna(s) como instrumento de acesso a informações e a outras culturas e grupos sociais (abrange as habilidades H5, H6, H7, H8).[2] [Linguagens | Competência de Área 3] **Linguagem Corporal:** Compreender e usar a linguagem corporal como relevante para a própria vida, integradora social e formadora da identidade (abrange as habilidades H9, H10, H11).[3] [Linguagens | Competência de Área 4] **Arte e Estética:** Compreender a arte como saber cultural e estético gerador de significação e integrador da organização do mundo e da própria identidade (abrange as habilidades H12, H13, H14).[3] [Linguagens | Competência de Área 5] **Recursos Expressivos e Contexto:** Analisar, interpretar e aplicar recursos expressivos das linguagens, relacionando textos com seus contextos, mediante a natureza, função, organização, estrutura das manifestações, de acordo com as condições de produção e recepção (abrange as habilidades H15, H16, H17).[3][4] [Linguagens | Competência de Área 6] **Sistemas Simbólicos:** Compreender e usar os sistemas simbólicos das diferentes linguagens como meios de organização cognitiva da realidade pela constituição de significados, expressão, comunicação e informação (abrange as habilidades H18, H19, H20).[4] [Linguagens | Competência de Área 7] **Confronto de Opiniões:** Confrontar opiniões e pontos de vista sobre as diferentes linguagens e suas manifestações específicas (abrange as habilidades H21, H22, H23, H24).[4][5] [Linguagens | Competência de Área 8] **Língua Portuguesa e Identidade:** Compreender e usar a língua portuguesa como língua materna, geradora de significação e integradora da organização do mundo e da própria identidade (abrange as habilidades H25, H26 e a H27 - Reconhecer os usos da norma-padrão da língua portuguesa nas diferentes situações de comunicação).[5] [Linguagens | Competência de Área 9] **Impacto Social das TICs:** Entender os princípios, a natureza, a função e o impacto das tecnologias da comunicação e da informação na sua vida pessoal e social, no desenvolvimento do conhecimento, associando-os aos conhecimentos científicos, às linguagens que lhes dão suporte, às demais tecnologias, aos processos de produção e aos problemas que se propõem solucionar (abrange as habilidades H28, H29, H30).[5][6]
+
+**MATRIZ DE REFERÊNCIA - MATEMÁTICA E SUAS TECNOLOGIAS** [Matemática | Competência de Área 1] **Conhecimentos Numéricos:** Construir significados para os números naturais, inteiros, racionais e reais (abrange as habilidades H1, H2, H3, H4, H5).[6] [Matemática | Competência de Área 2] **Conhecimentos Geométricos:** Utilizar o conhecimento geométrico para realizar a leitura e a representação da realidade e agir sobre ela (abrange as habilidades H6, H7, H8, H9).[6] [Matemática | Competência de Área 3] **Grandezas e Medidas:** Construir noções de grandezas e medidas para a compreensão da realidade e a solução de problemas do cotidiano (abrange as habilidades H10, H11, H12, H13, H14).[6] [Matemática | Competência de Área 4] **Variação de Grandezas:** Construir noções de variação de grandezas para a compreensão da realidade e a solução de problemas do cotidiano (abrange as habilidades H15, H16, H17, H18, H19, H20, H21, H22, H23).[7] [Matemática | Competência de Área 5] **Gráficos e Tabelas:** Interpretar informações de natureza científica e social obtidas da leitura de gráficos e tabelas, realizando previsão de tendência, extrapolação, interpolação e interpretação (abrange as habilidades H24, H25, H26).[7] [Matemática | Competência de Área 6] **Estatística e Probabilidade:** Compreender o caráter aleatório e não determinístico dos fenômenos naturais e sociais, e utilizar instrumentos adequados para medidas, determinação de amostras e cálculos de probabilidade para interpretar informações de variáveis apresentadas em uma distribuição estatística (abrange as habilidades H27, H28, H29, H30).[7][8]
+
+**MATRIZ DE REFERÊNCIA - CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS** [Ciências da Natureza | Competência de Área 1] **Ciências e Sociedade:** Compreender as ciências naturais e as tecnologias a elas associadas como construções humanas, percebendo seus papéis nos processos de produção e no desenvolvimento social (abrange H1 a H7; ex: H1 - Reconhecer características ou propriedades de fenômenos ondulatórios ou oscilatórios; H5 - Dimensionar circuitos ou dispositivos elétricos de uso cotidiano).[8] [Ciências da Natureza | Competência de Área 2] **Conservação e Degradação Ambiental:** Associar intervenções que resultam em degradação ou conservação ambiental a processos produtivos e sociais e a instrumentos ou ações científico-tecnológicos (abrange as habilidades H8, H9, H10, H11, H12).[8][9] [Ciências da Natureza | Competência de Área 3] **Saúde e Organismos:** Compreender interações entre organismos e ambiente, em particular aquelas relacionadas à saúde humana, relacionando conhecimentos científicos, aspectos culturais e/ou das tecnologias sociais (abrange as habilidades H13, H14, H15, H16).[9] [Ciências da Natureza | Competência de Área 4] **Métodos Científicos:** Entender métodos e procedimentos próprios das ciências naturais e aplicá-los em diferentes contextos (abrange as habilidades H17, H18, H19).[9][10] [Ciências da Natureza | Competência de Área 5] **Aplicações da Física:** Apropriar-se de conhecimentos da física para, em situações-problema, interpretar, avaliar ou planejar intervenções prático-existenciais (abrange as habilidades H20, H21, H22, H23).[10] [Ciências da Natureza | Competência de Área 6] **Aplicações da Química:** Apropriar-se de conhecimentos da química para, em situações-problema, interpretar, avaliar ou planejar intervenções prático-existenciais (abrange as habilidades H24, H25, H26, H27).[10] [Ciências da Natureza | Competência de Área 7] **Aplicações da Biologia:** Apropriar-se de conhecimentos da biologia para, em situações-problema, interpretar, avaliar ou planejar intervenções prático-existenciais (abrange H28 a H30; ex: H28 - Associar características adaptativas dos organismos com seu modo de vida ou distribuição geográfica).[10]
+
+**MATRIZ DE REFERÊNCIA - CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS** [Ciências Humanas | Competência de Área 1] **Cultura e Identidade:** Compreender os elementos culturais que constituem as identidades (abrange as habilidades H1, H2, H3, H4, H5).[10] [Ciências Humanas | Competência de Área 2] **Espaço e Territorialidade:** Compreender a organização do espaço e as transformações territoriais como produto das relações sociais e econômicas em escala local, regional ou mundial (abrange as habilidades H6, H7, H8, H9, H10).[10][11] [Ciências Humanas | Competência de Área 3] **Instituições Sociais e Políticas:** Compreender a produção e o papel histórico das instituições sociais, políticas e econômicas, associando-as aos diferentes grupos sociais e aos sujeitos históricos (abrange as habilidades H11, H12, H13, H14, H15).[11] [Ciências Humanas | Competência de Área 4] **Cidadania e Democracia:** Utilizar os conhecimentos históricos para compreender e valorizar os fundamentos da cidadania e da democracia, favorecendo uma atuação consciente do indivíduo na sociedade (abrange as habilidades H16, H17, H18, H19, H20).[11] [Ciências Humanas | Competência de Área 5] **Cartografia e Representação Espacial:** Utilizar os conhecimentos cartográficos para a compreensão e representação do espaço geográfico (abrange as habilidades H21, H22, H23, H24, H25).[11] [Ciências Humanas | Competência de Área 6] **Sociedade e Natureza:** Compreender a sociedade, a natureza e as relações entre elas nas diferentes escalas (abrange as habilidades H26, H27, H28, H29, H30).[11]
+
+**ANEXO - OBJETOS DE CONHECIMENTO (CONTEÚDOS DETALHADOS)**
+
+*[Linguagens, Códigos e suas Tecnologias]* [Objeto de Conhecimento | Linguagens] **Estudo do texto:** Sequências discursivas e os gêneros textuais no sistema de comunicação e informação.[12] [Objeto de Conhecimento | Linguagens] **Práticas corporais:** A linguagem corporal como integradora social e formadora de identidade (práticas corporais e autonomia, o esporte e as lutas).[12] [Objeto de Conhecimento | Linguagens] **Textos artísticos:** Produção e recepção de textos artísticos, interpretação e representação do mundo para o fortalecimento dos processos de identidade e cidadania da comunidade.[12] [Objeto de Conhecimento | Linguagens] **Texto literário:** Relações entre produção literária e processo social, concepções artísticas, procedimentos de construção e recepção de textos no patrimônio literário nacional.[12][13] [Objeto de Conhecimento | Linguagens] **Aspectos linguísticos em diferentes textos:** Recursos expressivos da língua, procedimentos de construção e recepção de textos.[13] [Objeto de Conhecimento | Linguagens] **Texto argumentativo:** Tipos, gêneros e recursos de argumentação e seus usos em língua portuguesa.[13] [Objeto de Conhecimento | Linguagens] **Usos da língua portuguesa:** Norma culta e variação linguística.[13] [Objeto de Conhecimento | Linguagens] **Gêneros digitais:** Tecnologia da comunicação e informação, seu impacto e função social.[13]
+
+*[Matemática e suas Tecnologias]* [Objeto de Conhecimento | Matemática] **Conhecimentos numéricos:** Operações, razões, proporções e técnicas de contagem.[13][14] [Objeto de Conhecimento | Matemática] **Conhecimentos geométricos:** Grandezas, unidades de medida, escalas, comprimentos, áreas, volumes, ângulos, Teorema de Tales e trigonometria do ângulo agudo.[14] [Objeto de Conhecimento | Matemática] **Estatística e probabilidade:** Análise de dados, desvios e variância.[14] [Objeto de Conhecimento | Matemática] **Conhecimentos algébricos:** Equações, inequações e funções polinomiais, exponenciais e logarítmicas.[14] [Objeto de Conhecimento | Matemática] **Conhecimentos algébricos/geométricos:** Plano cartesiano e estudo de retas.[14]
+
+*[Ciências da Natureza - Física]* [Objeto de Conhecimento | Física] **Conhecimentos básicos:** Sistema Internacional de Unidades e física do mundo mensurável.[14] [Objeto de Conhecimento | Física] **Mecânica, movimento e equilíbrio:** Conceito de inércia, centro de massa, ideia de ponto material, conservação do impulso e hidrostática (aspectos históricos e variáveis relevantes).[14][15] [Objeto de Conhecimento | Física] **Energia, trabalho e potência:** Conceito de energia potencial e de energia cinética.[15] [Objeto de Conhecimento | Física] **Mecânica celeste:** A Mecânica e o funcionamento do Universo.[15] [Objeto de Conhecimento | Física] **Fenômenos elétricos e magnéticos:** Carga elétrica, corrente elétrica, campo elétrico, potencial elétrico, poder das pontas, blindagem, capacitores, circuitos elétricos simples, correntes contínua e alternada, campo magnético, ímãs permanentes e campo magnético terrestre.[15] [Objeto de Conhecimento | Física] **Oscilações, ondas, óptica e radiação:** Óptica geométrica (lentes e espelhos), instrumentos ópticos simples, fenômenos ondulatórios, pulsos e ondas.[16] [Objeto de Conhecimento | Física] **Calor e fenômenos térmicos:** Conceitos de calor e temperatura, comportamento de gases ideais, ciclo de Carnot e compreensão de fenômenos climáticos relacionados ao ciclo da água.[16]
+
+*[Ciências da Natureza - Química]* [Objeto de Conhecimento | Química] **Transformações químicas:** Teoria cinética dos gases, modelo de Rutherford-Bohr e estrutura do átomo.[16] [Objeto de Conhecimento | Química] **Representação das transformações:** Grandezas químicas (massa, volume, mol, massa molar e constante de Avogadro).[16] [Objeto de Conhecimento | Química] **Materiais e propriedades:** Propriedades dos materiais, elementos de relevância química (C, H, O, N, Cl) e polaridade de moléculas.[17] [Objeto de Conhecimento | Química] **Estudo da água:** Propriedades, tratamento e nomenclatura de compostos aquosos.[17] [Objeto de Conhecimento | Química] **Transformações químicas e energia:** Funcionamento de pilhas e conceitos fundamentais da radioatividade.[17] [Objeto de Conhecimento | Química] **Dinâmica e equilíbrio químico:** Velocidade de reação, catalisadores e conceitos de equilíbrio químico.[17] [Objeto de Conhecimento | Química] **Compostos de carbono:** Características gerais dos compostos orgânicos, borracha natural e sintética, proteínas e enzimas.[17] [Objeto de Conhecimento | Química] **Aplicações tecnológicas e socioambientais:** Química no cotidiano, química nos alimentos, e produção de amônia e ácido nítrico.[17] [Objeto de Conhecimento | Química] **Energias químicas no cotidiano:** Petróleo, gás natural, carvão, biomassa e vantagens/desvantagens do uso de energia nuclear.[18]
+
+*[Ciências da Natureza - Biologia]* [Objeto de Conhecimento | Biologia] **Moléculas, células e tecidos:** Divisão celular, síntese proteica e principais tecidos animais e vegetais.[18] [Objeto de Conhecimento | Biologia] **Hereditariedade e genética:** Aspectos genéticos do funcionamento do corpo humano, antígenos, anticorpos e aconselhamento genético.[18] [Objeto de Conhecimento | Biologia] **Identidade dos seres vivos:** Vírus, procariontes, eucariontes, autótrofos, heterótrofos, seres unicelulares e pluricelulares, tipos de ciclo de vida, biotecnologia e sistemática.[18] [Objeto de Conhecimento | Biologia] **Ecologia e ciências ambientais.**[19] [Objeto de Conhecimento | Biologia] **Origem e evolução da vida.**[19] [Objeto de Conhecimento | Biologia] **Qualidade de vida das populações humanas.**[19]
+
+*[Ciências Humanas e suas Tecnologias]* [Objeto de Conhecimento | Humanas] **Diversidade cultural, conflitos e vida em sociedade:** Cultura material e imaterial (patrimônio e diversidade cultural no Brasil); A Conquista da América (conflitos entre europeus e indígenas); Escravidão e resistências indígena e africana; História dos povos africanos e indígenas na formação da sociedade brasileira; e Movimentos culturais no mundo ocidental.[19] [Objeto de Conhecimento | Humanas] **Organização social, pensamento político e Estado:** Cidadania e democracia na Antiguidade; Estado e direitos a partir da Idade Moderna; Democracia direta, indireta e representativa; Revoluções sociais/políticas na Europa Moderna; Formação territorial e regiões brasileiras; Políticas de reordenamento territorial; Lutas pela independência na América; Grupos sociais no Brasil Imperial; Pensamento liberal e seus críticos nos séculos XIX e XX; Migração e imigração no Brasil; Revoluções do século XX (Bolchevique, Chinesa, Cubana); Geopolítica, Imperialismo, Guerras Mundiais e Guerra Fria; Totalitarismos (nazifascismo, franquismo, salazarismo, stalinismo); Ditaduras na América Latina e Estado Novo; Reorganização internacional e conflitos pós-Guerra Fria; Direitos civis, humanos, políticos e sociais; Direitos sociais nas constituições e políticas afirmativas; Vida urbana, hierarquia nas cidades, pobreza e segregação espacial.[20] [Objeto de Conhecimento | Humanas] **Estruturas produtivas:** Organização da produção (escravismo antigo, feudalismo, capitalismo, socialismo); Economia agroexportadora brasileira (açúcar, mineração colonial, café e borracha na Amazônia); Revolução Industrial e o sistema de fábrica; Formação do espaço urbano-industrial; Fordismo, toyotismo e novas técnicas de produção; Industrialização, urbanização e transformações trabalhistas no Brasil; Globalização, novas tecnologias de telecomunicação e suas consequências econômicas, políticas e sociais.[22][23] [Objeto de Conhecimento | Humanas] **Espaços agrários:** Modernização da agricultura e estruturas agrárias tradicionais; Agronegócio, agricultura familiar, assalariados do campo e lutas sociais no campo; e a Relação campo-cidade.[24] [Objeto de Conhecimento | Humanas] **Meio ambiente e sociedade:** Relação homem-natureza e apropriação de recursos ao longo do tempo; Impactos ambientais no Brasil; Recursos hídricos; Unidades de conservação, parques ecológicos e zoneamento ecológico-econômico.[24] [Objeto de Conhecimento | Humanas] **Representação espacial:** Cartografia e leitura do espaço geográfico.[24]
+
+---
+
+# TAREFA
+Analise o JSON de uma questão fornecido abaixo e enriqueça-o. Você deve retornar um novo objeto JSON contendo todos os campos originais inalterados na raiz, adicionando os três novos campos descritos nas regras ao final do objeto.
+
+# CAMPOS A ADICIONAR
+1. `comentarios` (Array de Strings): Uma lista contendo exatamente 5 strings. Cada string deve ser um comentário didático e técnico explicando o porquê de a respectiva alternativa estar certa ou errada. A ordem das strings DEVE seguir rigorosamente a ordem das alternativas (A, B, C, D, E).
+   - Índice 0: Comentário da alternativa A
+   - Índice 1: Comentário da alternativa B
+   - Índice 2: Comentário da alternativa C
+   - Índice 3: Comentário da alternativa D
+   - Índice 4: Comentário da alternativa E
+2. `materias` (Array de Strings): Nome das matérias envolvidas na questão.
+3. `conteudos` (Array de Strings): Lista dos tópicos, matérias, palavras-chave e classificações curriculares abordadas na questão. Use a grade curricular/taxonomia prévia. Seja extensivo quanto à sua classificação.
+4. `dica` (String): Uma dica estratégica e reflexiva para guiar o raciocínio de um aluno que está "travado" na questão. A dica deve apontar o caminho do conceito, mas JAMAIS revelar a resposta correta ou qual é a alternativa gabarito.
+
+# RESTRIÇÕES DE SAÍDA
+- A saída deve ser APENAS o JSON válido e formatado.
+- NÃO inclua saudações, explicações, raciocínios ou texto introdutório.
+- NÃO envolva o JSON em blocos de código markdown (não use ```json ... ```). Retorne apenas a string JSON crua.
+- Mantenha todas as chaves originais do JSON de entrada.
+
+# JSON DE ENTRADA
+{0}"""

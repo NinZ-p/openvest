@@ -15,7 +15,7 @@ test_folder_path=program_path/"provas"
 test_paths=[Path(test_folder_path/x) for x in os.listdir(test_folder_path)]
 output_md_folder_path=program_path/"provas_markdown"
 
-print (f"Found {len(test_paths)} tests to process")
+print (f"Found {len(test_paths)} files to process")
 
 print ("Starting test conversion to MD")
 pipeline_options = PdfPipelineOptions()

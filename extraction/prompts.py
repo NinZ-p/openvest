@@ -55,10 +55,10 @@ O JSON deve ter exatamente esta estrutura:
 
 1. **Entrada com dois Markdowns**: a seção ENTRADA conterá dois arquivos/blocos Markdown, um da PROVA e um do GABARITO. Se não estiverem rotulados, identifique pelo conteúdo. O arquivo da PROVA contém questões, textos de apoio, imagens e alternativas. O arquivo do GABARITO contém apenas as respostas.
 2. **id**: extraia o nome e o ano da prova a partir do conteúdo da PROVA (cabeçalho, título ou contexto). Se não houver indicação explícita, use `null` e não invente.
-3. **gabarito**: objeto que mapeia cada `n_ex` à resposta correspondente no arquivo do GABARITO. Preserve o valor da resposta como aparece no gabarito (ex.: `"A"`, `"C"`, `"V"`, `"F"`, texto). Se o gabarito não trouxer resposta para um item, use `null` para esse identificador. Se não houver gabarito, use `{}`.
+3. **gabarito**: objeto que mapeia cada `n_ex` à resposta correspondente no arquivo do GABARITO. Utilize números 0 indexados (ex.: 0=a, 1=b, 2=c...).
 4. **n_ex**: preserve o identificador exatamente como aparece na PROVA (ex.: `"1-IN"`, `"1-ES"`, `"24"`, `"Questão 3"`). Se a prova não numerar um item, use `null`. Ao preencher `gabarito`, use os mesmos identificadores de `n_ex`; se o gabarito usar numeração diferente, faça a correspondência pelo conteúdo/ordem sem alterar o identificador original da prova.
-5. **enunciado**: concatene, na ordem original, todo o texto de apoio (textos-base, citações, gráficos descritos em texto, instruções) e o enunciado da questão. Preserve quebras de linha como `\n`. **Não inclua o texto das alternativas nem o texto do gabarito aqui.**
-6. **alternativas**: array de strings com o texto de cada alternativa, na ordem em que aparecem na PROVA. Remova apenas marcadores de enumeração redundantes (ex.: `A)`, `(B)`) quando já estiverem implícitos pela posição. Se a questão não tiver alternativas (ex.: discursiva), use `[]`.
+5. **enunciado**: concatene, na ordem original, todo o texto de apoio (textos-base, citações, gráficos descritos em texto, instruções) e o enunciado da questão. Preserve quebras de linha como `\n`. **Não inclua o texto das alternativas nem o texto do gabarito aqui. Altere o texto em caso de erros evidentes na conversão de PDF para Markdown.**
+6. **alternativas**: array de strings com o texto de cada alternativa, na ordem em que aparecem na PROVA. Remova marcadores de enumeração redundantes (ex.: `A)`, `(B)`).
 7. **Imagens**:
    - Se o Markdown da PROVA contiver imagens em qualquer sintaxe (`![alt](url)`, tags HTML `<img>`, links para arquivos de imagem), **inclua-as no campo correspondente** mantendo o Markdown original da imagem:
      - imagens no enunciado/texto de apoio → dentro de `"enunciado"`;
@@ -116,7 +116,7 @@ Analise o JSON de uma questão fornecido abaixo e enriqueça-o. Você deve retor
    - Índice 3: Comentário da alternativa D
    - Índice 4: Comentário da alternativa E
 2. `materias` (Array de Strings): Nome das matérias envolvidas na questão.
-3. `conteudos` (Array de Strings): Lista dos tópicos, matérias, palavras-chave e classificações curriculares abordadas na questão. Use a grade curricular/taxonomia prévia. Seja extensivo quanto à sua classificação.
+3. `conteudos` (Array de Strings): Lista dos tópicos, matérias, palavras-chave e classificações curriculares abordadas na questão. Use a grade curricular/taxonomia prévia e inclua também o que considerar coerente. Seja extensivo quanto à sua classificação.
 4. `dica` (String): Uma dica estratégica e reflexiva para guiar o raciocínio de um aluno que está "travado" na questão. A dica deve apontar o caminho do conceito, mas JAMAIS revelar a resposta correta ou qual é a alternativa gabarito.
 
 # RESTRIÇÕES DE SAÍDA

@@ -1,2 +1,3 @@
 extraction/.env
 extraction/__pycache__
+trash/*

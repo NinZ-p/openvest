@@ -25,55 +25,47 @@ system_prompt_json_commenting="""Você é um especialista em avaliação educaci
 6. Não inclua saudações, explicações, raciocínios, texto introdutório ou qualquer conteúdo fora do JSON.
 7. Não envolva o JSON em blocos de código markdown. Não use cercas de código. Retorne apenas a string JSON crua."""
 
-prompt_template_md2json="""Você receberá, na seção ENTRADA, dois arquivos Markdown: um contendo a PROVA e outro contendo o GABARITO. Sua tarefa é transformar esses dados em um único objeto JSON válido, sem qualquer texto adicional, explicação, comentário, tag, ferramenta, decorador ou markdown ao redor do JSON. Use o arquivo da PROVA para preencher `id` e `data`; use o arquivo do GABARITO exclusivamente para preencher o campo `gabarito`. Não misture o conteúdo do gabarito com enunciados ou alternativas.
+prompt_template_md2json="""Prompt alterado:
+
+Você receberá, na seção ENTRADA, dois arquivos Markdown: um contendo a PROVA e outro contendo o GABARITO. Sua tarefa é transformar esses dados em um único JSON válido, sem qualquer texto adicional, explicação, comentário, tag, ferramenta, decorador ou markdown ao redor do JSON. Use o arquivo da PROVA para preencher `id_prova`, `numero_exercicio`, `enunciado` e `alternativas`; use o arquivo do GABARITO exclusivamente para preencher o campo `gabarito`. Não misture o conteúdo do gabarito com enunciados ou alternativas.
 
 ## Formato de saída obrigatório
 
-O JSON deve ter exatamente esta estrutura:
+O JSON deve ser um array de objetos com exatamente esta estrutura:
 
-{
-  "id": "<nome e ano da prova, ex.: ENEM 2026>",
-  "gabarito": {
-    "<n_ex>": "<resposta do gabarito, ex.: A, C, ou texto>"
-  },
-  "data": [
-    {
-      "n_ex": "<identificador do exercício, ex.: "1-IN", "1-ES", "24">",
-      "enunciado": "<textos de apoio + enunciado da questão, preservando o conteúdo original>",
-      "alternativas": [
-        "<texto da alternativa A>",
-        "<texto da alternativa B>",
-        "<texto da alternativa C>",
-        "<texto da alternativa D>",
-        "<texto da alternativa E>"
-      ]
-    }
-  ]
-}
+[
+  {
+    "id_prova": "<nome e ano da prova, ex.: ENEM 2026>",
+    "numero_exercicio": "<identificador do exercício, ex.: \"1-IN\", \"1-ES\", \"24\">",
+    "enunciado": "<textos de apoio + enunciado da questão, preservando o conteúdo original>",
+    "alternativas": [
+      "<texto da alternativa A>",
+      "<texto da alternativa B>",
+      "<texto da alternativa C>",
+      "<texto da alternativa D>",
+      "<texto da alternativa E>"
+    ],
+    "gabarito": "<resposta correspondente no arquivo do GABARITO>"
+  }
+]
 
 ## Regras
 
 1. **Entrada com dois Markdowns**: a seção ENTRADA conterá dois arquivos/blocos Markdown, um da PROVA e um do GABARITO. Se não estiverem rotulados, identifique pelo conteúdo. O arquivo da PROVA contém questões, textos de apoio, imagens e alternativas. O arquivo do GABARITO contém apenas as respostas.
-2. **id**: extraia o nome e o ano da prova a partir do conteúdo da PROVA (cabeçalho, título ou contexto). Se não houver indicação explícita, use `null` e não invente.
-3. **gabarito**: objeto que mapeia cada `n_ex` à resposta correspondente no arquivo do GABARITO. Utilize números 0 indexados (ex.: 0=a, 1=b, 2=c...).
-4. **n_ex**: preserve o identificador exatamente como aparece na PROVA (ex.: `"1-IN"`, `"1-ES"`, `"24"`, `"Questão 3"`). Se a prova não numerar um item, use `null`. Ao preencher `gabarito`, use os mesmos identificadores de `n_ex`; se o gabarito usar numeração diferente, faça a correspondência pelo conteúdo/ordem sem alterar o identificador original da prova.
+2. **id_prova**: extraia o nome e o ano da prova a partir do conteúdo da PROVA (cabeçalho, título ou contexto). Se não houver indicação explícita, use `null` e não invente. Repita esse valor em todos os objetos do array.
+3. **gabarito**: preencha com a resposta correspondente no arquivo do GABARITO. Utilize o formato original do gabarito; se ele usar números 0 indexados, preserve essa convenção (ex.: 0=a, 1=b, 2=c...).
+4. **numero_exercicio**: preserve o identificador exatamente como aparece na PROVA (ex.: `"1-IN"`, `"1-ES"`, `"24"`, `"Questão 3"`). Se a prova não numerar um item, use `null`. Ao preencher `gabarito`, faça a correspondência pelo conteúdo/ordem quando a numeração do gabarito for diferente, sem alterar o identificador original da prova.
 5. **enunciado**: concatene, na ordem original, todo o texto de apoio (textos-base, citações, gráficos descritos em texto, instruções) e o enunciado da questão. Preserve quebras de linha como `\n`. **Não inclua o texto das alternativas nem o texto do gabarito aqui. Altere o texto em caso de erros evidentes na conversão de PDF para Markdown.**
-6. **alternativas**: array de strings com o texto de cada alternativa, na ordem em que aparecem na PROVA. Remova marcadores de enumeração redundantes (ex.: `A)`, `(B)`).
+6. **alternativas**: array de strings com o texto de cada alternativa, na ordem em que aparecem na PROVA. Remova marcadores de enumeração redundantes (ex.: `A)`, `(B)`). Se não houver alternativas, use `[]`.
 7. **Imagens**:
    - Se o Markdown da PROVA contiver imagens em qualquer sintaxe (`![alt](url)`, tags HTML `<img>`, links para arquivos de imagem), **inclua-as no campo correspondente** mantendo o Markdown original da imagem:
      - imagens no enunciado/texto de apoio → dentro de `"enunciado"`;
      - imagens dentro de uma alternativa → dentro da string daquela alternativa em `"alternativas"`.
    - Preserve a URL/caminho exatamente como veio. Se houver apenas texto alternativo (`alt`), preserve-o como `![alt]()`.
    - Não descreva imagens; não gere URLs novas; não omita imagens.
-8. **Ordem**: as questões em `data` devem respeitar a ordem em que aparecem na PROVA.
+8. **Ordem**: os objetos do array devem respeitar a ordem em que as questões aparecem na PROVA.
 9. **Fidelidade**: não corrija, resuma, traduza nem reescreva o conteúdo. Corrija apenas artefatos óbvios de conversão automática (ex.: `\*` escapado indevidamente) quando isso não alterar o sentido.
-10. **Saída**: retorne **somente** o JSON válido (UTF-8, sem vírgula final, sem comentários). Nada antes, nada depois. Não use blocos de código cercados por ```.
-
-## Entrada
-
-"""
-
-
+10. **Saída**: retorne **somente** o JSON válido (UTF-8, array de objetos, sem vírgula final, sem comentários). Nada antes, nada depois. Não use blocos de código cercados por ```."""
 
 prompt_template_question_enrichment="""A seguir se encontra a matriz de referência e eixos cognitivos do ENEM.
 

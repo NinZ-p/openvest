@@ -1,4 +1,4 @@
-# openvest
+# Openvest
 ## Projeto
 Este repositório contém:
 - [X] Uma série de scripts em /extraction/ que convertem os PDFs de provas em MDs e então em JSONs, que em seguida têm as resoluções comentadas por IA e por fim são unidos em um banco de dados de vetores semânticos.

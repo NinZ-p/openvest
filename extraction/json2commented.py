@@ -7,7 +7,7 @@ import os
 
 print ("Loaded modules")
 
-MODEL_NAME="openrouter/free"
+MODEL_NAME="deepseek-flash"
 
 program_path=Path(os.path.dirname(os.path.realpath(os.path.abspath(__file__))))
 json_folder_path=program_path/"provas_json"
@@ -19,8 +19,8 @@ print (f"Found {len(md_paths)} files to process")
 print ("Starting test commenting")
 
 client = OpenAI(
-    api_key=os.environ["OPENROUTER_API_KEY"],
-    base_url="https://openrouter.ai/api/v1",
+    api_key=os.environ["DEEPSEEK_API_KEY"],
+    base_url="https://api.deepseek.com",
 )
 
 for json_path in json_paths:

@@ -33,6 +33,9 @@ for p in image_paths:
 #Create json monolith
 
 def preprocess_image_refs(ref):
+
+#REVISAR ISSO: CONSIDERE QUE DÁ PA VE OS BAGUI DE MARKDOWN NO DIOXUS
+
     #Add selective image extraction from md to separate folder
     md_img_regex=r"^!\[([\w\d\s']+)\]\(([\w\d\-\.\/]+)\)"
 

@@ -1,3 +1,26 @@
+pdf2md_prompt="""A imagem fornecida é uma página de uma prova do ENEM. Converta integralmente essa página para Markdown, incluindo textos, tabelas e fórmulas diretamente no Markdown, sem pular nenhuma questão ou trecho da imagem. Para cada questão que tiver figura, insira uma referência de imagem no local correspondente usando a sintaxe Markdown `![descrição da figura](path_da_imagem.png)`, em que o texto alternativo deve conter uma descrição breve e objetiva do conteúdo visual da figura, e `path_da_imagem.png` é o path correspondente fornecido posteriormente. Não utilize URLs. Não transcreva, descreva nem recrie as figuras no corpo do Markdown; a descrição do conteúdo visual deve aparecer apenas no texto alternativo da referência de imagem.
+
+A lista de paths abaixo contém os caminhos das imagens extraídas da página do PDF na ordem de leitura em que as figuras aparecem na página. Associe o primeiro path à primeira figura referenciada, o segundo path à segunda figura referenciada, e assim por diante. Se houver imagens em alternativas, preserve a ordem original de leitura/vertical da página; não reordene as alternativas nem as imagens e não aplique ordens arbitrárias.
+
+As alternativas devem ser uma lista Markdown com as letras em negrito, uma por linha consecutiva, no formato:
+- **A**
+- **B**
+- **C**
+- **D**
+- **E**
+
+Use LaTeX para fórmulas: `$...$` para fórmulas inline e `$$...$$` para fórmulas em bloco. Não adicione conteúdo semântico; adicione apenas a sintaxe Markdown, as referências de imagem exigidas e o texto alternativo descritivo. Não altere nem adicione conteúdo além disso.
+
+Padrões de formatação:
+- Questões devem ser formatadas como cabeçalhos Markdown em maiúsculas, no formato `# QUESTÃO 91`, `# QUESTÃO 92`, etc.
+- Não inclua números de página, cabeçalhos de página, rodapés ou quaisquer marcações de paginação.
+- Textos corridos devem ser formatados como citação Markdown usando `>` no início de cada parágrafo, preservando a estrutura original. Exemplo:
+  > A pesquisadora foi laureada com o World Food Prize. Sua pesquisa usa bactérias que formam nódulos nas raízes.
+
+Responda apenas com o Markdown final, sem nada antes ou depois — sem texto, comentários ou marcações extras.
+
+Lista de Paths das imagens extraídas da página do PDF: {0}."""
+
 system_prompt_md2json="""Você é um conversor especializado de provas em Markdown para JSON. Sua única tarefa é aplicar exatamente a especificação fornecida na mensagem do usuário. A mensagem do usuário é a autoridade máxima sobre esquema, campos, regras de extração e formato.
 
 Produza somente um objeto JSON válido, em UTF-8, sem texto antes ou depois, sem comentários, sem cercas de código, sem explicações e sem usar ferramentas. Não invente dados; quando a especificação mandar usar null ou [], faça isso. Preserve fielmente textos, ordem, quebras de linha e sintaxe Markdown de imagens. Não inclua alternativas no enunciado nem altere o conteúdo, exceto artefatos óbvios de conversão automática conforme permitido.
@@ -17,7 +40,7 @@ system_prompt_json_commenting="""Você é um especialista em avaliação educaci
      - índice 3: alternativa D;
      - índice 4: alternativa E.
    - `materias`: array de strings com os nomes das matérias envolvidas na questão.
-   - `conteudos`: array de strings com tópicos, matérias, palavras-chave e classificações curriculares abordadas na questão. Use a grade curricular/taxonomia da matriz de referência do ENEM fornecida no prompt do usuário. Seja extensivo na classificação.
+   - `conteudos`: array de strings com tópicos, matérias, palavras-chave e classificações curriculares abordadas na questão. Considere a grade curricular/taxonomia da matriz de referência do ENEM fornecida no prompt do usuário. Seja extensivo na classificação, melhor incluir mais classes do que menos.
    - `dica`: string com uma dica estratégica e reflexiva para orientar um aluno que está travado na questão. A dica deve apontar o caminho do conceito, mas jamais revelar a resposta correta ou qual é a alternativa gabarito.
 3. Use a matriz de referência, os eixos cognitivos e os objetos de conhecimento fornecidos no prompt do usuário como base para classificar matérias e conteúdos.
 4. Não altere, remova ou renomeie chaves originais.
@@ -25,9 +48,9 @@ system_prompt_json_commenting="""Você é um especialista em avaliação educaci
 6. Não inclua saudações, explicações, raciocínios, texto introdutório ou qualquer conteúdo fora do JSON.
 7. Não envolva o JSON em blocos de código markdown. Não use cercas de código. Retorne apenas a string JSON crua."""
 
-prompt_template_md2json="""Prompt alterado:
+prompt_template_md2json=r"""Prompt alterado:
 
-Você receberá, na seção ENTRADA, dois arquivos Markdown: um contendo a PROVA e outro contendo o GABARITO. Sua tarefa é transformar esses dados em um único JSON válido, sem qualquer texto adicional, explicação, comentário, tag, ferramenta, decorador ou markdown ao redor do JSON. Use o arquivo da PROVA para preencher `id_prova`, `numero_exercicio`, `enunciado` e `alternativas`; use o arquivo do GABARITO exclusivamente para preencher o campo `gabarito`. Não misture o conteúdo do gabarito com enunciados ou alternativas.
+Você receberá, na seção ENTRADA, dois arquivos Markdown: um contendo a PROVA e outro contendo o GABARITO. Sua tarefa é transformar esses dados em um único JSON válido, sem qualquer texto adicional, explicação, comentário, tag, ferramenta, decorador ou markdown ao redor do JSON. Use o arquivo da PROVA para preencher `id_prova`, `numero_exercicio`, `enunciado` e `alternativas`; use o arquivo do GABARITO exclusivamente para preencher o campo `gabarito`.
 
 ## Formato de saída obrigatório
 
@@ -35,7 +58,7 @@ O JSON deve ser um array de objetos com exatamente esta estrutura:
 
 [
   {
-    "id_prova": "<nome e ano da prova, ex.: ENEM 2026>",
+    "id_prova": "<nome e ano da prova, ex.: DIA 1 - ENEM 2022>",
     "numero_exercicio": "<identificador do exercício, ex.: \"1-IN\", \"1-ES\", \"24\">",
     "enunciado": "<textos de apoio + enunciado da questão, preservando o conteúdo original>",
     "alternativas": [
@@ -52,11 +75,11 @@ O JSON deve ser um array de objetos com exatamente esta estrutura:
 ## Regras
 
 1. **Entrada com dois Markdowns**: a seção ENTRADA conterá dois arquivos/blocos Markdown, um da PROVA e um do GABARITO. Se não estiverem rotulados, identifique pelo conteúdo. O arquivo da PROVA contém questões, textos de apoio, imagens e alternativas. O arquivo do GABARITO contém apenas as respostas.
-2. **id_prova**: extraia o nome e o ano da prova a partir do conteúdo da PROVA (cabeçalho, título ou contexto). Se não houver indicação explícita, use `null` e não invente. Repita esse valor em todos os objetos do array.
-3. **gabarito**: preencha com a resposta correspondente no arquivo do GABARITO. Utilize o formato original do gabarito; se ele usar números 0 indexados, preserve essa convenção (ex.: 0=a, 1=b, 2=c...).
-4. **numero_exercicio**: preserve o identificador exatamente como aparece na PROVA (ex.: `"1-IN"`, `"1-ES"`, `"24"`, `"Questão 3"`). Se a prova não numerar um item, use `null`. Ao preencher `gabarito`, faça a correspondência pelo conteúdo/ordem quando a numeração do gabarito for diferente, sem alterar o identificador original da prova.
-5. **enunciado**: concatene, na ordem original, todo o texto de apoio (textos-base, citações, gráficos descritos em texto, instruções) e o enunciado da questão. Preserve quebras de linha como `\n`. **Não inclua o texto das alternativas nem o texto do gabarito aqui. Altere o texto em caso de erros evidentes na conversão de PDF para Markdown.**
-6. **alternativas**: array de strings com o texto de cada alternativa, na ordem em que aparecem na PROVA. Remova marcadores de enumeração redundantes (ex.: `A)`, `(B)`). Se não houver alternativas, use `[]`.
+2. **id_prova**: extraia o nome e o ano da prova a partir do conteúdo da PROVA (cabeçalho, título ou contexto). Repita esse valor em todos os objetos do array.
+3. **numero_exercicio**: preserve o identificador exatamente como aparece na PROVA (ex.: `"1-IN"`, `"1-ES"`, `"24"`, `"Questão 3"`). Se a prova não numerar um item, use `null`. Ao preencher `gabarito`, faça a correspondência pelo conteúdo/ordem quando a numeração do gabarito for diferente, sem alterar o identificador original da prova.
+4. **enunciado**: concatene, na ordem original, todo o texto de apoio (textos-base, citações, gráficos descritos em texto, instruções) e o enunciado da questão. Preserve quebras de linha como `\n`. **Não inclua o texto das alternativas nem o texto do gabarito aqui. Altere o texto em caso de erros evidentes na conversão de PDF para Markdown.**
+5. **alternativas**: array de strings com o texto de cada alternativa, na ordem em que aparecem na PROVA. Remova marcadores de enumeração redundantes (ex.: `A)`, `(B)`). Se não houver alternativas, use `[]`.
+6. **gabarito**: preencha com a resposta correspondente no campo "gabarito". Utilize números 0 indexados (ex.: 0=a, 1=b, 2=c...).
 7. **Imagens**:
    - Se o Markdown da PROVA contiver imagens em qualquer sintaxe (`![alt](url)`, tags HTML `<img>`, links para arquivos de imagem), **inclua-as no campo correspondente** mantendo o Markdown original da imagem:
      - imagens no enunciado/texto de apoio → dentro de `"enunciado"`;
@@ -64,7 +87,7 @@ O JSON deve ser um array de objetos com exatamente esta estrutura:
    - Preserve a URL/caminho exatamente como veio. Se houver apenas texto alternativo (`alt`), preserve-o como `![alt]()`.
    - Não descreva imagens; não gere URLs novas; não omita imagens.
 8. **Ordem**: os objetos do array devem respeitar a ordem em que as questões aparecem na PROVA.
-9. **Fidelidade**: não corrija, resuma, traduza nem reescreva o conteúdo. Corrija apenas artefatos óbvios de conversão automática (ex.: `\*` escapado indevidamente) quando isso não alterar o sentido.
+9. **Fidelidade**: não corrija, resuma, traduza nem reescreva o conteúdo. Corrija apenas artefatos óbvios de conversão automática (ex.: `\*` escapado indevidamente) quando isso não alterar o sentido. Mantenha o markdown dos enunciados e alternativas.
 10. **Saída**: retorne **somente** o JSON válido (UTF-8, array de objetos, sem vírgula final, sem comentários). Nada antes, nada depois. Não use blocos de código cercados por ```."""
 
 prompt_template_question_enrichment="""A seguir se encontra a matriz de referência e eixos cognitivos do ENEM.
@@ -97,25 +120,57 @@ prompt_template_question_enrichment="""A seguir se encontra a matriz de referên
 
 ---
 
-# TAREFA
-Analise o JSON de uma questão fornecido abaixo e enriqueça-o. Você deve retornar um novo objeto JSON contendo todos os campos originais inalterados na raiz, adicionando os três novos campos descritos nas regras ao final do objeto.
+Analise o JSON de uma questão fornecido ao final e enriqueça-o. Retorne um novo objeto JSON contendo todos os campos originais inalterados na raiz e, ao final do objeto, os quatro novos campos descritos abaixo.
+
+# REGRAS DE IDENTIFICAÇÃO PADRONIZADA (VALIDAÇÃO CARACTERE A CARACTERE)
+
+Os campos `materias` e `conteudos` devem usar exclusivamente rótulos copiados literalmente da matriz de referência e dos objetos de conhecimento fornecidos no arquivo de referência. A validação será feita caractere a caractere. Qualquer diferença de acentuação, caixa, espaço interno, pontuação, barra, hífen, pipe, dois-pontos ou separador invalida o item.
+
+Regras específicas:
+
+1. `materias` deve conter apenas os rótulos exatos das áreas de conhecimento, quando aplicáveis:
+   - `Linguagens, Códigos e suas Tecnologias`
+   - `Matemática e suas Tecnologias`
+   - `Ciências da Natureza e suas Tecnologias`
+   - `Ciências Humanas e suas Tecnologias`
+
+2. `conteudos` deve conter apenas strings isoladas, copiadas exatamente da matriz de referência ou do anexo de objetos de conhecimento, sem concatenar rótulos e sem acrescentar texto explicativo. Use, quando aplicável:
+   - rótulos exatos de competência de área, sem os colchetes externos, no formato exato em que aparecem na matriz, por exemplo: `Linguagens | Competência de Área 1`; `Matemática | Competência de Área 2`; `Ciências da Natureza | Competência de Área 5`; `Ciências Humanas | Competência de Área 3`;
+   - títulos exatos dos objetos de conhecimento, copiando apenas o título em negrito antes dos dois-pontos, por exemplo: `Estudo do texto`; `Práticas corporais`; `Conhecimentos numéricos`; `Mecânica, movimento e equilíbrio`; `Diversidade cultural, conflitos e vida em sociedade`.
+
+3. Não inclua em `conteudos` o prefixo `Objeto de Conhecimento`, a área, os dois-pontos, a descrição após os dois-pontos, marcadores, numeração, parênteses explicativos ou qualquer comentário adicional.
+
+4. Não use sinônimos, traduções, abreviações, plurais, variações de caixa, correções ortográficas ou paráfrases. Não invente rótulos. Se não houver rótulo exato aplicável, não o inclua.
+
+5. Quando houver mais de um item aplicável em `materias` ou `conteudos`, ordene-os na ordem em que aparecem na matriz de referência fornecida. Não duplique itens.
+
+6. A área correspondente em `materias` deve constar sempre que um objeto de conhecimento ou competência de área for listado em `conteudos`.
 
 # CAMPOS A ADICIONAR
-1. `comentarios` (Array de Strings): Uma lista contendo exatamente 5 strings. Cada string deve ser um comentário didático e técnico explicando o porquê de a respectiva alternativa estar certa ou errada. A ordem das strings DEVE seguir rigorosamente a ordem das alternativas (A, B, C, D, E).
+
+1. `comentarios` (Array de Strings): Uma lista contendo exatamente 5 strings. Cada string deve ser um comentário didático e técnico explicando o porquê de a respectiva alternativa estar certa ou errada. A ordem das strings DEVE seguir rigorosamente a ordem das alternativas (A, B, C, D, E):
    - Índice 0: Comentário da alternativa A
    - Índice 1: Comentário da alternativa B
    - Índice 2: Comentário da alternativa C
    - Índice 3: Comentário da alternativa D
    - Índice 4: Comentário da alternativa E
-2. `materias` (Array de Strings): Nome das matérias envolvidas na questão.
-3. `conteudos` (Array de Strings): Lista dos tópicos, matérias, palavras-chave e classificações curriculares abordadas na questão. Use a grade curricular/taxonomia prévia e inclua também o que considerar coerente. Seja extensivo quanto à sua classificação.
+
+2. `materias` (Array de Strings): Nome das matérias envolvidas na questão, usando exclusivamente os rótulos exatos de área definidos nas regras de identificação padronizada.
+
+3. `conteudos` (Array de Strings): Lista dos tópicos, competências de área, objetos de conhecimento, palavras-chave e classificações curriculares abordadas na questão, usando exclusivamente rótulos literais definidos nas regras de identificação padronizada. Seja extensivo, criando rótulos novos ou compostos quando adequado (ex.: Eletrólise).
+
 4. `dica` (String): Uma dica estratégica e reflexiva para guiar o raciocínio de um aluno que está "travado" na questão. A dica deve apontar o caminho do conceito, mas JAMAIS revelar a resposta correta ou qual é a alternativa gabarito.
 
 # RESTRIÇÕES DE SAÍDA
+
 - A saída deve ser APENAS o JSON válido e formatado.
 - NÃO inclua saudações, explicações, raciocínios ou texto introdutório.
 - NÃO envolva o JSON em blocos de código markdown (não use ```json ... ```). Retorne apenas a string JSON crua.
-- Mantenha todas as chaves originais do JSON de entrada.
+- Mantenha todas as chaves originais do JSON de entrada inalteradas na raiz.
+- Adicione os quatro novos campos ao final do objeto JSON.
+- Garanta que `comentarios` tenha exatamente 5 strings na ordem A, B, C, D, E.
+- Garanta que `materias` e `conteudos` respeitem a validação caractere a caractere contra os rótulos da matriz de referência fornecida.
 
 # JSON DE ENTRADA
+
 {0}"""

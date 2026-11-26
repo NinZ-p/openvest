@@ -24,6 +24,8 @@ def extract_imgs_from_pdf(pdf_path,img_dir):
 
         images=page.get_images(full=True)
         img_count=0
+
+        #Extract images
         for image in images:
             xref = image[0]
             smask = image[1]
@@ -46,16 +48,18 @@ def extract_imgs_from_pdf(pdf_path,img_dir):
             y0,y1=int(y0/pheight*1000),int(y1/pheight*1000)
 
             img_name=f"pg{page_num}img{img_count}_x0_{x0}_y0_{y0}_x1_{x1}_y1_{y1}.{ext}"
-            try:
-                img.save(str(img_dir/img_name))
-            except:
-                pass
+            img.save(str(img_dir/img_name))
             img_count+=1
+        
+    doc.close()
 
 def convert_pdf2md(client,pdf_path,out_md_path,img_dir,temp_path):
     if os.path.exists(out_md_path):
         print (f"Found {out_md_path} already there. Skipping conversion.")
         return
+
+    if not os.path.exists(img_dir):
+        os.makedirs(img_dir)
 
     img_list=os.listdir(img_dir)
 
@@ -70,7 +74,10 @@ def convert_pdf2md(client,pdf_path,out_md_path,img_dir,temp_path):
         page_figure_list=list(filter(lambda x: f"pg{page_num}img" in x,img_list))
         print (f"Found {len(page_figure_list)} images in page")
         print (page_figure_list)
-        pix = page.get_pixmap()
+        zoom = 4
+        mat = pymupdf.Matrix(zoom, zoom)
+        pix = page.get_pixmap(matrix = mat)
+
         page_path=str(temp_path/f"{pdf_path.stem}_page_{page_num}.png")
         pix.save(page_path)
 
@@ -97,14 +104,20 @@ def convert_pdf2md(client,pdf_path,out_md_path,img_dir,temp_path):
                     ]
                 }
             ],
-            reasoning_effort="none"
+            reasoning_effort="none",
+            extra_body={
+                "detail": "high"
+            }
         )
+
 
         print ("Received response from chat model")
 
         processed_md=str(response.choices[0].message.content)
         print (f"Received response: {processed_md}")
         total_md+=processed_md
+        if total_md[-1]!="\n": total_md+="\n"
+        total_md+="\n"
     with open(out_md_path,"w", encoding="utf-8") as file_obj:
         file_obj.writelines(total_md)
 
@@ -120,10 +133,13 @@ print ("Starting test conversion to MD")
 
 #Extract images from PDF
 
-#for test_path in test_paths:
-#    extract_imgs_from_pdf(test_path,output_md_folder_path/f"{test_path.stem}_artifacts")
+"""
+for test_path in test_paths:
+    extract_imgs_from_pdf(test_path,output_md_folder_path/f"{test_path.stem}_artifacts")
+"""
 
 #Call VLM with PDF and prompt, saving result to corresponding file
+
 client = OpenAI(api_key=os.getenv("DEEPSEEK_API_KEY"), base_url="https://api.deepseek.com")
 
 for test_path in sorted(test_paths)[::-1]:

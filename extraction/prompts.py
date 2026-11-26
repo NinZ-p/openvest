@@ -1,25 +1,123 @@
-pdf2md_prompt="""A imagem fornecida é uma página de uma prova do ENEM. Converta integralmente essa página para Markdown, incluindo textos, tabelas e fórmulas diretamente no Markdown, sem pular nenhuma questão ou trecho da imagem. Para cada questão que tiver figura, insira uma referência de imagem no local correspondente usando a sintaxe Markdown `![descrição da figura](path_da_imagem.png)`, em que o texto alternativo deve conter uma descrição breve e objetiva do conteúdo visual da figura, e `path_da_imagem.png` é o path correspondente fornecido posteriormente. Não utilize URLs. Não transcreva, descreva nem recrie as figuras no corpo do Markdown; a descrição do conteúdo visual deve aparecer apenas no texto alternativo da referência de imagem.
+pdf2md_prompt="""Você é um sistema especializado em transcrição fiel de provas e documentos a partir de imagens.
 
-A lista de paths abaixo contém os caminhos das imagens extraídas da página do PDF na ordem de leitura em que as figuras aparecem na página. Associe o primeiro path à primeira figura referenciada, o segundo path à segunda figura referenciada, e assim por diante. Se houver imagens em alternativas, preserve a ordem original de leitura/vertical da página; não reordene as alternativas nem as imagens e não aplique ordens arbitrárias.
+Sua tarefa é converter integralmente a página de prova do ENEM fornecida como imagem para Markdown, preservando todo o conteúdo textual e sua estrutura original.
 
-As alternativas devem ser uma lista Markdown com as letras em negrito, uma por linha consecutiva, no formato:
-- **A**
-- **B**
-- **C**
-- **D**
-- **E**
+**A prioridade absoluta é a fidelidade à imagem.** Não resuma, interprete, corrija, reescreva, reorganize ou complete o conteúdo por conta própria.
 
-Use LaTeX para fórmulas: `$...$` para fórmulas inline e `$$...$$` para fórmulas em bloco. Não adicione conteúdo semântico; adicione apenas a sintaxe Markdown, as referências de imagem exigidas e o texto alternativo descritivo. Não altere nem adicione conteúdo além disso.
+### 1. Transcrição do conteúdo
 
-Padrões de formatação:
-- Questões devem ser formatadas como cabeçalhos Markdown em maiúsculas, no formato `# QUESTÃO 91`, `# QUESTÃO 92`, etc.
-- Não inclua números de página, cabeçalhos de página, rodapés ou quaisquer marcações de paginação.
-- Textos corridos devem ser formatados como citação Markdown usando `>` no início de cada parágrafo, preservando a estrutura original. Exemplo:
-  > A pesquisadora foi laureada com o World Food Prize. Sua pesquisa usa bactérias que formam nódulos nas raízes.
+- Transcreva integralmente todos os textos, enunciados, alternativas, tabelas, títulos, legendas textuais e fórmulas pertencentes à prova.
+- Preserve a ordem original de leitura da página, incluindo a disposição das questões e das alternativas.
+- Preserve exatamente a redação, a pontuação, a acentuação, as maiúsculas, os números, os símbolos e os valores apresentados.
+- Não corrija erros gramaticais ou tipográficos presentes no documento.
+- Não omita trechos por serem repetitivos, extensos ou aparentemente pouco relevantes.
+- Não acrescente informações, explicações, interpretações, resoluções ou respostas.
+- Não tente adivinhar palavras ou símbolos que não possam ser identificados. Quando um trecho estiver efetivamente ilegível, indique apenas `[ilegível]` no local correspondente.
 
-Responda apenas com o Markdown final, sem nada antes ou depois — sem texto, comentários ou marcações extras.
+### 2. Formatação das questões
 
-Lista de Paths das imagens extraídas da página do PDF: {0}."""
+Cada questão deve começar com um cabeçalho Markdown de primeiro nível, utilizando letras maiúsculas e o número original da questão:
+
+`# QUESTÃO 91`
+
+`# QUESTÃO 92`
+
+Continue conforme os números efetivamente identificados na imagem. Não invente ou renumere questões.
+
+Não inclua números de página, cabeçalhos de paginação, rodapés ou outras marcações editoriais que não façam parte do conteúdo da prova.
+
+Inclua indicações de áreas de conhecimento.
+
+### 3. Formatação dos textos
+
+Textos-base, excertos e demais parágrafos de leitura devem ser formatados como citações Markdown, utilizando `>` no início de cada parágrafo.
+
+Exemplo:
+
+> A pesquisadora foi laureada com o World Food Prize. Sua pesquisa usa bactérias que formam nódulos nas raízes.
+>
+> Essa descoberta contribuiu para o desenvolvimento de novas técnicas agrícolas.
+
+Mantenha os enunciados das perguntas e os comandos fora das citações, exceto quando fizerem parte do próprio texto-base.
+
+Preserve a estrutura dos parágrafos e as divisões de conteúdo existentes na imagem.
+
+### 4. Formatação das alternativas
+
+As alternativas devem ser representadas como uma lista Markdown, com a respectiva letra em negrito.
+
+Utilize exatamente esta estrutura, incluindo o texto integral de cada alternativa:
+
+- **A** Texto completo da alternativa.
+- **B** Texto completo da alternativa.
+- **C** Texto completo da alternativa.
+- **D** Texto completo da alternativa.
+- **E** Texto completo da alternativa.
+
+Regras adicionais:
+
+- Cada alternativa deve ocupar um item independente da lista.
+- Preserve integralmente o texto de cada alternativa.
+- Não omita alternativas, mesmo que sejam extensas.
+- Não invente alternativas que não estejam presentes na imagem.
+- Preserve a ordem original das letras.
+- Se uma alternativa contiver uma fórmula, tabela ou figura, insira o conteúdo correspondente dentro do próprio item da alternativa, na posição original.
+
+### 5. Formatação de fórmulas e tabelas
+
+Utilize LaTeX para representar expressões matemáticas, químicas e físicas:
+
+- Fórmulas inline: `$...$`
+- Fórmulas em bloco: `$$...$$`
+
+Preserve todos os valores, índices, expoentes, sinais, unidades e símbolos.
+
+Converta tabelas para tabelas Markdown, preservando sua organização em linhas e colunas, os cabeçalhos e todos os valores.
+
+Não substitua tabelas ou fórmulas por imagens.
+
+### 6. Tratamento e associação das imagens
+
+As figuras presentes na página devem ser representadas exclusivamente por referências Markdown de imagem, utilizando a seguinte sintaxe:
+
+`![descrição objetiva e detalhada](path_da_imagem.png)`
+
+A descrição no texto alternativo deve identificar `detalhada`mente o conteúdo visual da figura, porém sem interpretações ou informações que não sejam diretamente observáveis.
+
+**Regras obrigatórias:**
+
+1. Não transcreva, descreva ou recrie figuras no corpo do Markdown. A descrição visual deve aparecer exclusivamente no texto alternativo da referência de imagem.
+2. Não utilize URLs. Utilize somente os caminhos fornecidos na lista de imagens.
+3. Preserve exatamente os paths recebidos, sem modificar, completar, normalizar ou substituir seus valores.
+4. Associe os paths às figuras estritamente na ordem de leitura fornecida pela lista.
+5. Nunca reutilize um path para representar outra figura.
+6. Não reordene figuras, alternativas ou referências de imagem.
+7. Figuras pertencentes às alternativas devem ser inseridas dentro do item correspondente, exatamente na posição em que aparecem na página.
+8. Não crie referências para figuras inexistentes nem associe um path a uma figura por suposição.
+
+A lista fornecida representa os caminhos das imagens extraídas do PDF e já está ordenada conforme a sequência de leitura original. Utilize essa sequência diretamente, sem tentar determinar outra ordenação. Estão também presentes códigos de barras, logos, entre outras imagens dentre os caminhos; lembre-se que caso o número de figuras na página for diferente dos listados, há imagens que não devem ser utilizadas, devendo ser ignoradas segundo sua posição descrita no nome de arquivo.
+
+### 7. Restrições de saída
+
+O resultado deve conter exclusivamente o Markdown correspondente à página da prova.
+
+Não inclua:
+
+- Introduções ou conclusões.
+- Explicações sobre o processo de transcrição.
+- Comentários ou observações.
+- Resumos ou interpretações.
+- Respostas das questões.
+- Blocos de código envolvendo o Markdown final.
+- Qualquer conteúdo que não esteja presente na página ou que não seja necessário à formatação Markdown e às referências de imagem exigidas.
+
+Antes de finalizar, confira se todos os textos, questões, alternativas, fórmulas, tabelas e figuras visíveis foram contemplados, se os paths foram associados sequencialmente e se a ordem original da página foi preservada.
+
+**Imagem fornecida:** página de uma prova do ENEM.
+
+**Lista de paths das imagens extraídas da página do PDF (em ordem de leitura):**
+
+{0}"""
 
 system_prompt_md2json="""Você é um conversor especializado de provas em Markdown para JSON. Sua única tarefa é aplicar exatamente a especificação fornecida na mensagem do usuário. A mensagem do usuário é a autoridade máxima sobre esquema, campos, regras de extração e formato.
 
@@ -48,47 +146,54 @@ system_prompt_json_commenting="""Você é um especialista em avaliação educaci
 6. Não inclua saudações, explicações, raciocínios, texto introdutório ou qualquer conteúdo fora do JSON.
 7. Não envolva o JSON em blocos de código markdown. Não use cercas de código. Retorne apenas a string JSON crua."""
 
-prompt_template_md2json=r"""Prompt alterado:
-
-Você receberá, na seção ENTRADA, dois arquivos Markdown: um contendo a PROVA e outro contendo o GABARITO. Sua tarefa é transformar esses dados em um único JSON válido, sem qualquer texto adicional, explicação, comentário, tag, ferramenta, decorador ou markdown ao redor do JSON. Use o arquivo da PROVA para preencher `id_prova`, `numero_exercicio`, `enunciado` e `alternativas`; use o arquivo do GABARITO exclusivamente para preencher o campo `gabarito`.
+prompt_template_md2json=r"""Você receberá, dois arquivos Markdown: um contendo a PROVA e outro contendo o GABARITO. Sua tarefa é transformar esses dados em um único JSON válido, sem qualquer texto adicional, explicação, comentário, tag, ferramenta, decorador ou markdown ao redor do JSON. Use o arquivo da PROVA para preencher `id_prova`, `numero_exercicio`, `enunciado` e `alternativas`; use o arquivo do GABARITO exclusivamente para preencher o campo `gabarito`.
 
 ## Formato de saída obrigatório
 
-O JSON deve ser um array de objetos com exatamente esta estrutura:
+O JSON deve ser um objeto com exatamente esta estrutura:
 
-[
-  {
-    "id_prova": "<nome e ano da prova, ex.: DIA 1 - ENEM 2022>",
-    "numero_exercicio": "<identificador do exercício, ex.: \"1-IN\", \"1-ES\", \"24\">",
-    "enunciado": "<textos de apoio + enunciado da questão, preservando o conteúdo original>",
-    "alternativas": [
-      "<texto da alternativa A>",
-      "<texto da alternativa B>",
-      "<texto da alternativa C>",
-      "<texto da alternativa D>",
-      "<texto da alternativa E>"
-    ],
-    "gabarito": "<resposta correspondente no arquivo do GABARITO>"
-  }
-]
+{
+  "id_prova": "<nome e ano da prova, ex.: DIA 1 - ENEM 2022 - Caderno Azul>",
+  "numero_exercicio": "<identificador do exercício, ex.: 1,2,3,...,180",
+  "enunciado": "<textos de apoio + enunciado da questão, preservando o conteúdo original>",
+  "alternativas": [
+    "<texto da alternativa A>",
+    "<texto da alternativa B>",
+    "<texto da alternativa C>",
+    "<texto da alternativa D>",
+    "<texto da alternativa E>"
+  ],
+  "gabarito": "<resposta correspondente no arquivo do GABARITO>"
+}
 
 ## Regras
 
-1. **Entrada com dois Markdowns**: a seção ENTRADA conterá dois arquivos/blocos Markdown, um da PROVA e um do GABARITO. Se não estiverem rotulados, identifique pelo conteúdo. O arquivo da PROVA contém questões, textos de apoio, imagens e alternativas. O arquivo do GABARITO contém apenas as respostas.
-2. **id_prova**: extraia o nome e o ano da prova a partir do conteúdo da PROVA (cabeçalho, título ou contexto). Repita esse valor em todos os objetos do array.
-3. **numero_exercicio**: preserve o identificador exatamente como aparece na PROVA (ex.: `"1-IN"`, `"1-ES"`, `"24"`, `"Questão 3"`). Se a prova não numerar um item, use `null`. Ao preencher `gabarito`, faça a correspondência pelo conteúdo/ordem quando a numeração do gabarito for diferente, sem alterar o identificador original da prova.
+1. **Entrada com dois Markdowns**: serão fornecidos dois arquivos/blocos Markdown, um da PROVA e um do GABARITO. Se não estiverem rotulados, identifique pelo conteúdo. O arquivo da PROVA contém questões, textos de apoio, imagens e alternativas. O arquivo do GABARITO contém apenas as respostas.
+2. **id_prova**: extraia o nome e o ano da prova a partir do conteúdo da PROVA (cabeçalho, título ou contexto). Não utilize o nome do arquivo, mas sim o dia, prova, ano e caderno.
+3. **numero_exercicio**: Identifique o exercício com um número. Se a prova não numerar um item, use `null`.
 4. **enunciado**: concatene, na ordem original, todo o texto de apoio (textos-base, citações, gráficos descritos em texto, instruções) e o enunciado da questão. Preserve quebras de linha como `\n`. **Não inclua o texto das alternativas nem o texto do gabarito aqui. Altere o texto em caso de erros evidentes na conversão de PDF para Markdown.**
 5. **alternativas**: array de strings com o texto de cada alternativa, na ordem em que aparecem na PROVA. Remova marcadores de enumeração redundantes (ex.: `A)`, `(B)`). Se não houver alternativas, use `[]`.
-6. **gabarito**: preencha com a resposta correspondente no campo "gabarito". Utilize números 0 indexados (ex.: 0=a, 1=b, 2=c...).
+6. **gabarito**: preencha com a resposta correspondente no campo "gabarito". Utilize números 0 indexados (ex.: 0=a, 1=b, 2=c...). Caso a questão for anulada, retorne -1.
 7. **Imagens**:
    - Se o Markdown da PROVA contiver imagens em qualquer sintaxe (`![alt](url)`, tags HTML `<img>`, links para arquivos de imagem), **inclua-as no campo correspondente** mantendo o Markdown original da imagem:
      - imagens no enunciado/texto de apoio → dentro de `"enunciado"`;
      - imagens dentro de uma alternativa → dentro da string daquela alternativa em `"alternativas"`.
    - Preserve a URL/caminho exatamente como veio. Se houver apenas texto alternativo (`alt`), preserve-o como `![alt]()`.
    - Não descreva imagens; não gere URLs novas; não omita imagens.
-8. **Ordem**: os objetos do array devem respeitar a ordem em que as questões aparecem na PROVA.
-9. **Fidelidade**: não corrija, resuma, traduza nem reescreva o conteúdo. Corrija apenas artefatos óbvios de conversão automática (ex.: `\*` escapado indevidamente) quando isso não alterar o sentido. Mantenha o markdown dos enunciados e alternativas.
-10. **Saída**: retorne **somente** o JSON válido (UTF-8, array de objetos, sem vírgula final, sem comentários). Nada antes, nada depois. Não use blocos de código cercados por ```."""
+8. **Fidelidade**: não corrija, resuma, traduza nem reescreva o conteúdo. Mantenha o markdown dos enunciados e alternativas, sem remover suas formatações, seja de **negrito**, > blockquote, etc.
+9. **Saída**: retorne **somente** o JSON válido (UTF-8, array de objetos, sem vírgula final, sem comentários). Nada antes, nada depois. Não use blocos de código cercados por ```.
+
+## Nome do arquivo de prova
+
+{0}
+
+## GABARITO
+
+{1}
+
+## PROVA
+
+{2}"""
 
 prompt_template_question_enrichment="""A seguir se encontra a matriz de referência e eixos cognitivos do ENEM.
 
@@ -124,7 +229,7 @@ Analise o JSON de uma questão fornecido ao final e enriqueça-o. Retorne um nov
 
 # REGRAS DE IDENTIFICAÇÃO PADRONIZADA (VALIDAÇÃO CARACTERE A CARACTERE)
 
-Os campos `materias` e `conteudos` devem usar exclusivamente rótulos copiados literalmente da matriz de referência e dos objetos de conhecimento fornecidos no arquivo de referência. A validação será feita caractere a caractere. Qualquer diferença de acentuação, caixa, espaço interno, pontuação, barra, hífen, pipe, dois-pontos ou separador invalida o item.
+Os campos `materias` e `conteudos` devem usar rótulos copiados literalmente da matriz de referência e dos objetos de conhecimento fornecidos no arquivo de referência. A validação será feita caractere a caractere. Qualquer diferença de acentuação, caixa, espaço interno, pontuação, barra, hífen, pipe, dois-pontos ou separador invalida o item. Conteúdos específicos não serão validados.
 
 Regras específicas:
 
@@ -134,9 +239,10 @@ Regras específicas:
    - `Ciências da Natureza e suas Tecnologias`
    - `Ciências Humanas e suas Tecnologias`
 
-2. `conteudos` deve conter apenas strings isoladas, copiadas exatamente da matriz de referência ou do anexo de objetos de conhecimento, sem concatenar rótulos e sem acrescentar texto explicativo. Use, quando aplicável:
+2. `conteudos` deve conter strings isoladas, copiadas exatamente da matriz de referência ou do anexo de objetos de conhecimento, sem concatenar rótulos e sem acrescentar texto explicativo. Quando aplicável, devem ser adicionados os nomes de conteúdos específicos da questão. Use:
    - rótulos exatos de competência de área, sem os colchetes externos, no formato exato em que aparecem na matriz, por exemplo: `Linguagens | Competência de Área 1`; `Matemática | Competência de Área 2`; `Ciências da Natureza | Competência de Área 5`; `Ciências Humanas | Competência de Área 3`;
    - títulos exatos dos objetos de conhecimento, copiando apenas o título em negrito antes dos dois-pontos, por exemplo: `Estudo do texto`; `Práticas corporais`; `Conhecimentos numéricos`; `Mecânica, movimento e equilíbrio`; `Diversidade cultural, conflitos e vida em sociedade`.
+   - nomes de conteúdos específicos não listados na matriz, por exemplo: `História de Porto Rico`; `Feminismo na Primeira República`.
 
 3. Não inclua em `conteudos` o prefixo `Objeto de Conhecimento`, a área, os dois-pontos, a descrição após os dois-pontos, marcadores, numeração, parênteses explicativos ou qualquer comentário adicional.
 

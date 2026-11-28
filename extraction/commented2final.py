@@ -491,17 +491,20 @@ for current_json_file_path in commented_json_folder_paths:
     
     for question in parsed_json_content:
         str_numero_exercicio=question["numero_exercicio"]
-        if str_numero_exercicio.isdecimal():
-            numero_exercicio=int(str_numero_exercicio)
-        else:
-            str_red_numero_exercicio=""
-            for c in str_numero_exercicio:
-                if c.isdecimal(): str_red_numero_exercicio+=c
-            
-            if str_red_numero_exercicio.isdecimal():
-                numero_exercicio=int(str_red_numero_exercicio)
+        if type(str_numero_exercicio)==str:
+            if str_numero_exercicio.isdecimal():
+                numero_exercicio=int(str_numero_exercicio)
             else:
-                raise RuntimeError
+                str_red_numero_exercicio=""
+                for c in str_numero_exercicio:
+                    if c.isdecimal(): str_red_numero_exercicio+=c
+                
+                if str_red_numero_exercicio.isdecimal():
+                    numero_exercicio=int(str_red_numero_exercicio)
+                else:
+                    raise RuntimeError
+        else:
+            numero_exercicio=str_numero_exercicio
         
         question["numero_exercicio"]=numero_exercicio
 
@@ -522,10 +525,10 @@ for current_json_file_path in commented_json_folder_paths:
         enunciado=question["enunciado"]
         original_image_paths = markdown_image_pattern.findall(enunciado)
         for original_image_path in original_image_paths:
-            prs_original_image_path=current_images_folder/original_image_path
-            new_image_name=f"tstast_img{image_count}{prs_original_image_path.suffix}"
-            enunciado.replace(original_image_path,new_image_name)
-            prs_original_image_path.copy(final_folder_path/new_image_name)
+            prs_original_image_path=original_image_path
+            new_image_name=f"tstast_img{image_count}{Path(prs_original_image_path).suffix}"
+            enunciado=enunciado.replace(original_image_path,new_image_name)
+            (current_images_folder/prs_original_image_path).copy(final_folder_path/new_image_name)
             image_count+=1
         question["enunciado"]=enunciado
         
@@ -533,10 +536,10 @@ for current_json_file_path in commented_json_folder_paths:
         for i in range(len(alternativas)):
             original_image_paths = markdown_image_pattern.findall(alternativas[i])
             for original_image_path in original_image_paths:
-                prs_original_image_path=current_images_folder/original_image_path
-                new_image_name=f"tstast_img{image_count}{prs_original_image_path.suffix}"
-                alternativas[i].replace(original_image_path,new_image_name)
-                prs_original_image_path.copy(final_folder_path/new_image_name)
+                prs_original_image_path=original_image_path
+                new_image_name=f"tstast_img{image_count}{Path(prs_original_image_path).suffix}"
+                alternativas[i]=alternativas[i].replace(original_image_path,new_image_name)
+                (current_images_folder/prs_original_image_path).copy(final_folder_path/new_image_name)
                 image_count+=1
         question["alternativas"]=alternativas
 

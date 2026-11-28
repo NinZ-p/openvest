@@ -29,7 +29,7 @@ client = OpenAI(
 
 class ResponseSchema(BaseModel):
     id_prova: str
-    numero_exercicio: str # Alterar isso para int na segunda run
+    numero_exercicio: int
     enunciado: str
     alternativas:  list[str] = Field(min_length=5, max_length=5)
     gabarito: Literal[-1, 0, 1, 2, 3, 4]
@@ -54,14 +54,20 @@ for json_path in json_paths:
                 prompt=prompt_template_question_enrichment.replace("{0}",json.dumps(question))
 
                 print (f"Sending question {idx+1}/{len(questions)} to model.")
-                response = client.responses.parse(
-                    model=MODEL_NAME,
-                    instructions=system_prompt_json_commenting,
-                    input=prompt,
-                    max_output_tokens=2**17,
-                    text_format=ResponseSchema,
-                    reasoning={"effort": "none"}
-                )
+                
+                for trcnt in range(4):
+                    try:
+                        response = client.responses.parse(
+                            model=MODEL_NAME,
+                            instructions=system_prompt_json_commenting,
+                            input=prompt,
+                            max_output_tokens=2**17,
+                            text_format=ResponseSchema,
+                            reasoning={"effort": "none"}
+                        )
+                        break
+                    except:
+                        pass
 
                 json_contents_str=response.output_text
                 json_contents=json.loads(json_contents_str)

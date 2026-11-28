@@ -44,7 +44,7 @@ Na tirinha de Mauricio de Sousa, os personagens Cebolinha e Cascão fazem uma br
 
 ![Ilustração de uma tirinha de Mauricio de Sousa. Do lado esquerdo, o personagem Cebolinha, usando camiseta verde e shorts pretos, segura uma lata próxima à boca. Do lado direito, o personagem Cascão, usando camiseta amarela e shorts vermelhos, segura uma lata próxima ao ouvido. Uma linha representa o barbante esticado conectando as duas latas. O fundo é dividido em uma faixa rosa superior e uma faixa verde inferior.](pg1img0_x0_102_y0_189_x1_897_y1_334.jpeg)
 
-SOUSA, M. Disponível em: www.monica.com.br. Acesso em: 2 out. 2012 (adaptado).
+>SOUSA, M. Disponível em: www.monica.com.br. Acesso em: 2 out. 2012 (adaptado).
 
 Na prática, à medida que se aumenta o comprimento do barbante, ocorre a redução de qual característica da onda sonora?
 
@@ -96,7 +96,7 @@ O quadro apresenta os valores de eletronegatividade desses cinco elementos metá
 | Zn | 1,65 |
 | Fe | 1,83 |
 
-MICHALOVIC, M. Ancient Soil Chemists of the Amazon. ChemMatters, fev. 2009 (adaptado).
+>MICHALOVIC, M. Ancient Soil Chemists of the Amazon. ChemMatters, fev. 2009 (adaptado).
 
 O cátion que resultará em uma interação de maior caráter iônico com o ânion carboxilato será aquele proveniente do elemento
 
@@ -140,8 +140,8 @@ Entre esses compostos, aquele que conferirá maior desempenho como combustível 
 
 # QUESTÃO 97
 
-De acordo com a Constituição Federal, é competência dos municípios o gerenciamento dos serviços de limpeza e coleta dos resíduos urbanos (lixo). No entanto, há relatos de que parte desse lixo acaba sendo incinerado, liberando substâncias tóxicas para o ambiente e causando acidentes por explosões, principalmente quando ocorre a incineração de frascos de aerossóis (por exemplo: desodorantes, inseticidas e repelentes). A temperatura elevada provoca a vaporização de todo o conteúdo dentro desse tipo de frasco, aumentando a pressão em seu interior até culminar na explosão da embalagem.
-
+>De acordo com a Constituição Federal, é competência dos municípios o gerenciamento dos serviços de limpeza e coleta dos resíduos urbanos (lixo). No entanto, há relatos de que parte desse lixo acaba sendo incinerado, liberando substâncias tóxicas para o ambiente e causando acidentes por explosões, principalmente quando ocorre a incineração de frascos de aerossóis (por exemplo: desodorantes, inseticidas e repelentes). A temperatura elevada provoca a vaporização de todo o conteúdo dentro desse tipo de frasco, aumentando a pressão em seu interior até culminar na explosão da embalagem.
+>
 > ZVEIBIL, V. Z. et al. Cartilha de limpeza urbana. Disponível em: www.ibam.org.br. Acesso em: 6 jul. 2015 (adaptado).
 
 Suponha um frasco metálico de um aerossol de capacidade igual a 100 mL, contendo 0,1 mol de produtos gasosos à temperatura de 650 °C, no momento da explosão.
@@ -172,9 +172,9 @@ Em relação à situação em que todas as lâmpadas funcionam, após a queima d
 
 # QUESTÃO 99
 
-A tecnologia de vacinas de RNA mensageiro (RNAm) é investigada há anos. Avanços científicos em genética molecular permitiram desenvolver uma vacina para controle da pandemia da covid-19 causada pelo vírus de RNA SARS-CoV-2. A vacina de RNAm tem sequências de genes do vírus. Entretanto, por ser muito instável, o RNAm deve ser recoberto por uma capa de lipídios que evita sua degradação e favorece sua ação. Dessa forma, o RNAm desempenhará sua função específica atuando no mesmo compartimento celular de sempre.
-
-Disponível em: https://sbim.org.br. Acesso em: 29 nov. 2021 (adaptado).
+>A tecnologia de vacinas de RNA mensageiro (RNAm) é investigada há anos. Avanços científicos em genética molecular permitiram desenvolver uma vacina para controle da pandemia da covid-19 causada pelo vírus de RNA SARS-CoV-2. A vacina de RNAm tem sequências de genes do vírus. Entretanto, por ser muito instável, o RNAm deve ser recoberto por uma capa de lipídios que evita sua degradação e favorece sua ação. Dessa forma, o RNAm desempenhará sua função específica atuando no mesmo compartimento celular de sempre.
+>
+>Disponível em: https://sbim.org.br. Acesso em: 29 nov. 2021 (adaptado).
 
 A imunização produzida por esse tipo de vacina é alcançada por meio da
 
@@ -238,9 +238,9 @@ A aceleração desse processo é causada por
 
 # QUESTÃO 104
 
-Há muito tempo são conhecidas espécies de lesmas-do-mar com uma capacidade ímpar: guardar parte da maquinaria das células das algas que consomem — os cloroplastos — e mantê-los funcionais dentro das suas próprias células, obtendo assim parte do seu alimento. Investigadores portugueses descobriram que essas lesmas-do-mar podem ser mais eficientes nesse processo do que as próprias algas que consomem.
-
-Disponível em: www.cienciahoje.pt. Acesso em: 10 fev. 2015 (adaptado).
+>Há muito tempo são conhecidas espécies de lesmas-do-mar com uma capacidade ímpar: guardar parte da maquinaria das células das algas que consomem — os cloroplastos — e mantê-los funcionais dentro das suas próprias células, obtendo assim parte do seu alimento. Investigadores portugueses descobriram que essas lesmas-do-mar podem ser mais eficientes nesse processo do que as próprias algas que consomem.
+>
+>Disponível em: www.cienciahoje.pt. Acesso em: 10 fev. 2015 (adaptado).
 
 Essa adaptação confere a esse organismo a capacidade de obter primariamente
 
@@ -287,8 +287,8 @@ A escolha que corresponde à combinação correta é
 
 # QUESTÃO 107
 
-Muitas mulheres sofrem com desconfortos nos dias que antecedem a menstruação, a chamada tensão pré-menstrual. Entre outros sintomas, podem ocorrer alterações de humor. Atualmente, acredita-se que os sintomas são resultado da queda na concentração do neurotransmissor serotonina, que, por sua vez, está relacionado com a diminuição na produção dos hormônios ovarianos estrogênio e progesterona, observada nessa fase do ciclo feminino.
-
+>Muitas mulheres sofrem com desconfortos nos dias que antecedem a menstruação, a chamada tensão pré-menstrual. Entre outros sintomas, podem ocorrer alterações de humor. Atualmente, acredita-se que os sintomas são resultado da queda na concentração do neurotransmissor serotonina, que, por sua vez, está relacionado com a diminuição na produção dos hormônios ovarianos estrogênio e progesterona, observada nessa fase do ciclo feminino.
+>
 > DIMMOCK, P. W. et al. Efficacy of Selective Serotonin-Reuptake Inhibitors in Premenstrual Syndrome: a Systematic Review. The Lancet, n. 9.236, 2000 (adaptado).
 
 A redução da produção desses hormônios nessa fase está relacionada com o(a)
@@ -325,8 +325,8 @@ Qual estrutura possibilitou a independência da água para a fecundação dos se
 
 # QUESTÃO 110
 
-O vidro contendo alumínio em sua composição é um excelente material para acondicionar medicamentos e suplementos, porque pode ser esterilizado por aquecimento. No entanto, quando o medicamento ou suplemento contém substâncias que se ligam fortemente ao íon desse metal, a dissolução do alumínio é promovida em função do deslocamento do equilíbrio químico estabelecido entre a espécie imobilizada no vidro e a espécie em solução. Por essa razão, recomenda-se que suplementos de nutrição de recém-nascidos contendo gluconato de cálcio sejam acondicionados em embalagens plásticas, e não nesse tipo de vidro.
-
+>O vidro contendo alumínio em sua composição é um excelente material para acondicionar medicamentos e suplementos, porque pode ser esterilizado por aquecimento. No entanto, quando o medicamento ou suplemento contém substâncias que se ligam fortemente ao íon desse metal, a dissolução do alumínio é promovida em função do deslocamento do equilíbrio químico estabelecido entre a espécie imobilizada no vidro e a espécie em solução. Por essa razão, recomenda-se que suplementos de nutrição de recém-nascidos contendo gluconato de cálcio sejam acondicionados em embalagens plásticas, e não nesse tipo de vidro.
+>
 > Atualização da recomendação da Sociedade Portuguesa de Neonatologia. Disponível em: www.sppneonatologia.pt. Acesso em: 22 out. 2021 (adaptado).
 
 Caso esse suplemento seja acondicionado em embalagem desse tipo de vidro, o risco de contaminação por alumínio será maior se o(a)
@@ -369,9 +369,9 @@ Qual modificação química na estrutura desse tensoativo tornaria um detergente
 
 **Avaliação de substâncias genotóxicas**
 
-O ensaio de micronúcleos é um teste de avaliação de genotoxicidade que associa a presença de micronúcleos (pequenos núcleos que aparecem próximo aos núcleos das células) com lesões genéticas. Os micronúcleos são fragmentos de DNA encapsulados, provenientes do fuso mitótico durante a divisão celular.
-
-DIAS, V. M. Micronúcleos em células tumorais: biologia e implicações para a tumorigênese. Dissertação de Mestrado. USP, 2006 (adaptado).
+>O ensaio de micronúcleos é um teste de avaliação de genotoxicidade que associa a presença de micronúcleos (pequenos núcleos que aparecem próximo aos núcleos das células) com lesões genéticas. Os micronúcleos são fragmentos de DNA encapsulados, provenientes do fuso mitótico durante a divisão celular.
+>
+>DIAS, V. M. Micronúcleos em células tumorais: biologia e implicações para a tumorigênese. Dissertação de Mestrado. USP, 2006 (adaptado).
 
 Os micronúcleos se originam dos(as)
 
@@ -413,7 +413,7 @@ O Aldrin é um inseticida agrícola organoclorado sintético de baixa polaridade
 
 ![Estrutura molecular do Aldrin: representação de duas cadeiras de seis carbonos conectadas, com átomos de cloro (Cl) e hidrogênio (H) ligados aos carbonos.](fig0q116.png)
 
-VIEGAS JUNIOR, C. Terpenos com atividade inseticida: uma alternativa para o controle químico de insetos. **Química Nova**, v. 26, n. 3, 2003 (adaptado).
+>VIEGAS JUNIOR, C. Terpenos com atividade inseticida: uma alternativa para o controle químico de insetos. **Química Nova**, v. 26, n. 3, 2003 (adaptado).
 
 Um pesquisador coletou fluidos biológicos de indivíduos de uma população contaminada por esse inseticida agrícola. Ele analisou amostras de saliva, sangue, lágrima, urina e leite quanto à presença dessa substância.
 
@@ -427,9 +427,9 @@ Em qual dos fluidos o pesquisador provavelmente encontrou a maior concentração
 
 # QUESTÃO 117
 
-Uma cafeteira adotou copos fabricados a partir de uma composição de 50% de plástico reciclado não biodegradável e 50% de casca de café. O copo é reutilizável e retornável, pois o material, semelhante a uma cerâmica, suporta a lavagem. Embora ele seja comercializado por um preço considerado alto quando comparado ao de um copo de plástico descartável, essa cafeteira possibilita aos clientes retornarem o copo sujo e levarem o café quente servido em outro copo já limpo e higienizado. O material desse copo oferece também o conforto de não esquentar na parte externa.
-
-**Cafeteria adota copo reutilizável feito com casca de café.** Disponível em: www.gazetadopovo.com.br. Acesso em: 5 dez. 2019 (adaptado).
+>Uma cafeteira adotou copos fabricados a partir de uma composição de 50% de plástico reciclado não biodegradável e 50% de casca de café. O copo é reutilizável e retornável, pois o material, semelhante a uma cerâmica, suporta a lavagem. Embora ele seja comercializado por um preço considerado alto quando comparado ao de um copo de plástico descartável, essa cafeteira possibilita aos clientes retornarem o copo sujo e levarem o café quente servido em outro copo já limpo e higienizado. O material desse copo oferece também o conforto de não esquentar na parte externa.
+>
+>**Cafeteria adota copo reutilizável feito com casca de café.** Disponível em: www.gazetadopovo.com.br. Acesso em: 5 dez. 2019 (adaptado).
 
 Quais duas vantagens esse copo apresenta em comparação ao copo descartável?
 
@@ -441,9 +441,9 @@ Quais duas vantagens esse copo apresenta em comparação ao copo descartável?
 
 # QUESTÃO 118
 
-O consumo exagerado de refrigerantes é preocupante, pois contribui para o aumento de casos de obesidade e diabetes. Considere dois refrigerantes enlatados, um comum e um diet, e que ambos possuam a mesma quantidade de aditivos, exceto pela presença de açúcar. O refrigerante comum contém basicamente água carbonatada e grande quantidade de açúcar; já o refrigerante diet tem água carbonatada e adoçantes, cujas massas são muito pequenas.
-
-CAVAGIS, A. D. M.; PEREIRA, E. A.; OLIVEIRA, L. C. Um método simples para avaliar o teor de sacarose e CO₂ em refrigerantes. **Química Nova na Escola**, n. 3, ago. 2014 (adaptado).
+>O consumo exagerado de refrigerantes é preocupante, pois contribui para o aumento de casos de obesidade e diabetes. Considere dois refrigerantes enlatados, um comum e um diet, e que ambos possuam a mesma quantidade de aditivos, exceto pela presença de açúcar. O refrigerante comum contém basicamente água carbonatada e grande quantidade de açúcar; já o refrigerante diet tem água carbonatada e adoçantes, cujas massas são muito pequenas.
+>
+>CAVAGIS, A. D. M.; PEREIRA, E. A.; OLIVEIRA, L. C. Um método simples para avaliar o teor de sacarose e CO₂ em refrigerantes. **Química Nova na Escola**, n. 3, ago. 2014 (adaptado).
 
 Entre as duas versões apresentadas, o refrigerante comum possui
 
@@ -489,7 +489,7 @@ O médico informa ao casal que, com relação ao cromossomo 21, os zigotos forma
 
 # QUESTÃO 121
 
-> Para que uma molécula dê origem a um medicamento de administração oral, além de apresentar atividade farmacológica, deve ser capaz de atingir o local de ação. Para tanto, essa molécula não deve se degradar no estômago (onde o meio é fortemente ácido e há várias enzimas que reagem mediante catálise ácida), deve ser capaz de atravessar as membranas celulares e ser solúvel no plasma sanguíneo (sistema aquoso). Para os fármacos cujas estruturas são formadas por cadeias carbônicas longas contendo pelo menos um grupamento amino, um recurso tecnológico empregado é sua conversão no cloridrato correspondente. Essa conversão é representada, de forma genérica, pela equação química:
+Para que uma molécula dê origem a um medicamento de administração oral, além de apresentar atividade farmacológica, deve ser capaz de atingir o local de ação. Para tanto, essa molécula não deve se degradar no estômago (onde o meio é fortemente ácido e há várias enzimas que reagem mediante catálise ácida), deve ser capaz de atravessar as membranas celulares e ser solúvel no plasma sanguíneo (sistema aquoso). Para os fármacos cujas estruturas são formadas por cadeias carbônicas longas contendo pelo menos um grupamento amino, um recurso tecnológico empregado é sua conversão no cloridrato correspondente. Essa conversão é representada, de forma genérica, pela equação química:
 
 $$R_3N + HCl \longrightarrow (R_3NH)^+Cl^-$$
 
@@ -505,11 +505,11 @@ O aumento da eficiência de circulação do fármaco no sangue, promovido por es
 
 **Toxicidade do cianeto**
 
-> A produção de ATP depende do gradiente de prótons gerado pela cadeia respiratória. Nessas reações, os elétrons provenientes da oxidação do NADH em NAD⁺ percorrem a cadeia até chegarem à citocromo c oxidase reduzindo o Fe³⁺ a Fe²⁺. O oxigênio atua como aceptor final desses elétrons formando água. O cianeto é uma espécie química altamente tóxica que tem grande afinidade pelo Fe³⁺. Quando células são expostas ao cianeto, ele se liga ao sítio de Fe³⁺ da citocromo c oxidase, impedindo a sua conversão em Fe²⁺ e bloqueando a cadeia respiratória.
+A produção de ATP depende do gradiente de prótons gerado pela cadeia respiratória. Nessas reações, os elétrons provenientes da oxidação do NADH em NAD⁺ percorrem a cadeia até chegarem à citocromo c oxidase reduzindo o Fe³⁺ a Fe²⁺. O oxigênio atua como aceptor final desses elétrons formando água. O cianeto é uma espécie química altamente tóxica que tem grande afinidade pelo Fe³⁺. Quando células são expostas ao cianeto, ele se liga ao sítio de Fe³⁺ da citocromo c oxidase, impedindo a sua conversão em Fe²⁺ e bloqueando a cadeia respiratória.
 
 ![Diagrama da cadeia respiratória mostrando o transporte de elétrons desde o NADH até o oxigênio, formando água. O diagrama ilustra o substrato proveniente do nutriente gerando NADH, que transfere elétrons para o transportador 1, depois para o transportador 2, transportador 3, e finalmente para o citocromo c oxidase, que converte o oxigênio em água. Setas indicam a conversão de NADH em NAD+ e a redução e oxidação dos transportadores. O cianeto é mostrado bloqueando o sítio de Fe3+ no citocromo c oxidase.](fig0q122.png)
 
-ALBERTS, B. et al. Biologia molecular da célula. Porto Alegre: Artmed, 2010 (adaptado).
+>ALBERTS, B. et al. Biologia molecular da célula. Porto Alegre: Artmed, 2010 (adaptado).
 
 Esse bloqueio aumenta a concentração celular de
 
@@ -521,8 +521,8 @@ Esse bloqueio aumenta a concentração celular de
 
 # QUESTÃO 123
 
-O número de abelhas encontra-se em declínio em várias regiões do mundo, inclusive no Brasil, sendo que vários fatores contribuem para o colapso de suas colmeias. Nos Estados Unidos, bombas de sementes de espécies vegetais nativas têm sido utilizadas para combater o desaparecimento desses insetos. Elas são pequenas bolinhas recheadas com sementes, adubo e argila. Quando são arremessadas e ficam expostas ao sol e à chuva, germinam até mesmo em solo pouco fértil.
-
+>O número de abelhas encontra-se em declínio em várias regiões do mundo, inclusive no Brasil, sendo que vários fatores contribuem para o colapso de suas colmeias. Nos Estados Unidos, bombas de sementes de espécies vegetais nativas têm sido utilizadas para combater o desaparecimento desses insetos. Elas são pequenas bolinhas recheadas com sementes, adubo e argila. Quando são arremessadas e ficam expostas ao sol e à chuva, germinam até mesmo em solo pouco fértil.
+>
 > DARAYA, V. Disponível em: http://planetasustentavel.abril.com.br. Acesso em: 2 fev. 2015 (adaptado).
 
 Esse método contribui para a preservação das abelhas porque
@@ -669,9 +669,9 @@ Se o grupo dos microrganismos decompositores fosse exterminado, qual etapa não 
 
 # QUESTÃO 133
 
-Os raios cósmicos são fontes de radiação ionizante potencialmente perigosas para o organismo humano. Para quantificar a dose de radiação recebida, utiliza-se o sievert (Sv), definido como a unidade de energia recebida por unidade de massa. A exposição à radiação proveniente de raios cósmicos aumenta com a altitude, o que pode representar um problema para as tripulações de aeronaves. Recentemente, foram realizadas medições acuradas das doses de radiação ionizante para voos entre Rio de Janeiro e Roma. Os resultados têm indicado que a dose média de radiação recebida na fase de cruzeiro (que geralmente representa 80% do tempo total de voo) desse trecho intercontinental é 2 μSv/h. As normas internacionais da aviação civil limitam em 1 000 horas por ano o tempo de trabalho para as tripulações que atuem em voos intercontinentais. Considere que a dose de radiação ionizante para uma radiografia torácica é estimada em 0,2 mSv.
-
-RUAS, A. C. O tripulante de aeronaves e a radiação ionizante. São Paulo: Edição do Autor, 2019 (adaptado).
+>Os raios cósmicos são fontes de radiação ionizante potencialmente perigosas para o organismo humano. Para quantificar a dose de radiação recebida, utiliza-se o sievert (Sv), definido como a unidade de energia recebida por unidade de massa. A exposição à radiação proveniente de raios cósmicos aumenta com a altitude, o que pode representar um problema para as tripulações de aeronaves. Recentemente, foram realizadas medições acuradas das doses de radiação ionizante para voos entre Rio de Janeiro e Roma. Os resultados têm indicado que a dose média de radiação recebida na fase de cruzeiro (que geralmente representa 80% do tempo total de voo) desse trecho intercontinental é 2 μSv/h. As normas internacionais da aviação civil limitam em 1 000 horas por ano o tempo de trabalho para as tripulações que atuem em voos intercontinentais. Considere que a dose de radiação ionizante para uma radiografia torácica é estimada em 0,2 mSv.
+>
+>RUAS, A. C. O tripulante de aeronaves e a radiação ionizante. São Paulo: Edição do Autor, 2019 (adaptado).
 
 A quantas radiografias torácicas corresponde a dose de radiação ionizante à qual um tripulante que atue no trecho Rio de Janeiro–Roma é exposto ao longo de um ano?
 
@@ -718,8 +718,8 @@ Questões de 136 a 180
 
 # QUESTÃO 136
 
-Alguns estudos comprovam que os carboidratos fornecem energia ao corpo, preservam as proteínas estruturais dos músculos durante a prática de atividade física e ainda dão força para o cérebro coordenar os movimentos, o que de fato tem impacto positivo no desenvolvimento do praticante. O ideal é consumir 1 grama de carboidrato para cada minuto de caminhada.
-
+>Alguns estudos comprovam que os carboidratos fornecem energia ao corpo, preservam as proteínas estruturais dos músculos durante a prática de atividade física e ainda dão força para o cérebro coordenar os movimentos, o que de fato tem impacto positivo no desenvolvimento do praticante. O ideal é consumir 1 grama de carboidrato para cada minuto de caminhada.
+>
 > CIRINO, C. Boa pergunta: consumir carboidratos antes dos exercícios melhora o desempenho do atleta? Revista Saúde! É Vital, n. 330, nov. 2010 (adaptado).
 
 Um casal realizará diariamente 30 minutos de caminhada, ingerindo, antes dessa atividade, a quantidade ideal de carboidratos recomendada. Para ter o consumo ideal apenas por meio do consumo de pão de forma integral, o casal planeja garantir o suprimento de pães para um período de 30 dias ininterruptos. Sabe-se que cada pacote desse pão vem com 16 fatias, e que cada uma delas tem 15 gramas de carboidratos.
@@ -816,9 +816,9 @@ O desconto necessário no preço final da compra, em porcentagem, pertence ao in
 
 # QUESTÃO 141
 
-O calendário maia apresenta duas contagens simultâneas de anos, o chamado ano Tzolkin, composto por 260 dias e que determinava o calendário religioso, e o ano Haab, composto por 365 dias e que determinava o calendário agrícola. Um historiador encontrou evidências de que gerações de uma mesma família governaram certa comunidade maia pelo período de 20 ciclos, sendo cada ciclo formado por 52 anos Haab.
-
-Disponível em: www.suapesquisa.com. Acesso em: 20 ago. 2014.
+>O calendário maia apresenta duas contagens simultâneas de anos, o chamado ano Tzolkin, composto por 260 dias e que determinava o calendário religioso, e o ano Haab, composto por 365 dias e que determinava o calendário agrícola. Um historiador encontrou evidências de que gerações de uma mesma família governaram certa comunidade maia pelo período de 20 ciclos, sendo cada ciclo formado por 52 anos Haab.
+>
+>Disponível em: www.suapesquisa.com. Acesso em: 20 ago. 2014.
 
 De acordo com as informações fornecidas, durante quantos anos Tzolkin aquela comunidade maia foi governada por tal família?
 
@@ -852,9 +852,9 @@ A área da pizza do professor de matemática é maior do que a soma das áreas d
 
 # QUESTÃO 143
 
-Entre maratonistas, um parâmetro utilizado é o de economia de corrida (EC). O valor desse parâmetro é calculado pela razão entre o consumo de oxigênio, em mililitro (mL) por minuto (min), e a massa, em quilograma (kg), do atleta correndo a uma velocidade constante.
-
-Disponível em: www.treinamentoonline.com.br. Acesso em: 23 out. 2019 (adaptado).
+>Entre maratonistas, um parâmetro utilizado é o de economia de corrida (EC). O valor desse parâmetro é calculado pela razão entre o consumo de oxigênio, em mililitro (mL) por minuto (min), e a massa, em quilograma (kg), do atleta correndo a uma velocidade constante.
+>
+>Disponível em: www.treinamentoonline.com.br. Acesso em: 23 out. 2019 (adaptado).
 
 Um maratonista, visando melhorar sua performance, auxiliado por um médico, mensura o seu consumo de oxigênio por minuto a velocidade constante. Com base nesse consumo e na massa do atleta, o médico calcula o EC do atleta.
 
@@ -913,7 +913,8 @@ A foto mostra a construção de uma cisterna destinada ao armazenamento de água
 | 15:00 | 3,2 |
 
 ![Fotografia em preto e branco de uma cisterna circular de alvenaria em construção, com trabalhadores ao redor em um terreno de terra. Ao fundo, há uma casa simples de madeira com telhado, árvores e pessoas observando.](pg19img0_x0_54_y0_358_x1_490_y1_570.jpeg)
-Disponível em: www.paraibamix.com. Acesso em: 3 dez. 2012.
+
+>Disponível em: www.paraibamix.com. Acesso em: 3 dez. 2012.
 
 Qual foi a vazão, em metro cúbico por hora, do curso-d'água que abasteceu a cisterna?
 
@@ -995,7 +996,7 @@ O número mínimo de salas que deverão ser construídas é
 
 # QUESTÃO 152
 
-> Os números figurados pentagonais provavelmente foram introduzidos pelos pitagóricos por volta do século V a.C. As figuras ilustram como obter os seis primeiros deles, sendo os demais obtidos seguindo o mesmo padrão geométrico.
+Os números figurados pentagonais provavelmente foram introduzidos pelos pitagóricos por volta do século V a.C. As figuras ilustram como obter os seis primeiros deles, sendo os demais obtidos seguindo o mesmo padrão geométrico.
 
 ![Sequência de seis figuras geométricas mostrando um padrão de crescimento, organizadas em duas linhas e numeradas abaixo de cada figura. A primeira figura é um único ponto preto, numerada '1'. A segunda é um pentágono com preenchimento cinza claro e pontos pretos nos cinco vértices, numerada '5'. A terceira figura exibe dois pentágonos concêntricos, com a área externa em cinza escuro e a interna em cinza claro, pontos pretos em todos os vértices e a numeração '12'. A quarta figura (início da segunda linha) possui três pentágonos concêntricos com tons alternados de cinza e pontos em todos os vértices, numerada '22'. A quinta figura tem quatro pentágonos aninhados, numerada '35'. A sexta e maior figura possui cinco pentágonos concêntricos com tons de cinza alternados e pontos em todos os vértices, numerada '51'. Em todas as figuras a partir da segunda, os pontos pretos demarcam os vértices dos pentágonos.](fig0q152.png)
 
@@ -1009,13 +1010,13 @@ O oitavo número pentagonal é
 
 # QUESTÃO 153
 
-> A figura ilustra uma roda-gigante no exato instante em que a cadeira onde se encontra a pessoa P está no ponto mais alto dessa roda-gigante.
+A figura ilustra uma roda-gigante no exato instante em que a cadeira onde se encontra a pessoa P está no ponto mais alto dessa roda-gigante.
 
 ![Desenho esquemático de uma roda-gigante com oito cadeiras distribuídas igualmente em sua circunferência. A cadeira no ponto mais alto está identificada pela letra P. Uma seta curvada indica o sentido de rotação no sentido horário. A base da roda-gigante está apoiada em uma estrutura sobre o solo.](fig0q153.png)
 
-> Com o passar do tempo, à medida que a roda-gigante gira, com velocidade angular constante e no sentido horário, a altura da cadeira onde se encontra a pessoa P, em relação ao solo, vai se alterando.
+Com o passar do tempo, à medida que a roda-gigante gira, com velocidade angular constante e no sentido horário, a altura da cadeira onde se encontra a pessoa P, em relação ao solo, vai se alterando.
 
-> O gráfico que melhor representa a variação dessa altura, em função do tempo, contado a partir do instante em que a cadeira da pessoa P se encontra na posição mais alta da roda-gigante, é
+O gráfico que melhor representa a variação dessa altura, em função do tempo, contado a partir do instante em que a cadeira da pessoa P se encontra na posição mais alta da roda-gigante, é
 
 - **A**
   ![Gráfico de uma curva senoidal que inicia no valor máximo de altura, decresce até um valor mínimo, torna a subir até um valor máximo e decresce novamente. Os eixos indicam Tempo na horizontal e Altura em relação ao solo na vertical, com a origem marcada por 0.](fig1q153.png)
@@ -1143,8 +1144,8 @@ No caso analisado, qual seria a classificação do desempenho da empresa?
 
 # QUESTÃO 161
 
-Dirigir após ingerir bebidas alcoólicas é uma atitude extremamente perigosa, uma vez que, a partir da primeira dose, a pessoa já começa a ter perda de sensibilidade de movimentos e de reflexos. Apesar de a eliminação e absorção do álcool depender de cada pessoa e de como o organismo consegue metabolizar a substância, ao final da primeira hora após a ingestão, a concentração de álcool (C) no sangue corresponde a aproximadamente 90% da quantidade (q) de álcool ingerida, e a eliminação total dessa concentração pode demorar até 12 horas.
-
+>Dirigir após ingerir bebidas alcoólicas é uma atitude extremamente perigosa, uma vez que, a partir da primeira dose, a pessoa já começa a ter perda de sensibilidade de movimentos e de reflexos. Apesar de a eliminação e absorção do álcool depender de cada pessoa e de como o organismo consegue metabolizar a substância, ao final da primeira hora após a ingestão, a concentração de álcool (C) no sangue corresponde a aproximadamente 90% da quantidade (q) de álcool ingerida, e a eliminação total dessa concentração pode demorar até 12 horas.
+>
 > Disponível em: http://g1.globo.com. Acesso em: 1 dez. 2018 (adaptado).
 
 Nessas condições, ao final da primeira hora após a ingestão da quantidade q de álcool, a concentração C dessa substância no sangue é expressa algebricamente por
@@ -1340,8 +1341,6 @@ A vista superior da trajetória realizada pelo vigilante durante a patrulha regi
 
 ---
 
-28 MT • 2º DIA • CADERNO 5 • AMARELO enem2023
-
 # QUESTÃO 173
 
 Um supermercado conta com cinco caixas disponíveis para pagamento. Foram instaladas telas que apresentam o tempo médio gasto por cada caixa para iniciar e finalizar o atendimento de cada cliente, e o número de pessoas presentes na fila de cada caixa em tempo real. Um cliente, na hora de passar sua compra, sabendo que cada um dos cinco caixas iniciará um novo atendimento naquele momento, pretende gastar o menor tempo possível de espera na fila. Ele observa que as telas apresentavam as informações a seguir.
@@ -1457,8 +1456,3 @@ Qual o preço, em real, de uma cartela de tíquetes vermelhos?
 - **C** 9,30
 - **D** 10,50
 - **E** 10,65
-
-enen2023
-
-Exame Nacional do Ensino Médio
-

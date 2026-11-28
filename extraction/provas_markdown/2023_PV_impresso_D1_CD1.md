@@ -36,7 +36,7 @@ Questões de 01 a 05 (opção inglês)
 
 ![Fotografia de um aterro sanitário a céu aberto, com montanhas de resíduos ao fundo e uma grande quantidade de lixo espalhada em primeiro plano. Sobre a imagem, há o texto "FOOD FOR THOUGHT" em letras brancas e grandes. Na parte inferior da imagem, há uma faixa branca com o seguinte texto em inglês: "The average american tosses 300 pounds of food each year, making food the number one contributor to America's landfills. Eat your leftovers and keep your perishables in the fridge – the Earth is counting on it."](pg1img0_x0_44_y0_161_x1_497_y1_380.jpeg)
 
-Disponível em: https://mir-s3-cdn-cf.behance.net. Acesso em: 29 out. 2021 (adaptado).
+>Disponível em: https://mir-s3-cdn-cf.behance.net. Acesso em: 29 out. 2021 (adaptado).
 
 Esse cartaz de campanha sugere que
 
@@ -57,8 +57,8 @@ Esse cartaz de campanha sugere que
 >
 > Any man's death diminishes me,
 > Because I am involved in mankind.
-
-DONNE, J. **The Works of John Donne**. Londres: John W. Parker, 1839 (fragmento).
+>
+>DONNE, J. **The Works of John Donne**. Londres: John W. Parker, 1839 (fragmento).
 
 Nesse poema, a expressão "No man is an island" ressalta o(a)
 
@@ -98,8 +98,8 @@ Nesse poema, a expressão "No man is an island" ressalta o(a)
 > [...]
 > As we drift... in our rubber boats... from shore... to shore...
 > [to shore...
-
-PING, W. Disponível em: https://poets.org. Acesso em: 1 jun. 2023 (fragmento).
+>
+>PING, W. Disponível em: https://poets.org. Acesso em: 1 jun. 2023 (fragmento).
 
 Ao retratar a trajetória de refugiados, o poema recorre à imagem de viagem marítima para destacar o(a)
 
@@ -151,7 +151,7 @@ Nesse poema de Tato Laviera, o eu lírico destaca uma
 
 ![Cartum em preto e branco retratando o ambiente de um escritório. No primeiro plano, dois homens de terno e gravata conversam; um deles, de óculos, gesticula com a mão aberta em direção ao outro. Ao fundo, outros funcionários, todos homens brancos vestindo ternos, circulam ou trabalham em mesas. Uma legenda na parte inferior do cartum diz: "Oh, you'll love working here. Nobody treats you any differently just because of your age, race, or gender."](pg2img0_x0_510_y0_106_x1_944_y1_457.png)
 
-Disponível em: www.cartoonstock.com. Acesso em: 25 out. 2021.
+>Disponível em: www.cartoonstock.com. Acesso em: 25 out. 2021.
 
 Ao retratar o ambiente de trabalho em um escritório, esse cartum tem por objetivo
 
@@ -258,8 +258,8 @@ Para enfatizar características e atitudes que reforçam a identidade da mulher 
 > ¡son mar, ríos, sierras!, ¡son valles, son flor!,
 > ¡y aportan “Conventos” a gastronomía,
 > sus «dulces»! (¡sabor “celestial”, ¡de ambrosía!).
-
-QUIROZ Y LÓPEZ, M. Disponível em: https://pt.calameo.com. Acesso em: 25 out. 2021.
+>
+>QUIROZ Y LÓPEZ, M. Disponível em: https://pt.calameo.com. Acesso em: 25 out. 2021.
 
 Nesse poema, o eu poético enaltece a
 
@@ -278,8 +278,8 @@ Nesse poema, o eu poético enaltece a
 > Manipular es una de las primeras cosas que aprendemos en la vida. A muy temprana edad, los bebés descubren el poder del llanto, el berrinche, los pataleos, la risa o alguna “gracia” como recursos para demandar atención, exigir comida, pedir ayuda o simplemente mantener ocupada a la gente. Nuestras actitudes de adultos reflejan lo mucho o poco que algunos maduraron, procesaron y rebasaron ese periodo.
 >
 > Para que exista un manipulador, debe haber una base de ciudadanos indefensos, dóciles, desinformados. El manipulador es celoso, a veces casi paranoico; no admite cuestionamientos ni quiere que nadie ocupe su espacio, sabe que su vigencia depende de presencia controladora. Todos los días, hay que marcar la línea de discurso, incidir en el debate. El ridículo vale la pena si con ello se logra una cortina de humo.
-
-Disponível em: www.forbes.com.mx. Acesso em: 7 out. 2021 (adaptado).
+>
+>Disponível em: www.forbes.com.mx. Acesso em: 7 out. 2021 (adaptado).
 
 Nesse texto, a expressão “cortina de humo” revela que o manipulador
 
@@ -322,8 +322,8 @@ Nesse texto, a expressão “cortina de humo” revela que o manipulador
 > Le dio al ángel dos patadas en su cara,
 > se rió de ella sin cambiar la mirada.
 > Y aún anda suelto, aún anda suelto...
-
-ORISHAS. In: Cosita buena. Delaware: Suerte Publishing LLC, 2008 (fragmento).
+>
+>ORISHAS. In: Cosita buena. Delaware: Suerte Publishing LLC, 2008 (fragmento).
 
 A letra da canção Que quede claro, da banda cubana Orishas, revela o(a)
 
@@ -338,9 +338,9 @@ A letra da canção Que quede claro, da banda cubana Orishas, revela o(a)
 
 # QUESTÃO 06
 
-A sessão do Comitê Olímpico Internacional (COI) aprovou uma mudança histórica e inédita no lema olímpico, criado em 1894 pelo Barão Pierre de Coubertin para expressar os valores e a excelência do esporte. Mais de 120 anos depois, o lema tem sua primeira alteração para ressaltar a solidariedade e incluir a palavra “juntos”: mais rápido, mais alto, mais forte — juntos. A mudança foi aprovada por unanimidade pelos membros do COI e celebrada pelo presidente da entidade.
-
-Disponível em: https://ge.globo.com. Acesso em: 10 nov. 2021 (adaptado).
+>A sessão do Comitê Olímpico Internacional (COI) aprovou uma mudança histórica e inédita no lema olímpico, criado em 1894 pelo Barão Pierre de Coubertin para expressar os valores e a excelência do esporte. Mais de 120 anos depois, o lema tem sua primeira alteração para ressaltar a solidariedade e incluir a palavra “juntos”: mais rápido, mais alto, mais forte — juntos. A mudança foi aprovada por unanimidade pelos membros do COI e celebrada pelo presidente da entidade.
+>
+>Disponível em: https://ge.globo.com. Acesso em: 10 nov. 2021 (adaptado).
 
 De acordo com o texto, a alteração do lema olímpico teve como objetivo a
 
@@ -357,8 +357,8 @@ De acordo com o texto, a alteração do lema olímpico teve como objetivo a
 > Tenho dois seios, estas duas coxas, duas mãos que me são muito úteis, olhos escuros, estas duas sobrancelhas que preencho com maquiagem comprada por dezesseis e noventa e orelhas que não aceitam bijuterias. Este corpo é um corpo faminto, dentado, cruel, capaz e violento. Movo os braços e multidões correm desesperadas. Caminho no escuro com o rosto para baixo, pois cada parte isolada de mim tem sua própria vida e não quero domá-las. Animal da caatinga. Forte demais. Engolirdora de espadas e espinhos.
 >
 > Dizem e eu ouvi, mas depois também li, que o estado do Ceará aboliu a escravidão quatro anos antes do restante do país. Todos aqueles corpos que eram trazidos com seus dedos contados, seus calcanhares prontos e seus umbigos em fogo, todos eles foram interrompidos no porto. Um homem — dizem e eu ouvi e depois também li — liderou o levante. E todos esses corpos foram buscar outros incômodos. Foram ser incomodados.
-
-ARRAES, J. Redemoinho em dia quente. São Paulo: Alfaguara, 2019.
+>
+>ARRAES, J. Redemoinho em dia quente. São Paulo: Alfaguara, 2019.
 
 Nesse texto, os recursos expressivos usados pela narradora
 
@@ -377,8 +377,8 @@ Nesse texto, os recursos expressivos usados pela narradora
 > O livro denuncia as diversas formas de racismo a que os imigrantes estão sujeitos. Alguns dos poetas brasileiros antologiados queixam-se do desdém com que um grande número de portugueses acolhe o português brasileiro. É uma queixa frequente.
 >
 > “Aqui em Portugal eles dizem / — eles dizem / — que nosso português é errado, que nós não falamos português”, escreve a poetisa paulista Maria Giulia Pinheiro, para concluir: “Se a sua linguagem, a lusitana, / ainda conserva a palavra da opressão / ela não é a mais bonita do mundo. / Ela é uma das mais violentas”.
-
-AGUALUSA, J. E. Disponível em: https://espelho.globo.com. Acesso em: 22 nov. 2021 (adaptado).
+>
+>AGUALUSA, J. E. Disponível em: https://espelho.globo.com. Acesso em: 22 nov. 2021 (adaptado).
 
 O texto de Agualusa tematiza o preconceito em relação ao português brasileiro. Com base no trecho citado pelo autor, infere-se que esse preconceito se deve
 
@@ -443,8 +443,8 @@ Considerando os procedimentos argumentativos utilizados, infere-se que o objetiv
 # QUESTÃO 12
 
 > Ainda daquela vez pude constatar a bizarrice dos costumes que constituíam as leis mais ou menos constantes do seu mundo: ao me aproximar, verifiquei que o Sr. Timóteo, gordo e suado, trajava um vestido de franjas e lantejoulas que pertencera a sua mãe. O corpete descia-lhe excessivamente justo na cintura, e aqui e ali rebentava através da costura um pouco da carne aprisionada, esgarçando a fazenda e tornando o prazer de vestir-se daquele modo uma autêntica espécie de suplício. Movia-se ele com lentidão, meneando todas as suas franjas e abanando-se vigorosamente com um desses leques de madeira de sândalo, o que o envolvia numa enrojativa onda de perfume. Não sei direito o que colocara sobre a cabeça, assemelhava-se mais a um turbante ou a um chapéu sem abas de onde saíam vigorosas mechas de cabelos alourados. Como era costume seu também, trazia o rosto pintado — e para isto, bem como para suas vestimentas, apoderara-se de todo o guarda-roupa deixado por sua mãe, também em sua época famosa pela extravagância com que se vestia — o que sem dúvida fazia sobressair-lhe o nariz enorme, tão característico da família Meneses.
-
-CARDOSO, L. **Crônica da casa assassinada**. São Paulo: Círculo do Livro, s.d.
+>
+>CARDOSO, L. **Crônica da casa assassinada**. São Paulo: Círculo do Livro, s.d.
 
 Pela voz de uma empregada da casa, a descrição de um dos membros da família exemplifica a renovação da ficção urbana nos anos 1950, aqui observada na
 
@@ -472,8 +472,8 @@ Pela voz de uma empregada da casa, a descrição de um dos membros da família e
 > O terceiro era a rica senhora,
 > O quarto és tu... E eu afinal me repousei dos
 > [meus cuidados
-
-ANDRADE, M. **Poesias completas**. Rio de Janeiro: Nova Fronteira, 2013 (fragmento).
+>
+>ANDRADE, M. **Poesias completas**. Rio de Janeiro: Nova Fronteira, 2013 (fragmento).
 
 Perante o outro, o eu lírico revela, na força das memórias evocadas, a
 
@@ -527,13 +527,13 @@ A perda dos registros linguísticos no incêndio do Museu Nacional tem impacto p
 
 # QUESTÃO 16
 
-Mandioca, macaxeira, aipim e castelinha são nomes diferentes da mesma planta. Semáforo, sinaleiro e farol também significam a mesma coisa. O que muda é só o hábito cultural de cada região. A mesma coisa acontece com a Língua Brasileira de Sinais (Libras). Embora ela seja a comunicação oficial da comunidade surda no Brasil, existem sinais que variam em relação à região, à idade e até ao gênero de quem se comunica. A cor verde, por exemplo, possui sinais diferentes no Rio de Janeiro, Paraná e São Paulo. São os regionalismos na língua de sinais.
-
-Essas variações são um dos temas da disciplina Linguística na língua de sinais, oferecida pela Universidade Estadual Paulista (Unesp) ao longo do segundo semestre. “Muitas pessoas pensam que a língua de sinais é universal, o que não é verdade”, explica a professora e chefe do Departamento de Linguística, Literatura e Letras Clássicas da Unesp. “Mesmo dentro de um mesmo país, ela sofre variação em relação à localização geográfica, à faixa etária e até ao gênero dos usuários”, completa a especialista.
-
-Os surdos podem criar sinais diferentes para identificar lugares, objetos e conceitos. Em São Paulo, o sinal de “cerveja” é feito com um giro do punho como uma meia-volta. Em Minas, a bebida é citada quando os dedos indicador e médio batem no lado do rosto. Também ocorrem mudanças históricas. Um sinal pode sofrer alterações decorrentes dos costumes da geração que o utiliza.
-
-Disponível em: www.educacao.sp.gov.br. Acesso em: 1 nov. 2021 (adaptado).
+>Mandioca, macaxeira, aipim e castelinha são nomes diferentes da mesma planta. Semáforo, sinaleiro e farol também significam a mesma coisa. O que muda é só o hábito cultural de cada região. A mesma coisa acontece com a Língua Brasileira de Sinais (Libras). Embora ela seja a comunicação oficial da comunidade surda no Brasil, existem sinais que variam em relação à região, à idade e até ao gênero de quem se comunica. A cor verde, por exemplo, possui sinais diferentes no Rio de Janeiro, Paraná e São Paulo. São os regionalismos na língua de sinais.
+>
+>Essas variações são um dos temas da disciplina Linguística na língua de sinais, oferecida pela Universidade Estadual Paulista (Unesp) ao longo do segundo semestre. “Muitas pessoas pensam que a língua de sinais é universal, o que não é verdade”, explica a professora e chefe do Departamento de Linguística, Literatura e Letras Clássicas da Unesp. “Mesmo dentro de um mesmo país, ela sofre variação em relação à localização geográfica, à faixa etária e até ao gênero dos usuários”, completa a especialista.
+>
+>Os surdos podem criar sinais diferentes para identificar lugares, objetos e conceitos. Em São Paulo, o sinal de “cerveja” é feito com um giro do punho como uma meia-volta. Em Minas, a bebida é citada quando os dedos indicador e médio batem no lado do rosto. Também ocorrem mudanças históricas. Um sinal pode sofrer alterações decorrentes dos costumes da geração que o utiliza.
+>
+>Disponível em: www.educacao.sp.gov.br. Acesso em: 1 nov. 2021 (adaptado).
 
 Nesse texto, a Língua Brasileira de Sinais (Libras)
 
@@ -545,9 +545,9 @@ Nesse texto, a Língua Brasileira de Sinais (Libras)
 
 # QUESTÃO 17
 
-Como é bom reencontrar os leitores da *Revista da Cultura* por meio de uma publicação com outro visual, conteúdo de qualidade e interesses ampliados! *Jocultura*, este nome simples, e eu diria mesmo familiar, nasce entre dois colchetes voltados para fora. E não é por acaso: são sinais abertos, receptivos, propícios à circulação de ideias. O DNA da publicação se mantém o mesmo, afinal, por longos anos montamos nossas edições com assuntos saindo das estantes de uma grande livraria — e assim continuará sendo. Literatura, sociologia, filosofia, artes... nunca será difícil montar a pauta da revista porque os livros nos ensinam que monotonia é só para quem não lê.
-
-HERZ, P. *Jocultura*, n. 1, jun. 2018 (adaptado).
+>Como é bom reencontrar os leitores da *Revista da Cultura* por meio de uma publicação com outro visual, conteúdo de qualidade e interesses ampliados! *Jocultura*, este nome simples, e eu diria mesmo familiar, nasce entre dois colchetes voltados para fora. E não é por acaso: são sinais abertos, receptivos, propícios à circulação de ideias. O DNA da publicação se mantém o mesmo, afinal, por longos anos montamos nossas edições com assuntos saindo das estantes de uma grande livraria — e assim continuará sendo. Literatura, sociologia, filosofia, artes... nunca será difícil montar a pauta da revista porque os livros nos ensinam que monotonia é só para quem não lê.
+>
+>HERZ, P. *Jocultura*, n. 1, jun. 2018 (adaptado).
 
 O uso não padrão dos colchetes para nomear a revista atribui-lhes uma nova função e está correlacionado ao(à)
 
@@ -563,33 +563,33 @@ O uso não padrão dos colchetes para nomear a revista atribui-lhes uma nova fun
 
 **Alegria, alegria**
 
-O sol nas bancas de revista
-Me enche de alegria e preguiça
-Quem lê tanta notícia
-Eu vou
-Por entre fotos e nomes
-Os olhos cheios de cores
-O peito cheio de amores vãos
-Eu vou
-Por que não, por que não?
-
-VELOSO, C. Alegria, alegria. Rio de Janeiro: Polygram, 1990 (fragmento).
+>O sol nas bancas de revista
+>Me enche de alegria e preguiça
+>Quem lê tanta notícia
+>Eu vou
+>Por entre fotos e nomes
+>Os olhos cheios de cores
+>O peito cheio de amores vãos
+>Eu vou
+>Por que não, por que não?
+>
+>VELOSO, C. Alegria, alegria. Rio de Janeiro: Polygram, 1990 (fragmento).
 
 **TEXTO II**
 
 **Anjos tronchos**
 
-Uns anjos tronchos do Vale do Silício
-Desses que vivem no escuro em plena luz
-Disseram vai ser virtuoso no vício
-Das telas dos azuis mais do que azuis
-
-Agora a minha história é um denso algoritmo
-Que vende venda a vendedores reais
-Neurônios meus ganharam novo outro ritmo
-E mais, e mais, e mais, e mais, e mais
-
-VELOSO, C. Meu coco. Rio de Janeiro: Sony, 2021 (fragmento).
+>Uns anjos tronchos do Vale do Silício
+>Desses que vivem no escuro em plena luz
+>Disseram vai ser virtuoso no vício
+>Das telas dos azuis mais do que azuis
+>
+>Agora a minha história é um denso algoritmo
+>Que vende venda a vendedores reais
+>Neurônios meus ganharam novo outro ritmo
+>E mais, e mais, e mais, e mais, e mais
+>
+>VELOSO, C. Meu coco. Rio de Janeiro: Sony, 2021 (fragmento).
 
 Embora oriundas de momentos históricos diferentes, essas letras de canção têm em comum a
 
@@ -607,11 +607,11 @@ Embora oriundas de momentos históricos diferentes, essas letras de canção tê
 > Se não era bandido, um dia ia ser
 > Por ser PRETO sua morte é defendida
 > O PRETO sempre merece morrer".
-
+>
 > A estrofe acima é do poeta e educador social Baticum Proletário, que atua na periferia de Fortaleza, no Ceará, preparando jovens — em quase sua totalidade negros — para enfrentar as dificuldades impostas pelo racismo estrutural no país.
-
+>
 > É a partir da arte que Baticum consegue envolver a juventude em um projeto de fortalecimento dessa população ao promover batalhas de rimas, slams e saraus com temáticas que discutem os problemas sociais. Não por acaso, o tema mais explorado nas rimas, versos e prosas é a violência. De acordo com o mais recente Atlas da violência, em 2019, os negros representaram 77% das vítimas de homicídios, quase 30 assassinatos por 100 mil habitantes, a maioria deles jovens.
-
+>
 > O Atlas revela ainda que um negro tem quase 2,7 vezes mais chance de ser morto do que um branco, o que justifica o movimento de resistência crescente no Brasil.
 >
 > MENDONÇA, F. Disponível em: www.cartacapital.com.br. Acesso em: 22 nov. 2021 (adaptado).
@@ -627,11 +627,11 @@ O uso de citação e de dados estatísticos nesse texto tem o objetivo de
 # QUESTÃO 20
 
 > No princípio era o verbo. A frase que abre o primeiro capítulo do Evangelho de João e remete à criação do mundo, assim como também faz o Gênesis, é a mais famosa da Bíblia. A ideia de que o mundo é criado pela palavra, porém, é tão estruturante que está presente em outras religiões, para muito além das fundadas no cristianismo. Como humanos, a linguagem é o mundo que habitamos. Basta tentar imaginar um mundo em que não podemos usar palavras para dizer de nós e dos outros para compreender o que isso significa. Ou um mundo em que aquilo que você diz não é entendido pelo outro, e o que o outro diz não é entendido por você.
-
+>
 > O que acontece então quando a palavra é destruída e, com ela, a linguagem?
-
+>
 > Durante séculos, em diferentes sociedades e línguas, é importante lembrar, a linguagem serviu — e ainda serve — para manter privilégios de grupos de poder e deixar todos os outros de fora. Quem entende linguagem de advogados, juízes e promotores, linguagem de médicos, linguagem de burocratas, linguagem de cientistas? A maior parte da população foi submetida à violência de propositalmente ser impedida de compreender a linguagem daqueles que determinam seus destinos.
-
+>
 > Se o princípio é o verbo, o fim pode ser o silenciamento. Mesmo que ele seja cheio de gritos entre aqueles que já não têm linguagem comum para compreender uns aos outros.
 >
 > BRUM, E. Disponível em: https://brasil.elpais.com. Acesso em: 5 nov. 2021.
@@ -647,7 +647,7 @@ Nesse texto, a estratégia usada para convencer o leitor de que uma grande parce
 # QUESTÃO 21
 
 > Um grupo de pesquisadores da Universidade Federal do Ceará desenvolveu um dicionário para traduzir sintomas de doenças da linguagem popular para os termos médicos. Defruço, chanha e piloura, por exemplo, podem ser termos conhecidos para muitos, mas, durante uma consulta médica, o desconhecimento pode significar um diagnóstico errado.
-
+>
 > "Isso é um registro histórico e pode ser muito útil para estudos dessas comunidades, na abordagem médica delas. É de certa forma pioneiro no Brasil e, sem dúvida, um instrumento de trabalho importante, porque a comunicação é fundamental na relação médico-paciente", avalia o reitor da instituição.
 >
 > Disponível em: https://g1.globo.com. Acesso em: 1 nov. 2021 (adaptado).
@@ -662,9 +662,9 @@ Ao registrarem usos regionais de termos da área médica, pesquisadores
 
 # QUESTÃO 22
 
-Alguém muito recentemente cortara o mato, que na época das chuvas crescia e rodeava a casa da mãe de Ponciá Vicêncio e de Luandi. Havia também vestígios de que a terra fora revolvida, como se ali fosse plantar uma pequena roça. Luandi sorriu. A mãe devia estar bastante forte, pois ainda labutava a terra. Cantou alto uma cantiga que aprendera com o pai, quando eles trabalhavam na terra dos brancos. Era uma canção que os negros mais velhos ensinavam aos mais novos. Eles diziam ser uma cantiga de voltar, que os homens, lá na África, entoavam sempre, quando estavam regressando da pesca, da caça ou de algum lugar. O pai de Luandi, no dia em que queria agradar à mulher, costumava entoar aquela cantiga ao se aproximar de casa. Luandi não entendia as palavras do canto; sabia, porém, que era uma língua que alguns negros falavam ainda, principalmente os velhos. Era uma cantiga alegre. Luandi, além de cantar, acompanhava o ritmo batendo com as palmas das mãos em um atabaque imaginário. Estava de regresso à terra. Voltava em casa. Chegava cantando, dançando a doce e vitoriosa cantiga de regressar.
-
-EVARISTO, C. Ponciá Vicêncio. Rio de Janeiro: Pallas, 2018.
+>Alguém muito recentemente cortara o mato, que na época das chuvas crescia e rodeava a casa da mãe de Ponciá Vicêncio e de Luandi. Havia também vestígios de que a terra fora revolvida, como se ali fosse plantar uma pequena roça. Luandi sorriu. A mãe devia estar bastante forte, pois ainda labutava a terra. Cantou alto uma cantiga que aprendera com o pai, quando eles trabalhavam na terra dos brancos. Era uma canção que os negros mais velhos ensinavam aos mais novos. Eles diziam ser uma cantiga de voltar, que os homens, lá na África, entoavam sempre, quando estavam regressando da pesca, da caça ou de algum lugar. O pai de Luandi, no dia em que queria agradar à mulher, costumava entoar aquela cantiga ao se aproximar de casa. Luandi não entendia as palavras do canto; sabia, porém, que era uma língua que alguns negros falavam ainda, principalmente os velhos. Era uma cantiga alegre. Luandi, além de cantar, acompanhava o ritmo batendo com as palmas das mãos em um atabaque imaginário. Estava de regresso à terra. Voltava em casa. Chegava cantando, dançando a doce e vitoriosa cantiga de regressar.
+>
+>EVARISTO, C. Ponciá Vicêncio. Rio de Janeiro: Pallas, 2018.
 
 A leitura do texto permite reconhecer a “cantiga de voltar” como patrimônio linguístico que
 
@@ -678,21 +678,21 @@ A leitura do texto permite reconhecer a “cantiga de voltar” como patrimônio
 
 **TEXTO I**
 
-Zapeei os canais, como há dezenas de anos faço, e párei num que exibia um episódio daquela velha família do futuro, Os Jetsons.
-
-Nesse episódio em particular, a Jane Jetson, esposa do George, tratava de dirigir aquele veículo voador deles. Meu queixo foi caindo à medida que as piadinhas machistas sobre mulheres dirigirem foram se acumulando. Impressionante! Que futuro careta aqueles roteiristas imaginavam! Seriam incapazes de projetar algo melhor, e não apenas em termos de tecnologias, robôs e carros voadores? Será que nossa máxima visão de futuro só atinge as coisas, e jamais as pessoas? Como a Jane, uma mulher de 33 anos no desenho, poderia ser o que foram as minhas bisavós?
-
-O futuro, naquele desenho, se esqueceu de ser melhor nas relações entre as pessoas. Aliás... tão parecido com a vida.
-
-Fiquei de cara, como dizemos aqui, ou como dizíamos na minha adolescência, *pobre adolescência*, aprendendo, sem querer e sem muita defesa, um futuro tão besta quanto o passado.
-
-RIBEIRO, A. E. Disponível em: www.rasculho.com.br. Acesso em: 21 out. 2021 (adaptado).
+>Zapeei os canais, como há dezenas de anos faço, e párei num que exibia um episódio daquela velha família do futuro, Os Jetsons.
+>
+>Nesse episódio em particular, a Jane Jetson, esposa do George, tratava de dirigir aquele veículo voador deles. Meu queixo foi caindo à medida que as piadinhas machistas sobre mulheres dirigirem foram se acumulando. Impressionante! Que futuro careta aqueles roteiristas imaginavam! Seriam incapazes de projetar algo melhor, e não apenas em termos de tecnologias, robôs e carros voadores? Será que nossa máxima visão de futuro só atinge as coisas, e jamais as pessoas? Como a Jane, uma mulher de 33 anos no desenho, poderia ser o que foram as minhas bisavós?
+>
+>O futuro, naquele desenho, se esqueceu de ser melhor nas relações entre as pessoas. Aliás... tão parecido com a vida.
+>
+>Fiquei de cara, como dizemos aqui, ou como dizíamos na minha adolescência, *pobre adolescência*, aprendendo, sem querer e sem muita defesa, um futuro tão besta quanto o passado.
+>
+>RIBEIRO, A. E. Disponível em: www.rasculho.com.br. Acesso em: 21 out. 2021 (adaptado).
 
 **TEXTO II**
 
-Masculino e feminino são campos escorregadios que só se definem por oposição, sempre incompleta, um do outro. São formações imaginárias que buscam produzir uma diferença radical e complementar onde só existem, de fato, mínimas diferenças. O resto é questão de estilo. Até pelo menos a segunda metade do século 19, o divisor de águas era claro: os homens ocupavam o espaço público. As mulheres tratavam da vida privada. Privada de quê? De visibilidade, diria Hannah Arendt. De visibilidade pública. Do que as mulheres estiveram privadas até o século 20 foi de presença pública manifesta não em imagem, mas em palavra. A palavra feminina, reservada ao espaço doméstico, não produzia diferença na vida social.
-
-KHEL, M. R. Disponível em: https://alias.estadao.com.br. Acesso em: 19 out. 2021 (adaptado).
+>Masculino e feminino são campos escorregadios que só se definem por oposição, sempre incompleta, um do outro. São formações imaginárias que buscam produzir uma diferença radical e complementar onde só existem, de fato, mínimas diferenças. O resto é questão de estilo. Até pelo menos a segunda metade do século 19, o divisor de águas era claro: os homens ocupavam o espaço público. As mulheres tratavam da vida privada. Privada de quê? De visibilidade, diria Hannah Arendt. De visibilidade pública. Do que as mulheres estiveram privadas até o século 20 foi de presença pública manifesta não em imagem, mas em palavra. A palavra feminina, reservada ao espaço doméstico, não produzia diferença na vida social.
+>
+>KHEL, M. R. Disponível em: https://alias.estadao.com.br. Acesso em: 19 out. 2021 (adaptado).
 
 A representação da mulher apresentada no Texto I pode ser explicada pelo Texto II no que diz respeito à(às)
 
@@ -706,7 +706,7 @@ A representação da mulher apresentada no Texto I pode ser explicada pelo Texto
 
 ![Mulheres negras usando máscaras faciais segurando cartazes. No topo, em fundo preto, os dizeres "#JuntasSomosMaisFortes" e "Disque 180". À direita, em destaque, "A Defensoria não para!" e a frase "Eu uso máscara muito mais!" sobreposta a uma imagem de mulheres com máscaras. Abaixo, texto informativo sobre isolamento social e violência contra a mulher, com os dizeres "Não se cale! Denuncie!".](fig0q24.png)
 
-Disponível em: www.defensoriapublica.mt.gov.br. Acesso em: 29 out. 2021 (adaptado).
+>Disponível em: www.defensoriapublica.mt.gov.br. Acesso em: 29 out. 2021 (adaptado).
 
 Esse anúncio publicitário, veiculado durante o contexto da pandemia de covid-19, tem por finalidade
 
@@ -851,9 +851,9 @@ Nesse poema, a representação do sentimento amoroso recupera a tradição líri
 
 # QUESTÃO 32
 
-O sol começa a descer por trás da vegetação da Ilha da Restinga, na outra margem do rio Paraíba, colorindo o céu de amarelo, laranja e lilás. Então se ouvem as primeiras notas de *Bolero*, do compositor francês Maurice Ravel, executadas pelo saxofonista Jurandy. É assim o pôr do sol da praia do Jacaré, em Cabedelo (Grande João Pessoa). Depois do *Bolero*, Jurandy toca *Asa branca*, de Luiz Gonzaga, e *Meu sublime torrão*, de Genival Macedo, espécie de hino não oficial da Paraíba.
-
-PINHEIRO, A. Sol se põe embalado pelo Bolero de Ravel. Disponível em: http://tools.folha.com.br. Acesso em: 16 set. 2012 (adaptado).
+>O sol começa a descer por trás da vegetação da Ilha da Restinga, na outra margem do rio Paraíba, colorindo o céu de amarelo, laranja e lilás. Então se ouvem as primeiras notas de *Bolero*, do compositor francês Maurice Ravel, executadas pelo saxofonista Jurandy. É assim o pôr do sol da praia do Jacaré, em Cabedelo (Grande João Pessoa). Depois do *Bolero*, Jurandy toca *Asa branca*, de Luiz Gonzaga, e *Meu sublime torrão*, de Genival Macedo, espécie de hino não oficial da Paraíba.
+>
+>PINHEIRO, A. Sol se põe embalado pelo Bolero de Ravel. Disponível em: http://tools.folha.com.br. Acesso em: 16 set. 2012 (adaptado).
 
 A interpretação musical de Jurandy do Sax, codinome de José Jurandy Félix, apresenta um repertório caracterizado pela
 
@@ -869,13 +869,13 @@ A interpretação musical de Jurandy do Sax, codinome de José Jurandy Félix, a
 
 ![Pintura abstrata sobre tela com formas geométricas irregulares em tons de rosa, vermelho, amarelo, azul e cinza, lembrando figuras humanas estilizadas.](pg14img0_x0_68_y0_513_x1_476_y1_735.jpeg)
 
-SEGALL, L. Eternos caminhantes. Óleo sobre tela, 138 x 184 cm. Museu Lasar Segall, Ibram/Minc, São Paulo, 1919.
+>SEGALL, L. Eternos caminhantes. Óleo sobre tela, 138 x 184 cm. Museu Lasar Segall, Ibram/Minc, São Paulo, 1919.
 
 **TEXTO II**
 
 Em 1933, a obra *Eternos caminhantes* ingressou em uma das primeiras edições das exposições de *Arte Degenerada*, promovida por membros do partido nazista alemão. Nos anos seguintes, ela voltaria a ser exibida na mostra denominada *Exposição da Vergonha*, promovida por pequenos grupos abastados. Em 1937, essa obra foi confiscada pelo Ministério da Propaganda daquele país, na grande ação nacional-socialista contra a “Arte Degenerada”.
 
-SCHWARTZ, J. Perseguição à Arte Moderna em tempos de guerra. São Paulo: Museu Lasar Segall, 2018 (adaptado).
+>SCHWARTZ, J. Perseguição à Arte Moderna em tempos de guerra. São Paulo: Museu Lasar Segall, 2018 (adaptado).
 
 Quase cinquenta obras de Lasar Segall foram confiscadas pelo regime totalitário alemão na primeira metade do século XX, entre elas a obra *Eternos caminhantes*, considerada degenerada por
 
@@ -895,7 +895,7 @@ Logo no início de *Gira*, um grupo de sete bailarinas ocupa o centro da cena. M
 
 ![Sete bailarinas em cena no palco, descalças, usando saias brancas longas e presas na cintura, realizando movimentos com os braços e o tronco inclinado; fundo escuro.](pg14img1_x0_525_y0_511_x1_929_y1_725.jpeg)
 
-Disponível em: www.grupocorpo.com.br. Acesso em: 2 jul. 2019.
+>Disponível em: www.grupocorpo.com.br. Acesso em: 2 jul. 2019.
 
 No diálogo que estabelece com religiões afro-brasileiras, sintetizado na descrição e na imagem do espetáculo, a dança exprime uma
 
@@ -907,8 +907,8 @@ No diálogo que estabelece com religiões afro-brasileiras, sintetizado na descr
 
 # QUESTÃO 35
 
-A indústria do esporte eletrônico é um mercado que está crescendo em um ritmo mais rápido do que a economia mundial. Sua popularidade cresceu muito e no Brasil não é diferente. De acordo com os dados de uma pesquisa, mais de 64% dos brasileiros que jogam videogame já ouviram falar de esporte eletrônico. No entanto, o que chama a atenção é o crescimento superior a 10% do público praticante comparado ao ano anterior, que subiu de 44,7% para 55,4%. Trata-se de um percentual expressivo, já que o Brasil está no top 3 dentre os países que têm maior número de espectadores de esporte eletrônico do mundo. Comparado ao ano anterior, em 2020, o Brasil teve um marco de crescimento de 20% na audiência. Mundo afora, a árdua dedicação de grandes gamers contribuiu para o reconhecimento do Comitê Olímpico Internacional, aliado a outras cinco federações esportivas e suas desenvolvedoras de jogos, que direcionaram um olhar mais atento ao assunto, permitindo dar o primeiro passo para concretizar, pela primeira vez na história dos jogos eletrônicos, um evento olímpico oficial.
-
+>A indústria do esporte eletrônico é um mercado que está crescendo em um ritmo mais rápido do que a economia mundial. Sua popularidade cresceu muito e no Brasil não é diferente. De acordo com os dados de uma pesquisa, mais de 64% dos brasileiros que jogam videogame já ouviram falar de esporte eletrônico. No entanto, o que chama a atenção é o crescimento superior a 10% do público praticante comparado ao ano anterior, que subiu de 44,7% para 55,4%. Trata-se de um percentual expressivo, já que o Brasil está no top 3 dentre os países que têm maior número de espectadores de esporte eletrônico do mundo. Comparado ao ano anterior, em 2020, o Brasil teve um marco de crescimento de 20% na audiência. Mundo afora, a árdua dedicação de grandes gamers contribuiu para o reconhecimento do Comitê Olímpico Internacional, aliado a outras cinco federações esportivas e suas desenvolvedoras de jogos, que direcionaram um olhar mais atento ao assunto, permitindo dar o primeiro passo para concretizar, pela primeira vez na história dos jogos eletrônicos, um evento olímpico oficial.
+>
 > Disponível em: https://chicoterra.com. Acesso em: 19 nov. 2021 (adaptado).
 
 O contexto em que o esporte eletrônico é apresentado no texto demonstra o(a)
@@ -921,8 +921,8 @@ O contexto em que o esporte eletrônico é apresentado no texto demonstra o(a)
 
 # QUESTÃO 36
 
-O Marabaixo é uma expressão artístico-cultural formada nas tradições e na identificação cultural entre as comunidades negras do Amapá. O nome remonta às mortes de escravizados em navios negreiros que eram jogados na água. Em sua homenagem, hinos de lamento eram cantados mar abaixo, mar acima. Posteriormente, o Marabaixo se integrou à vivência das comunidades negras em um ciclo de danças, cantorias com tambores e festas religiosas, recebendo, em 2018, o título de Patrimônio Cultural do Brasil.
-
+>O Marabaixo é uma expressão artístico-cultural formada nas tradições e na identificação cultural entre as comunidades negras do Amapá. O nome remonta às mortes de escravizados em navios negreiros que eram jogados na água. Em sua homenagem, hinos de lamento eram cantados mar abaixo, mar acima. Posteriormente, o Marabaixo se integrou à vivência das comunidades negras em um ciclo de danças, cantorias com tambores e festas religiosas, recebendo, em 2018, o título de Patrimônio Cultural do Brasil.
+> 
 > Disponível em: http://portal.iphan.gov.br. Acesso em: 15 nov. 2021 (adaptado).
 
 A manifestação do Marabaixo se constituiu em expressão de arte e cultura, exercendo função de
@@ -935,8 +935,8 @@ A manifestação do Marabaixo se constituiu em expressão de arte e cultura, exe
 
 # QUESTÃO 37
 
-O uso das redes sociais como forma de ampliar universos foi uma descoberta recente para o artista Wolney Fernandes, que começou a criar quando o ambiente em Goiás era mais árido em relação às artes visuais. "Hoje, ser diferente é uma potência e quem sabe o que quer com a própria arte encontra espaço", diz. As colagens artísticas do goiano aparecem em capas de obras literárias pelo Brasil e exterior.
-
+>O uso das redes sociais como forma de ampliar universos foi uma descoberta recente para o artista Wolney Fernandes, que começou a criar quando o ambiente em Goiás era mais árido em relação às artes visuais. "Hoje, ser diferente é uma potência e quem sabe o que quer com a própria arte encontra espaço", diz. As colagens artísticas do goiano aparecem em capas de obras literárias pelo Brasil e exterior.
+>
 > Disponível em: https://opopular.com.br. Acesso em: 15 nov. 2021 (adaptado).
 
 O artista goiano Wolney Fernandes busca expor seu trabalho por meio de plataformas virtuais com o objetivo de
@@ -949,8 +949,8 @@ O artista goiano Wolney Fernandes busca expor seu trabalho por meio de plataform
 
 # QUESTÃO 38
 
-O mais antigo grupo de rap indígena do país, Brô MCs, surgiu em 2009, na aldeia Jaguapiru, em Dourados, Mato Grosso do Sul. Os integrantes conheceram o rap pelo rádio, ouvindo um programa que apresentava cantores e grupos brasileiros desse gênero musical. O Brô MCs conseguiu influenciar outros a fazerem rap e a lutarem pelas causas indígenas. Um dos nomes do movimento, Kunumi MC, é um jovem de 16 anos, da aldeia Krukutu, em São Paulo. O adolescente enxerga o rap como uma cultura da defesa e começou a fazer rimas quando percebeu que a poesia, pela qual sempre se interessou, podia virar música. Nas letras que cria, inspiradas tanto pelo rap quanto pelos ritmos indígenas, tenta incluir sempre assuntos aos quais acha importante dar voz, principalmente, a questão da demarcação de terras.
-
+>  O mais antigo grupo de rap indígena do país, Brô MCs, surgiu em 2009, na aldeia Jaguapiru, em Dourados, Mato Grosso do Sul. Os integrantes conheceram o rap pelo rádio, ouvindo um programa que apresentava cantores e grupos brasileiros desse gênero musical. O Brô MCs conseguiu influenciar outros a fazerem rap e a lutarem pelas causas indígenas. Um dos nomes do movimento, Kunumi MC, é um jovem de 16 anos, da aldeia Krukutu, em São Paulo. O adolescente enxerga o rap como uma cultura da defesa e começou a fazer rimas quando percebeu que a poesia, pela qual sempre se interessou, podia virar música. Nas letras que cria, inspiradas tanto pelo rap quanto pelos ritmos indígenas, tenta incluir sempre assuntos aos quais acha importante dar voz, principalmente, a questão da demarcação de terras.
+>
 > Disponível em: www.correioBraziliense.com.br. Acesso em: 13 nov. 2021 (adaptado).
 
 O movimento rap dos povos originários do Brasil revela o(a)
@@ -1131,7 +1131,7 @@ A partir da leitura dos textos motivadores e com base nos conhecimentos constru�
 
 **Fotografia da avó bordada**
 
-SCARELI, G. A máquina de costura e os fios da memória. **Revista Brasileira de Pesquisa (Auto)Biográfica**, n. 18, maio-ago. 2021.
+>SCARELI, G. A máquina de costura e os fios da memória. **Revista Brasileira de Pesquisa (Auto)Biográfica**, n. 18, maio-ago. 2021.
 
 A definição de Sertão descrita no bordado associa esse recorte espacial a
 
@@ -1195,7 +1195,7 @@ CH - 1º DIA - CADERNO 1 - AZUL
 
 # QUESTÃO 50
 
-Superar a história da escravidão como principal marca da trajetória do negro no país tem sido uma tônica daqueles que se dedicam a pesquisar as heranças de origem afro à cultura brasileira. A esse esforço de reconstrução da própria história do país, alia-se agora a criação da plataforma digital Ancestralidades. “A história do negro no Brasil vai continuar sendo contada, e cada passo que a gente dá para trás é um passo que a gente avança”, diz Márcio Black, idealizador da plataforma, sobre o estudo de figuras ainda encobertas pela perspectiva histórica imposta pelos colonizadores da América.
+>Superar a história da escravidão como principal marca da trajetória do negro no país tem sido uma tônica daqueles que se dedicam a pesquisar as heranças de origem afro à cultura brasileira. A esse esforço de reconstrução da própria história do país, alia-se agora a criação da plataforma digital Ancestralidades. “A história do negro no Brasil vai continuar sendo contada, e cada passo que a gente dá para trás é um passo que a gente avança”, diz Márcio Black, idealizador da plataforma, sobre o estudo de figuras ainda encobertas pela perspectiva histórica imposta pelos colonizadores da América.
 >
 > FIORATI, G. Projeto joga luz sobre negros e revê perspectiva histórica. Disponível em: www1.folha.uol.com.br. Acesso em: 10 nov. 2021 (adaptado).
 
@@ -1209,7 +1209,7 @@ Em relação ao conhecimento sobre a formação cultural brasileira, iniciativas
 
 # QUESTÃO 51
 
-Escrito durante a Primeira Guerra Mundial, o seguinte trecho faz parte da carta enviada pelo secretário do exterior britânico, Sir Arthur James Balfour, ao banqueiro Lord Rotschild, presidente da Liga Sionista, em 2 de novembro de 1917, a carta ficou conhecida como Declaração Balfour:
+>Escrito durante a Primeira Guerra Mundial, o seguinte trecho faz parte da carta enviada pelo secretário do exterior britânico, Sir Arthur James Balfour, ao banqueiro Lord Rotschild, presidente da Liga Sionista, em 2 de novembro de 1917, a carta ficou conhecida como Declaração Balfour:
 
 > “O governo de Sua Majestade vê com aprovação o estabelecimento na Palestina de um lar nacional para o povo judeu, e fará todos os esforços para facilitar tal objetivo. Nada será feito que possa prejudicar os direitos civis e religiosos das comunidades não judaicas na Palestina.”
 >
@@ -1227,13 +1227,13 @@ A análise do resultado do processo em questão revela que o governo inglês foi
 
 **TEXTO I**
 
-Como presença consciente no mundo não posso escapar à responsabilidade ética no meu mover-me no mundo. Se sou puro produto da determinação genética ou cultural ou de classe, sou irresponsável pelo que faço no meu mover-me no mundo e, se careço de responsabilidade, não posso falar em ética.
+>Como presença consciente no mundo não posso escapar à responsabilidade ética no meu mover-me no mundo. Se sou puro produto da determinação genética ou cultural ou de classe, sou irresponsável pelo que faço no meu mover-me no mundo e, se careço de responsabilidade, não posso falar em ética.
 >
 > FREIRE, P. Pedagogia da autonomia: saberes necessários à prática educativa. São Paulo: Paz e Terra, 1996.
 
 **TEXTO II**
 
-Paulo Freire construiu uma pedagogia da esperança. Na sua concepção, a história não é algo pronto e acabado. As estruturas de opressão e as desigualdades, apesar de serem naturalizadas, são sócio e historicamente construídas. Daí a importância de os educadores tomarem consciência da sua realidade para, assim, transformá-la.
+>Paulo Freire construiu uma pedagogia da esperança. Na sua concepção, a história não é algo pronto e acabado. As estruturas de opressão e as desigualdades, apesar de serem naturalizadas, são sócio e historicamente construídas. Daí a importância de os educadores tomarem consciência da sua realidade para, assim, transformá-la.
 >
 > DEMARCHI, J. L. Paulo Freire. Disponível em: https://diapionline.org.br. Acesso em: 8 out. 2021 (adaptado).
 
@@ -1247,7 +1247,7 @@ Com base no conceito de ética pedagógica presente nos textos, os educandos tor
 
 # QUESTÃO 53
 
-A Cordilheira do Himalaia tem mais de 50 milhões de anos, sendo classificada como a maior cordilheira do planeta. Originalrio da língua sânscrito, comum na região, seu nome quer dizer “morada da neve”. É possível encontrar nessa cordilheira as quinze maiores montanhas do mundo. Ao todo, existem mais de cem picos, que contam com altitudes bem maiores que 7 000 m. O Everest, considerado o ponto mais alto da Terra, tem nada menos que 8 848 m de altitude, e continua crescendo, aproximadamente, 0,8 mm a cada ano.
+>A Cordilheira do Himalaia tem mais de 50 milhões de anos, sendo classificada como a maior cordilheira do planeta. Originalrio da língua sânscrito, comum na região, seu nome quer dizer “morada da neve”. É possível encontrar nessa cordilheira as quinze maiores montanhas do mundo. Ao todo, existem mais de cem picos, que contam com altitudes bem maiores que 7 000 m. O Everest, considerado o ponto mais alto da Terra, tem nada menos que 8 848 m de altitude, e continua crescendo, aproximadamente, 0,8 mm a cada ano.
 >
 > Disponível em: https://meioambiente.culturamix.com. Acesso em: 12 nov. 2021 (adaptado).
 
@@ -1261,7 +1261,7 @@ Qual dinâmica natural é responsável pelo fenômeno apresentado?
 
 # QUESTÃO 54
 
-Eu poderia concluir que a raiva é um pensamento, que estar com raiva é pensar que alguém é detestável, e que esse pensamento, como todos os outros — assim como Descartes o mostrou —, não poderia residir em nenhum fragmento de matéria. A raiva seria, portanto, espírito. Porém, quando me volto para minha própria experiência da raiva, devo confessar que ela não estava fora do meu corpo, mas inexplicavelmente nele.
+>Eu poderia concluir que a raiva é um pensamento, que estar com raiva é pensar que alguém é detestável, e que esse pensamento, como todos os outros — assim como Descartes o mostrou —, não poderia residir em nenhum fragmento de matéria. A raiva seria, portanto, espírito. Porém, quando me volto para minha própria experiência da raiva, devo confessar que ela não estava fora do meu corpo, mas inexplicavelmente nele.
 >
 > MERLEAU-PONTY, M. Quinta conversa: o homem visto de fora. São Paulo: Martins Fontes, 1948 (adaptado).
 
@@ -1275,9 +1275,9 @@ No que se refere ao problema do corpo, a filosofia cartesiana apresenta-se como 
 
 # QUESTÃO 55
 
-A diversão é o prolongamento do trabalho sob o capitalismo tardio. Ela é procurada por quem quer escapar ao processo de trabalho mecanizado para se pôr de novo em condições de enfrentá-lo. Mas, ao mesmo tempo, a mecanização atingiu um tal poderio sobre a pessoa em seu lazer e sobre a sua felicidade, ela determina tão profundamente a fabricação das mercadorias destinadas à diversão que essa pessoa não pode mais perceber outra coisa senão as cópias que reproduzem o próprio processo de trabalho.
-
-ADORNO, T.; HORKHEIMER, M. **Dialética do esclarecimento**. Rio de Janeiro: Zahar, 1997.
+>A diversão é o prolongamento do trabalho sob o capitalismo tardio. Ela é procurada por quem quer escapar ao processo de trabalho mecanizado para se pôr de novo em condições de enfrentá-lo. Mas, ao mesmo tempo, a mecanização atingiu um tal poderio sobre a pessoa em seu lazer e sobre a sua felicidade, ela determina tão profundamente a fabricação das mercadorias destinadas à diversão que essa pessoa não pode mais perceber outra coisa senão as cópias que reproduzem o próprio processo de trabalho.
+>
+>ADORNO, T.; HORKHEIMER, M. **Dialética do esclarecimento**. Rio de Janeiro: Zahar, 1997.
 
 No texto, o tempo livre é concebido como
 
@@ -1303,9 +1303,9 @@ A charge ilustra um anseio presente na sociedade contemporânea, que se caracter
 
 # QUESTÃO 57
 
-Quem se mete pelo caminho do pedido de perdão deve estar pronto a escutar uma palavra de recusa. Entrar na atmosfera do perdão é aceitar medir-se com a possibilidade sempre aberta do imperdoável. Perdão pedido não é perdão a que se tem direito [devido]. É com o preço destas reservas que a grandeza do perdão se manifesta.
-
-RICOEUR, P. **O perdão pode curar**. Disponível em: www.lusosofia.net. Acesso em: 14 out. 2019.
+>Quem se mete pelo caminho do pedido de perdão deve estar pronto a escutar uma palavra de recusa. Entrar na atmosfera do perdão é aceitar medir-se com a possibilidade sempre aberta do imperdoável. Perdão pedido não é perdão a que se tem direito [devido]. É com o preço destas reservas que a grandeza do perdão se manifesta.
+>
+>RICOEUR, P. **O perdão pode curar**. Disponível em: www.lusosofia.net. Acesso em: 14 out. 2019.
 
 A reflexão sobre o perdão apresentada no texto encontra fundamento na(s)
 
@@ -1459,8 +1459,8 @@ Considerando a realidade brasileira, os textos se aproximam ao apresentarem uma 
 
 # QUESTÃO 67
 
-No sul da Bahia, desde o século XVIII, tem-se registros de um tipo de sistema agroflorestal. Até hoje, esse sistema é característica marcante da paisagem da região, conhecido como cabruca, que consiste no cultivo do cacau à sombra do dossel da floresta nativa. Esse sistema de cultivo de cacau (graças à tolerância da espécie à sombra) é considerado amigável para a vida silvestre, pois apresenta superioridade em termos de conservação da biodiversidade quando comparado com outras plantações tropicais (monoculturas de dendê, seringa ou café), agricultura ou pastagens.
-
+>No sul da Bahia, desde o século XVIII, tem-se registros de um tipo de sistema agroflorestal. Até hoje, esse sistema é característica marcante da paisagem da região, conhecido como cabruca, que consiste no cultivo do cacau à sombra do dossel da floresta nativa. Esse sistema de cultivo de cacau (graças à tolerância da espécie à sombra) é considerado amigável para a vida silvestre, pois apresenta superioridade em termos de conservação da biodiversidade quando comparado com outras plantações tropicais (monoculturas de dendê, seringa ou café), agricultura ou pastagens.
+>
 > SOLLBERG, I.; SCHIAVETTI, A.; MORAES, M. E. B. Manejo agrícola no Refúgio de Vida Silvestre de Una: agroflorestas como uma perspectiva de conservação. **Revista Árvore**, n. 2, 2014 (adaptado).
 
 A prática produtiva apresentada é um exemplo de
@@ -1515,9 +1515,9 @@ O acontecimento descrito no texto, ocorrido em meados dos anos 1970, atesta a se
 
 # QUESTÃO 71
 
-Alternativas logísticas estão servindo de instrumentos que ativam os mercados especuladores de terras nas diferentes regiões da Amazônia e constituem em indicadores utilizados por diferentes atores para defender ou denunciar o avanço da cultura da soja na região e, com ela, a retomada do desmatamento. É evidente que o crescimento do desmatamento tem a ver também com a expansão da soja, porém atribuir a ela o fator principal parece não totalmente correto. Parte da compreensão central de que a lógica que gera o desmatamento está articulada pelo tripé grileiros, madeireiros e pecuaristas.
-
-OLIVEIRA, A. U. A Amazônia e a nova geografia da produção da soja. Terra Livre, n. 26, jan.-jun. 2006 (adaptado).
+>Alternativas logísticas estão servindo de instrumentos que ativam os mercados especuladores de terras nas diferentes regiões da Amazônia e constituem em indicadores utilizados por diferentes atores para defender ou denunciar o avanço da cultura da soja na região e, com ela, a retomada do desmatamento. É evidente que o crescimento do desmatamento tem a ver também com a expansão da soja, porém atribuir a ela o fator principal parece não totalmente correto. Parte da compreensão central de que a lógica que gera o desmatamento está articulada pelo tripé grileiros, madeireiros e pecuaristas.
+>
+>OLIVEIRA, A. U. A Amazônia e a nova geografia da produção da soja. Terra Livre, n. 26, jan.-jun. 2006 (adaptado).
 
 Na visão do autor, o problema central da situação descrita é desencadeado pela
 
@@ -1541,7 +1541,7 @@ Na visão do autor, o problema central da situação descrita é desencadeado pe
 
 ![Quadrinho com um astronauta em um planeta e um alienígena segurando um celular. O astronauta diz: "VIEMOS EM PAZ!". O alienígena, olhando para a tela do celular que mostra um rosto humano, diz: "ACREDITE EM MIM. NÃO CONFIE NESSE PESSOAL!".](pg25img0_x0_509_y0_320_x1_945_y1_557.jpeg)
 
-CAZO. Disponível em: www.humorpolitico.com.br. Acesso em: 5 nov. 2021.
+>CAZO. Disponível em: www.humorpolitico.com.br. Acesso em: 5 nov. 2021.
 
 Os textos apresentam perspectivas da nova corrida espacial que revelam, respectivamente:
 
@@ -1599,8 +1599,8 @@ Qual mudança no comportamento social a proposta reportada no texto reflete?
 
 ![Gráfico de barras intitulado "Taxa de fecundidade no Brasil", com o texto "De 1960 a 2020, número de filhos baixa de 6,3 para 1,5". O eixo vertical esquerdo representa "Filhos por mulher" e varia de 0 a 7. O eixo horizontal representa "Décadas", com os anos 1960, 1970, 1980, 1990, 2000, 2010, 2020, 2030, 2040 e 2050. As barras indicam os valores: 6,3 (1960), 5,8 (1970), 4,1 (1980), 2,8 (1990), 2,4 (2000), 1,8 (2010), 1,5 (2020), 1,5 (2030), 1,5 (2040) e 1,5 (2050). Uma seta horizontal pontilhada se estende de 1960 a 2020.](fig0q76.png)
 
-Fonte: IBGE.
-Disponível em: www.insper.edu.br. Acesso em: 27 set. 2021 (adaptado).
+>Fonte: IBGE.
+>Disponível em: www.insper.edu.br. Acesso em: 27 set. 2021 (adaptado).
 
 Qual fator foi determinante para a mudança do indicador apresentado no gráfico?
 
@@ -1732,9 +1732,9 @@ No contexto descrito, as mudanças mencionadas proporcionavam às mulheres o(a)
 
 # QUESTÃO 85
 
-Produtores rurais europeus são antigos opositores de um grande acordo com o Mercosul. Na visão deles, existe um nítido risco de concorrência desleal, pois, na Europa, é preciso seguir regras mais rígidas de produção, o que encarece o processo. Assim, eles não conseguiriam competir com os preços, por exemplo, da carne brasileira e teriam seus negócios ameaçados. Por outro lado, o setor industrial europeu se mobiliza a favor do acordo, uma vez que as reduções de tarifas no comércio internacional dariam maior acesso ao mercado sul-americano. Um exemplo é o setor automotivo europeu, que prevê maior participação e concorrência nos países do Mercosul caso o acordo siga em frente.
-
-ROUBICEK, M. Como o risco ambiental afeta o acordo entre Mercosul e União Europeia. Disponível em: www.nexojornal.com.br. Acesso em: 23 out. 2021.
+>Produtores rurais europeus são antigos opositores de um grande acordo com o Mercosul. Na visão deles, existe um nítido risco de concorrência desleal, pois, na Europa, é preciso seguir regras mais rígidas de produção, o que encarece o processo. Assim, eles não conseguiriam competir com os preços, por exemplo, da carne brasileira e teriam seus negócios ameaçados. Por outro lado, o setor industrial europeu se mobiliza a favor do acordo, uma vez que as reduções de tarifas no comércio internacional dariam maior acesso ao mercado sul-americano. Um exemplo é o setor automotivo europeu, que prevê maior participação e concorrência nos países do Mercosul caso o acordo siga em frente.
+>
+>ROUBICEK, M. Como o risco ambiental afeta o acordo entre Mercosul e União Europeia. Disponível em: www.nexojornal.com.br. Acesso em: 23 out. 2021.
 
 No contexto do acordo citado, os dois grupos econômicos europeus defendem, respectivamente, a
 
@@ -1746,9 +1746,9 @@ No contexto do acordo citado, os dois grupos econômicos europeus defendem, resp
 
 # QUESTÃO 86
 
-Durante a Revolução Francesa, um certo padre Niollant escondeu-se no pequeno castelo de L'Escarbas. Pagou amplamente a hospitalidade do velho fidalgo ocupando-se da educação de sua filha, Anaís. A presença da mãe em nada modificou essa educação masculina dada a uma jovem criatura já muito inclinada à independência em virtude da vida no campo. O padre transmitiu à aluna sua intrepidez de opiniões e sua facilidade de julgamento, sem pensar que essas qualidades, tão necessárias num homem, se tornam defeitos numa mulher destinada aos humildes afazeres de mãe de família. Embora o padre recomendasse continuamente à aluna ser tanto mais graciosa e modesta quanto seu saber era mais extenso, a senhorita de Nègrepelisse ficou com excelente opinião de si mesma.
-
-BALZAC, H. Ilusões perdidas. São Paulo: Penguin Classics; Cia. das Letras, 2011 (adaptado).
+>Durante a Revolução Francesa, um certo padre Niollant escondeu-se no pequeno castelo de L'Escarbas. Pagou amplamente a hospitalidade do velho fidalgo ocupando-se da educação de sua filha, Anaís. A presença da mãe em nada modificou essa educação masculina dada a uma jovem criatura já muito inclinada à independência em virtude da vida no campo. O padre transmitiu à aluna sua intrepidez de opiniões e sua facilidade de julgamento, sem pensar que essas qualidades, tão necessárias num homem, se tornam defeitos numa mulher destinada aos humildes afazeres de mãe de família. Embora o padre recomendasse continuamente à aluna ser tanto mais graciosa e modesta quanto seu saber era mais extenso, a senhorita de Nègrepelisse ficou com excelente opinião de si mesma.
+>
+>BALZAC, H. Ilusões perdidas. São Paulo: Penguin Classics; Cia. das Letras, 2011 (adaptado).
 
 O comportamento desenvolvido pela personagem evidencia uma postura de
 
@@ -1782,9 +1782,9 @@ Conforme descrito nos textos, o tratamento dispensado aos grupos mencionados se 
 
 # QUESTÃO 88
 
-Concorrer e competir não são a mesma coisa. A concorrência pode até ser saudável sempre que a batalha entre agentes, para melhor empreender uma tarefa e obter melhores resultados finais, exige o respeito a certas regras de convivência preestabelecidas ou não. Já a competitividade se funda na invenção de novas armas de luta, num exercício em que a única regra é a conquista da melhor posição. A competitividade é uma espécie de guerra em que tudo vale e, desse modo, sua prática provoca um afrouxamento dos valores morais e um convite ao exercício da violência.
-
-SANTOS, M. Por uma outra globalização: do pensamento único à consciência universal. Rio de Janeiro: Record, 2006.
+>Concorrer e competir não são a mesma coisa. A concorrência pode até ser saudável sempre que a batalha entre agentes, para melhor empreender uma tarefa e obter melhores resultados finais, exige o respeito a certas regras de convivência preestabelecidas ou não. Já a competitividade se funda na invenção de novas armas de luta, num exercício em que a única regra é a conquista da melhor posição. A competitividade é uma espécie de guerra em que tudo vale e, desse modo, sua prática provoca um afrouxamento dos valores morais e um convite ao exercício da violência.
+>
+>SANTOS, M. Por uma outra globalização: do pensamento único à consciência universal. Rio de Janeiro: Record, 2006.
 
 De acordo com a diferenciação feita pelo autor, que prática econômica é considerada moralmente condenável?
 
@@ -1796,22 +1796,11 @@ De acordo com a diferenciação feita pelo autor, que prática econômica é con
 
 # QUESTÃO 89
 
-**Simulação de mudança da temperatura média anual em relação ao período pré-industrial em três cenários de aquecimento global**
+![Três mapas-múndi ovais lado a lado, intitulados "1,5 °C de aquecimento global", "2 °C de aquecimento global" e "4 °C de aquecimento global", com cores variando do bege ao vermelho-escuro. Abaixo, uma legenda horizontal intitulada "Variação (°C)", com escala de 0 a 7 e seta indicando "Mais quente".](fig0q89.png)
 
-![Três mapas-múndi ovais lado a lado, intitulados "1,5 °C de aquecimento global", "2 °C de aquecimento global" e "4 °C de aquecimento global", com cores variando do bege ao vermelho-escuro. Abaixo, uma legenda horizontal intitulada "Variação (°C)", com escala de 0 a 7 e seta indicando "Mais quente".](pg30img0_x0_55_y0_113_x1_944_y1_544.jpeg)
-
-**Simulação de mudança da pluviosidade média anual em relação ao período pré-industrial em três cenários de aquecimento global**
-
-[mapas de pluviosidade]
-
-**Variação (%)**
-
--40 -30 -20 -10 0 10 20 30 40
-Mais seco ◄──────────────► Mais úmido
-
-Fonte: IPCC
-
-PIVETTA, M. O clima no Antropoceno. **Revista Pesquisa Fapesp**, n. 307, set. 2021.
+>Fonte: IPCC
+>
+>PIVETTA, M. O clima no Antropoceno. **Revista Pesquisa Fapesp**, n. 307, set. 2021.
 
 Qual medida é capaz de minimizar as mudanças apresentadas nas simulações?
 
@@ -1824,8 +1813,8 @@ Qual medida é capaz de minimizar as mudanças apresentadas nas simulações?
 # QUESTÃO 90
 
 > Não tinha outra filosofia. Nem eu. Não digo que a Universidade me não tivesse ensinado alguma; mas eu decorei-lhe só as fórmulas, o vocabulário, o esqueleto. Tratei-a como tratei o latim; embolsei três versos de Virgílio, dois de Horácio, uma dúzia de locuções morais e políticas, para as despesas da conversação. Tratei-os como tratei a história e a jurisprudência. Colhi de todas as coisas a fraseologia, a casca, a ornamentação.
-
-ASSIS, M. **Memórias póstumas de Brás Cubas**. Belo Horizonte: Autêntica, 1999.
+>
+>ASSIS, M. **Memórias póstumas de Brás Cubas**. Belo Horizonte: Autêntica, 1999.
 
 A descrição crítica do personagem de Machado de Assis assemelha-se às características dos sofistas, contestados pelos filósofos gregos da Antiguidade, porque se mostra alinhada à
 
@@ -1834,41 +1823,3 @@ A descrição crítica do personagem de Machado de Assis assemelha-se às caract
 - **C** narração alegórica dos rapsodos.
 - **D** investigação empírica da physís.
 - **E** expressão pictográfica da pólis.
-
-enem2023
-
-**Transcreva a sua Redação para a Folha de Redação.**
-
-1  
-2  
-3  
-4  
-5  
-6  
-7  
-8  
-9  
-10  
-11  
-12  
-13  
-14  
-15  
-16  
-17  
-18  
-19  
-20  
-21  
-22  
-23  
-24  
-25  
-26  
-27  
-28  
-29  
-30  
-
-32 1º DIA • CADERNO 1 • AZUL enem2023
-

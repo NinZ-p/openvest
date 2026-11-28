@@ -31,18 +31,17 @@ while True:
     scores=[]
     print("Search results:")
     for result in results:
-        # Result format: (id, score)
         doc_id, score, _ = result
         scores.append([score,doc_id])
     scores=sorted(scores)[::-1]
 
     prscores=[[scores[i][0]-scores[i+1][0],scores[i][1]] for i in range(len(scores)-1)]
-    mval=max(prscores)
-    midx=prscores.index(mval)
-    if mval>0.007:
-        for r in prscores[:midx+1]:
-            # Result format: (id, score)
-            score, doc_id = r
+    
+    midx=len(prscores)-1
+    while midx>=0 and prscores[midx][0]<0.0075:
+        midx-=1
+    
+    for r in prscores[:midx+1]:
+        score, doc_id = r
 
-    #        if zscores[idx]>2.3:
-            print(f" - Match: {doc_id} (Score: {score:.4f}) - Question {monolith[int(doc_id)]["numero_exercicio"]} - Test {monolith[int(doc_id)]["id_prova"]}")
+        print(f" - Match: {doc_id} (Score: {score:.4f}) - Question {monolith[int(doc_id)]["numero_exercicio"]} - Test {monolith[int(doc_id)]["id_prova"]}")

@@ -1,5 +1,3 @@
-![Código de barras vertical com o número 01 abaixo](pg0img0_x0_-23_y0_-17_x1_223_y1_117.jpx)
-
 **1º DIA**
 
 # EXAME NACIONAL DO ENSINO MÉDIO
@@ -33,10 +31,6 @@ c) questões de número 46 a 90, relativas à área de Ciências Humanas e suas 
 8. Quando terminar as provas, acene para chamar o aplicador e entregue este CADERNO DE QUESTÕES e o CARTÃO-RESPOSTA/FOLHA DE REDAÇÃO.
 9. Você poderá deixar o local de prova somente após decorridas duas horas do início da aplicação e poderá levar seu CADERNO DE QUESTÕES ao deixar em definitivo a sala de prova nos **30 minutos** que antecedem o término das provas.
 
-![Logo do INEP](pg0img12_x0_469_y0_-17_x1_715_y1_117.png)
-
-![Selo de certificação FSC MISTO com o texto "Papel | Apoiando o manejo florestal responsável" e o código FSC® C118794](pg0img23_x0_715_y0_-17_x1_961_y1_117.png)
-
 # LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS
 Questões de 01 a 45
 Questões de 01 a 05 (opção inglês)
@@ -45,11 +39,9 @@ Questões de 01 a 05 (opção inglês)
 
 **QUOTES**
 
-![Ilustração em preto e branco de um homem idoso com cabelos desalinhados e bigode, com as mãos próximas ao rosto. Ao lado, o texto: "Out of clutter, find simplicity. From discord, find harmony. In the middle of difficulty lies opportunity. - Albert Einstein -".](pg1img0_x0_60_y0_161_x1_484_y1_662.jpeg)
+![Ilustração em preto e branco de um homem idoso com cabelos desalinhados e bigode, com as mãos próximas ao rosto. Ao lado, o texto: "Out of clutter, find simplicity. From discord, find harmony. In the middle of difficulty lies opportunity. - Albert Einstein -". Ilustração colorida de um homem negro com cabelos dreadlocks, sorrindo, sobre um fundo com faixas verde, amarelo e vermelho. Ele veste uma camiseta preta com os dizeres: "SOME PEOPLE FEEL THE RAIN OTHERS JUST GET WET - Bob Marley".](pg1img0_x0_60_y0_161_x1_484_y1_662.jpeg)
 
-![Ilustração colorida de um homem negro com cabelos dreadlocks, sorrindo, sobre um fundo com faixas verde, amarelo e vermelho. Ele veste uma camiseta preta com os dizeres: "SOME PEOPLE FEEL THE RAIN OTHERS JUST GET WET - Bob Marley".](pg1img1_x0_512_y0_456_x1_941_y1_669.jpeg)
-
-Disponível em: http://thumbpress.com. Acesso em: 28 out. 2013.
+>Disponível em: http://thumbpress.com. Acesso em: 28 out. 2013.
 
 A relação entre as citações atribuídas ao físico Albert Einstein e ao cantor e compositor Bob Marley reside na crença de que é necessário
 
@@ -61,8 +53,8 @@ A relação entre as citações atribuídas ao físico Albert Einstein e ao cant
 
 # QUESTÃO 02
 
-**Holy War**
-
+>**Holy War**
+>
 > Oh, so we can hate each other and fear each other
 > We can build these walls between each other
 > Baby, blow by blow and brick by brick
@@ -72,8 +64,8 @@ A relação entre as citações atribuídas ao físico Albert Einstein e ao cant
 > Oh, maybe we could care a little more
 > So maybe we should love somebody
 > Instead of polishing the bombs of holy war
-
-KEYS, A. **Here**. Estados Unidos: RCA Records, 2016.
+>
+>KEYS, A. **Here**. Estados Unidos: RCA Records, 2016.
 
 Nessa letra de canção, que aborda um contexto de ódio e intolerância, o marcador “*instead of*” introduz a ideia de
 
@@ -85,9 +77,8 @@ Nessa letra de canção, que aborda um contexto de ódio e intolerância, o marc
 
 # QUESTÃO 03
 
-![Janela de computador intitulada "70% Deleted", com ícones de árvores e um globo terrestre. Abaixo, uma barra de progresso azul e as informações: "Estimated time left: 2 decades (713K Billion items removed)", "Removed by: World:\Users\...", "Remove rate: 1000/Sec". Na parte inferior, os botões "Open", "Open Folder" e "Cancel".](pg1img2_x0_978_y0_-16_x1_1018_y1_1016.png)
-
-Disponível em: www.hongkiat.com. Acesso em: 18 ago. 2017 (adaptado).
+![Janela de computador intitulada "70% Deleted", com ícones de árvores e um globo terrestre. Abaixo, uma barra de progresso azul e as informações: "Estimated time left: 2 decades (713K Billion items removed)", "Removed by: World:\Users\...", "Remove rate: 1000/Sec". Na parte inferior, os botões "Open", "Open Folder" e "Cancel".](pg1img1_x0_512_y0_456_x1_941_y1_669.jpeg)
+>Disponível em: www.hongkiat.com. Acesso em: 18 ago. 2017 (adaptado).
 
 O texto estabelece uma relação entre elementos da natureza e comandos de um programa de computador para
 
@@ -96,8 +87,6 @@ O texto estabelece uma relação entre elementos da natureza e comandos de um pr
 - **C** apresentar aos leitores os avanços tecnológicos na área da agricultura.
 - **D** orientar os usuários sobre o emprego sustentável das novas tecnologias.
 - **E** informar os interessados sobre o tempo de crescimento de novas árvores.
-
-2 LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS E REDAÇÃO • 1º DIA • CADERNO 1 • AZUL • enem2024
 
 # QUESTÃO 04
 
@@ -130,8 +119,8 @@ O problema abordado nesse texto sobre imigrantes residentes nos Estados Unidos d
 > Best of luck.
 >
 > Stephanie Allen-Nichols
-
-Disponível em: www.clickhole.com. Acesso em: 26 out. 2015.
+>
+>Disponível em: www.clickhole.com. Acesso em: 26 out. 2015.
 
 A carta da editora Stephanie Allen-Nichols à escritora Alice Walker tem o propósito de
 
@@ -163,10 +152,6 @@ Na argumentação apresentada sobre cultura do cancelamento, esse texto objetiva
 
 ---
 
-enem2024 • LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS E REDAÇÃO • 1º DIA • CADERNO 1 • AZUL
-
-3
-
 # QUESTÃO 02
 
 > “Y si llueve, que llueva” es un refrán gallego. Para mí cobró sentido una noche de febrero, cuando vivía en el barrio de la Macarena de Sevilla con dos buenos amigos, gallegos también.
@@ -174,8 +159,8 @@ enem2024 • LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS E REDAÇÃO • 1º DIA •
 > Mi compañero y yo nos decidimos a salir ese sábado de noche, pese a que había estado lloviendo algunas horas a lo largo del día. La idea era una locura, al parecer. Le propusimos salir “de parranda” con nosotros a una amiga andaluza, ésta respondió que no, nos dijo que no iba a salir un día de lluvia. Flipamos. Comentamos entre nosotros que si los gallegos no saliésemos de casa cuando llueve, en invierno saldríamos poco. Habríamos inventado el confinamiento hace mucho.
 >
 > Los gallegos no dejamos de salir por la lluvia.
-
-Disponível em: https://politicahora.es. Acesso em: 26 out. 2021.
+>
+>Disponível em: https://politicahora.es. Acesso em: 26 out. 2021.
 
 O comportamento dos personagens narrado no texto destaca o(a)
 
@@ -190,8 +175,8 @@ O comportamento dos personagens narrado no texto destaca o(a)
 > Celerina Patricia Sánchez Santiago comentó que su acercamiento a la poesía fue por la escuela, con libros de texto en español. Descubrió el gusto por las letras pero notó que no había textos en la suya, así que, contra muchos comentarios negativos que recibió en ese momento, decidió emprender el camino de la escritura pero en mixteco. “Fue un proceso de años para notar que en mi lengua podía escribir poesía, porque me decían que mi lengua era tan pobre que no podía tener conceptos abstractos, era un reto pero yo sabía que sí era posible”.
 >
 > Este proceso no sólo le ayudó a vivir la poesía en mixteco, sino a “ir descubriendo mi propia historia y la de mi pueblo”. Comentó que las lenguas habladas en el territorio nacional se encuentran en gran desventaja con el español. “El reconocimiento a la diversidad no se ha hecho y ha sido tratada de borrar. Este es un país con 68 lenguas y somos monolingües del español. Antes había nulo de reconocimiento de ser bilingüe, negabas que hablabas tu lengua, hasta le decían dialecto. Era parte del proceso fatal que nos llevó a no reconocernos en un país multilingüe. ¿Si tenemos varias lenguas por qué no aprender?”.
-
-Disponível em: www.fapcom.edu.br. Acesso em: 20 nov. 2021.
+>
+>Disponível em: www.fapcom.edu.br. Acesso em: 20 nov. 2021.
 
 Em sua escrita poética, a poeta mexicana Celerina Patricia Sánchez Santiago assume o desafio de
 
@@ -206,8 +191,8 @@ Em sua escrita poética, a poeta mexicana Celerina Patricia Sánchez Santiago as
 > **Morir muy vivos**
 >
 > No todo es perder, es cierto. Si te esfuerzas mucho y bien, porque no viene de fábrica, ganas conocimiento del mundo y de ti mismo, empatía, sosiego y, en suma, algo que podríamos denominar sabiduría. Pero creo que para ello hay que mantenerse alerta y no darse nunca por vencido. Pero también es un tiempo para saldar cuentas. No creo que haya que dejarse llevar por el peso de los días como un leño podrido al que las olas arrojan finalmente a la playa. Uno siempre puede intentar sacarse alguna de las piedras que lleva a la espalda, decir las cosas que nunca se atrevió a decir, cumplir en la medida de lo posible los deseos arrumbados, rescatar algún sueño que quedó en la cuneta. No rendirse, esa es la clave. Y sobre todo decirse: ¿y por qué no? Porque la vejez no está reñida con la audacia. Debemos aspirar a morir muy vivos.
-
-MONTERO, R. Disponível em: https://elpais.com.
+>
+>MONTERO, R. Disponível em: https://elpais.com.
 Acesso em: 4 dez. 2017.
 
 Nesse texto, ao utilizar a expressão “morir muy vivos”, a escritora Rosa Montero evidencia a importância de se
@@ -236,8 +221,8 @@ Nesse texto, ao utilizar a expressão “morir muy vivos”, a escritora Rosa Mo
 > Rojas están las aguas, están como teñidas,
 > y cuando las bebimos,
 > es como si bebiéramos agua de salitre.
-
-Manuscrito anônimo de Tlatelolco. 1528. Disponível em: www.biblioweb.tic.unam.mx. Acesso em: 13 out. 2021 (fragmento).
+>
+>Manuscrito anônimo de Tlatelolco. 1528. Disponível em: www.biblioweb.tic.unam.mx. Acesso em: 13 out. 2021 (fragmento).
 
 Nesse poema, o eu lírico representa a voz de um sobrevivente asteca que testemunha a
 
@@ -246,8 +231,6 @@ Nesse poema, o eu lírico representa a voz de um sobrevivente asteca que testemu
 - **C** tristeza dos refugiados astecas ao deixarem a capital do Império rumo ao exílio.
 - **D** aflição dos astecas ao receberem os colonizadores espanhóis na capital do Império.
 - **E** resistência dos astecas às mudanças feitas pelos colonizadores espanhóis na capital do Império.
-
-![Descrição detalhada da imagem](pg4img0_x0_-18_y0_-16_x1_21_y1_1016.png)
 
 # LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS
 Questões de 06 a 45
@@ -259,8 +242,8 @@ Questões de 06 a 45
 > “Na linguagem, podemos nos ver da forma mais verdadeira: nossas crenças, nossos valores, nosso lugar no mundo”, afirmou o doutor em linguística e professor da Ufam em seu livro *Amazonês: expressões e termos usados no Amazonas*. Portanto, o amazonense, com todas as suas “cunhantãs” e “curumins”, acaba por encontrar um lugar no mundo e formar uma unidade linguística, informalmente denominada de português “caboco”, que muito se diferencia do português “mineiro”, “gaúcho”, “carioca” e de tantos outros espalhados pelo Brasil. O livro, que conta com cerca de 1 100 expressões e termos típicos do falar amazonense, levou dez anos para ser construído. Para o autor, o principal objetivo da obra é registrar a linguagem.
 >
 > Um designer amazonense também acha o amazonês “xibata”, tanto é que criou uma série de camisetas estampadas com o nome de Caboquês Ilustrado, que mistura o bom humor com as expressões típicas da região. A coleção conta com sete modelos já lançados, entre eles: Leseira Baré, Xibata no Balde e Até o Tucupi, e 43 ainda na fila de espera. Para o criador, as camisas têm como objetivo “resgatar o orgulho do povo manauara, do povo do Norte”.
-
-Disponível em: https://g1.globo.com. Acesso em: 15 jan. 2024 (adaptado).
+>
+>Disponível em: https://g1.globo.com. Acesso em: 15 jan. 2024 (adaptado).
 
 A reportagem apresenta duas iniciativas: o livro *Amazonês* e as camisetas do Caboquês Ilustrado. Com temática em comum, essas iniciativas
 
@@ -279,8 +262,8 @@ A reportagem apresenta duas iniciativas: o livro *Amazonês* e as camisetas do C
 > Elizabeth Gomes: a santista de 55 anos era jogadora de vôlei quando foi diagnosticada com esclerose múltipla em 1993. Ingressou no Movimento Paralímpico pelo basquete em cadeira de rodas até experimentar o atletismo. Chegou a praticar as duas modalidades simultaneamente até optar pelas provas de campo em 2010. No Campeonato Mundial de Atletismo, realizado em Dubai, em 2019, Beth se sagrou campeã do lançamento de disco e estabeleceu um novo recorde mundial da classe F52.
 >
 > Silvana Fernandes: a paraibana de 21 anos é natural de São Bento e nasceu com malformação no braço direito. Aos 15 anos, começou a praticar atletismo no lançamento de dardo. Em 2018, enquanto competia na regional Norte-Nordeste, foi convidada para conhecer o paratae kwon do. No ano seguinte, migrou para a modalidade e já faturou o ouro na categoria até 58 kg nos Jogos Parapan-Americanos de Lima 2019.
-
-Disponível em: https://cpb.org.br. Acesso em: 15 jan. 2024 (adaptado).
+>
+>Disponível em: https://cpb.org.br. Acesso em: 15 jan. 2024 (adaptado).
 
 Esse conjunto de minibiografias tem como propósito
 
@@ -293,8 +276,8 @@ Esse conjunto de minibiografias tem como propósito
 # QUESTÃO 08
 
 > É fundamentalmente no Minho, norte de Portugal, que o cavaquinho aparece como instrumento tipicamente popular, ligado às formas essenciais da música característica dessa província. O cavaquinho minhoto tem escala rasa com o tampo, o que facilita a prática do “rasqueado”. O cavaquinho chega ao Brasil diretamente de Portugal, e o modelo brasileiro é maior do que a sua versão portuguesa, com uma caixa de ressonância mais funda. Semelhante ao cavaquinho minhoto, o machete, ou machetinho madeirense, é um pequeno cordófono de corda dedilhada, que faz parte da grande e diversificada família das violas de mão portuguesas. O ukulele tem a sua origem no século XIX, tendo como ancestrais a braguinha (ou machete) e o rajão, instrumentos levados pelos madeirenses quando eles emigraram para o Havaí.
-
-OLIVEIRA, E. V. Cavaquinhos e família. Disponível em: https://casadaguitarra.pt. Acesso em: 18 nov. 2021 (adaptado).
+>
+>OLIVEIRA, E. V. Cavaquinhos e família. Disponível em: https://casadaguitarra.pt. Acesso em: 18 nov. 2021 (adaptado).
 
 O conjunto dessas práticas musicais demonstra que os instrumentos mencionados no texto
 
@@ -303,8 +286,6 @@ O conjunto dessas práticas musicais demonstra que os instrumentos mencionados n
 - **C** comprovam a hegemonia portuguesa na invenção de cordófonos dedilhados.
 - **D** ilustram processos de dominação cultural, evidenciando situações de choque cultural.
 - **E** mantêm nomenclatura própria para garantir a fidelidade às formas originais de confecção.
-
-![Código de barras horizontal no canto superior esquerdo e logotipo do ENEM 2024 no canto superior direito, com a inscrição "Exame Nacional do Ensino Médio".](pg5img0_x0_978_y0_-16_x1_1018_y1_1016.png)
 
 # QUESTÃO 09
 
@@ -354,15 +335,13 @@ Nesse texto, as falas atribuídas a Evanildo Bechara são representativas da var
 - **D** geracional, pois ele emprega termos característicos de sua faixa etária.
 - **E** ocupacional, pois ele faz uso de termos específicos de sua área de atuação.
 
-LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS E REDAÇÃO • 1º DIA • CADERNO 1 • AZUL • enem2024
-
 # QUESTÃO 12
 
-A Língua da Tabatinga, falada na cidade de Bom Despacho, Minas Gerais, foi por muito tempo estigmatizada devido à sua origem e à própria classe social de seus falantes, pois, segundo uma pesquisadora, era falada por “meninos pobres vindos da Tabatinga ou de Cruz de Monte — ruas da periferia da cidade cujos habitantes sempre foram tidos por marginais”. Conhecida por antigos como a “língua dos engraxates”, pois muitos trabalhadores desse ofício conversavam nessa língua enquanto lustravam sapatos na praça da matriz, a Língua da Tabatinga era utilizada por negros escravizados como uma espécie de “língua secreta”, um código para trocarem informações de como conseguir alimentos, ou para planejar fugas de seus senhores sem risco de serem descobertos por eles.
-
-De acordo com um documento do Iphan (2011), os falantes da língua apresentam uma forte consciência de sua relação com a descendência africana e da importância de preservar a “fala que os identifica na região”. Essa mudança de compreensão tangencia aspectos de pertencimento, pois, à medida que o falante da Língua da Tabatinga se identifica com a origem afro-brasileira, ele passa a ver essa língua como um legado recebido e tem o cuidado de transmiti-la para outras gerações. A concentração de falantes dessa língua está na faixa entre 21 e 60 anos de idade.
-
-Disponível em: www.historiaeparcerias2019.ri.anhup.org. Acesso em: 3 fev. 2024 (adaptado).
+>A Língua da Tabatinga, falada na cidade de Bom Despacho, Minas Gerais, foi por muito tempo estigmatizada devido à sua origem e à própria classe social de seus falantes, pois, segundo uma pesquisadora, era falada por “meninos pobres vindos da Tabatinga ou de Cruz de Monte — ruas da periferia da cidade cujos habitantes sempre foram tidos por marginais”. Conhecida por antigos como a “língua dos engraxates”, pois muitos trabalhadores desse ofício conversavam nessa língua enquanto lustravam sapatos na praça da matriz, a Língua da Tabatinga era utilizada por negros escravizados como uma espécie de “língua secreta”, um código para trocarem informações de como conseguir alimentos, ou para planejar fugas de seus senhores sem risco de serem descobertos por eles.
+>
+>De acordo com um documento do Iphan (2011), os falantes da língua apresentam uma forte consciência de sua relação com a descendência africana e da importância de preservar a “fala que os identifica na região”. Essa mudança de compreensão tangencia aspectos de pertencimento, pois, à medida que o falante da Língua da Tabatinga se identifica com a origem afro-brasileira, ele passa a ver essa língua como um legado recebido e tem o cuidado de transmiti-la para outras gerações. A concentração de falantes dessa língua está na faixa entre 21 e 60 anos de idade.
+>
+>Disponível em: www.historiaeparcerias2019.ri.anhup.org. Acesso em: 3 fev. 2024 (adaptado).
 
 A Língua da Tabatinga tem sido preservada porque o(a)
 
@@ -374,13 +353,13 @@ A Língua da Tabatinga tem sido preservada porque o(a)
 
 # QUESTÃO 13
 
-Diante do pouco dinheiro para produtos básicos de sobrevivência, são as adolescentes o alvo mais vulnerável à precariedade menstrual. Sofrem com dois fatores: o desconhecimento da importância da higiene menstrual para sua saúde e a dependência dos pais ou familiares para a compra do absorvente, que acaba entrando na lista de artigos supérfluos da casa.
-
-A falta do absorvente afeta diretamente o desempenho escolar dessas estudantes e, como consequência, restringe o desenvolvimento de seu potencial na vida adulta. Dados da Pesquisa Nacional de Saúde (PNS), do IBGE, revelaram que, das meninas entre 10 e 19 anos que deixaram de fazer alguma atividade (estudar, realizar afazeres domésticos, trabalhar ou, até mesmo, brincar) por problemas de saúde nos 14 dias anteriores à data da pesquisa, 2,88% deixaram de fazê-la por problemas menstruais. Para efeitos de comparação, o índice de meninas que relataram não ter conseguido realizar alguma de suas atividades por gravidez e parto foi menor: 2,55%.
-
-Dados da ONU apontam que, no mundo, uma em cada dez meninas falta às aulas durante o período menstrual. No Brasil, esse número é ainda maior: uma entre quatro estudantes já deixou de ir à escola por não ter absorventes. Com isso, perdem, em média, até 45 dias de aula, por ano letivo, como revela o levantamento Impacto da Pobreza Menstrual no Brasil. O ato biológico de menstruar acaba por virar mais um fator de desigualdade de oportunidades entre os gêneros.
-
-Disponível em: www12.senado.leg.br. Acesso em: 21 jan. 2024 (adaptado).
+>Diante do pouco dinheiro para produtos básicos de sobrevivência, são as adolescentes o alvo mais vulnerável à precariedade menstrual. Sofrem com dois fatores: o desconhecimento da importância da higiene menstrual para sua saúde e a dependência dos pais ou familiares para a compra do absorvente, que acaba entrando na lista de artigos supérfluos da casa.
+>
+>A falta do absorvente afeta diretamente o desempenho escolar dessas estudantes e, como consequência, restringe o desenvolvimento de seu potencial na vida adulta. Dados da Pesquisa Nacional de Saúde (PNS), do IBGE, revelaram que, das meninas entre 10 e 19 anos que deixaram de fazer alguma atividade (estudar, realizar afazeres domésticos, trabalhar ou, até mesmo, brincar) por problemas de saúde nos 14 dias anteriores à data da pesquisa, 2,88% deixaram de fazê-la por problemas menstruais. Para efeitos de comparação, o índice de meninas que relataram não ter conseguido realizar alguma de suas atividades por gravidez e parto foi menor: 2,55%.
+>
+>Dados da ONU apontam que, no mundo, uma em cada dez meninas falta às aulas durante o período menstrual. No Brasil, esse número é ainda maior: uma entre quatro estudantes já deixou de ir à escola por não ter absorventes. Com isso, perdem, em média, até 45 dias de aula, por ano letivo, como revela o levantamento Impacto da Pobreza Menstrual no Brasil. O ato biológico de menstruar acaba por virar mais um fator de desigualdade de oportunidades entre os gêneros.
+>
+>Disponível em: www12.senado.leg.br. Acesso em: 21 jan. 2024 (adaptado).
 
 Esse texto é marcado pela função referencial da linguagem, uma vez que cumpre o propósito de
 
@@ -392,11 +371,11 @@ Esse texto é marcado pela função referencial da linguagem, uma vez que cumpre
 
 # QUESTÃO 14
 
-Maranhenses que moram longe matam a saudade da terra natal usando expressões próprias do estado. Se o maranhês impressiona e desperta a curiosidade de quem mora no próprio Maranhão, imagine de quem vem de outros estados e países? A variedade linguística local é enorme e o modo de falar tão próprio e característico dos maranhenses vem conquistando muita gente e inspirando títulos e muito conteúdo digital com a criação de podcasts, blogs, perfis na internet, além de estampar diversos tipos de produtos e serviços de empresas locais.
-
-Com saudades do Maranhão, morando há 16 anos no Rio de Janeiro, um fotógrafo maranhense criou um perfil na internet no qual compartilha a culinária, brincadeiras e o “dicionário” maranhês. “A primeira vez que fui a uma padaria no Rio, na inocência, pedi 3 reais de ‘pães misturados’. Quando falei isso, as pessoas pararam e me olharam de uma forma bem engraçada, aí já fiquei ‘encabulado’, ‘ô’ e o atendente sorriu e explicou que lá não existia pão misturado e, sim, pão francês e suíço. Depois foi a minha vez de explicar sobre os pães ‘massa grossa e massa fina’”, contou o fotógrafo, com humor.
-
-Disponível em: https://oimparcial.com.br. Acesso em: 1 nov. 2021 (adaptado).
+>Maranhenses que moram longe matam a saudade da terra natal usando expressões próprias do estado. Se o maranhês impressiona e desperta a curiosidade de quem mora no próprio Maranhão, imagine de quem vem de outros estados e países? A variedade linguística local é enorme e o modo de falar tão próprio e característico dos maranhenses vem conquistando muita gente e inspirando títulos e muito conteúdo digital com a criação de podcasts, blogs, perfis na internet, além de estampar diversos tipos de produtos e serviços de empresas locais.
+>
+>Com saudades do Maranhão, morando há 16 anos no Rio de Janeiro, um fotógrafo maranhense criou um perfil na internet no qual compartilha a culinária, brincadeiras e o “dicionário” maranhês. “A primeira vez que fui a uma padaria no Rio, na inocência, pedi 3 reais de ‘pães misturados’. Quando falei isso, as pessoas pararam e me olharam de uma forma bem engraçada, aí já fiquei ‘encabulado’, ‘ô’ e o atendente sorriu e explicou que lá não existia pão misturado e, sim, pão francês e suíço. Depois foi a minha vez de explicar sobre os pães ‘massa grossa e massa fina’”, contou o fotógrafo, com humor.
+>
+>Disponível em: https://oimparcial.com.br. Acesso em: 1 nov. 2021 (adaptado).
 
 A vivência relatada no texto evidencia que as variedades linguísticas
 
@@ -417,8 +396,8 @@ A vivência relatada no texto evidencia que as variedades linguísticas
 > O governo federal propõe a Estratégia de Saúde Digital, um programa destinado à transformação digital da saúde no Brasil. Seu principal objetivo é facilitar a troca de informações entre os diversos pontos da Rede de Atenção à Saúde, promovendo a interoperabilidade e, assim, possibilitando a transição e a continuidade do cuidado nos setores público e privado. Também está em discussão um projeto de lei que dispõe sobre o prontuário eletrônico unificado do cidadão, o que indica o quanto o tema está em evidência tanto para os gestores públicos quanto para os privados.
 >
 > Contudo, é importante reconhecer que nem todas as pessoas estão igualmente preparadas para aproveitar plenamente os cuidados ofertados pela telemedicina. Um dos principais benefícios do atendimento de saúde a distância é a capacidade de superar barreiras geográficas, proporcionando acesso a serviços médicos, especialmente para pacientes que residem em áreas remotas e/ou carentes de certas especialidades médicas, os chamados "vazios assistenciais". A equidade no acesso é uma questão crítica, uma vez que nem todos têm ao seu alcance dispositivos tecnológicos ou uma conexão à internet que seja confiável, entre outros problemas de infraestrutura. É um desafio tanto para os pacientes quanto para os profissionais de saúde, que, em muitos casos, não contam com estrutura para o trabalho remoto nem com letramento digital para desenvolver as funções.
-
-OLIVEIRA, D. Disponível em: www.correiobraziliense.com.br. Acesso em: 21 jan. 2024 (adaptado).
+>
+>OLIVEIRA, D. Disponível em: www.correiobraziliense.com.br. Acesso em: 21 jan. 2024 (adaptado).
 
 Ao tratar da telemedicina, esse texto ressalta que um dos benefícios dessa tecnologia para a sociedade é o fato de ela
 
@@ -460,13 +439,11 @@ A apresentação do dado estatístico ao final desse texto revela a intenção d
 - **D** exaltar a qualidade das publicações sobre negritude em redes sociais.
 - **E** comprovar a relação entre o alcance de conteúdos digitais e o viés racial.
 
-![Descrição detalhada da imagem](pg8img0_x0_-18_y0_-16_x1_21_y1_1016.png)
-
 # QUESTÃO 18
 
-Um estudo norte-americano analisou os efeitos da pandemia da covid-19 sobre a saúde mental e a manutenção da atividade física, revelando que um fator está diretamente ligado ao outro. De acordo com os dados, famílias de baixa renda foram mais impactadas pelo ciclo vicioso de falta de motivação e pelo sedentarismo. Diante da necessidade de distanciamento social e do início da quarentena, as opções de espaços seguros para exercícios físicos diminuíram, o que dificultou que as pessoas mantivessem seus níveis de atividade. Os dados evidenciaram que as pessoas mais ativas tinham melhor estado de saúde mental. As pessoas com menor renda tiveram mais dificuldade para manter os níveis de atividade física durante a pandemia, sendo aproximadamente duas vezes menos propensas a continuarem no mesmo ritmo de exercícios de antes da pandemia. Habitantes de áreas urbanas mostraram maior probabilidade de não conseguirem manter os níveis de atividade física semelhantes aos de pessoas que vivem em zonas rurais, onde há mais oportunidades de sair para espaços abertos.
-
-Disponível em: https://revistagalileu.globo.com.
+>Um estudo norte-americano analisou os efeitos da pandemia da covid-19 sobre a saúde mental e a manutenção da atividade física, revelando que um fator está diretamente ligado ao outro. De acordo com os dados, famílias de baixa renda foram mais impactadas pelo ciclo vicioso de falta de motivação e pelo sedentarismo. Diante da necessidade de distanciamento social e do início da quarentena, as opções de espaços seguros para exercícios físicos diminuíram, o que dificultou que as pessoas mantivessem seus níveis de atividade. Os dados evidenciaram que as pessoas mais ativas tinham melhor estado de saúde mental. As pessoas com menor renda tiveram mais dificuldade para manter os níveis de atividade física durante a pandemia, sendo aproximadamente duas vezes menos propensas a continuarem no mesmo ritmo de exercícios de antes da pandemia. Habitantes de áreas urbanas mostraram maior probabilidade de não conseguirem manter os níveis de atividade física semelhantes aos de pessoas que vivem em zonas rurais, onde há mais oportunidades de sair para espaços abertos.
+>
+>Disponível em: https://revistagalileu.globo.com.
 Acesso em: 6 dez. 2021 (adaptado).
 
 O texto evidencia a perspectiva ampliada de saúde ao abordar criticamente a pandemia da covid-19 a partir do(a)
@@ -479,13 +456,13 @@ O texto evidencia a perspectiva ampliada de saúde ao abordar criticamente a pan
 
 # QUESTÃO 19
 
-Até ali que sabia das misérias do mundo? Nada. Aquela noite do Castelo, tão simples, tão monótona, fora uma revelação! Era bem certo que a lágrima existia, que irrompiam soluços de peitos oprimidos, que para alguém os dias não tinham cor nem a noite tinha estrelas! Ela, criada entre beijos, no aroma dos seus jardins, com as vontades satisfeitas, o leito fofo, a mesa delicada, sentira sempre no coração um desejo sem nome, um desejo ou uma saudade absurda, a saudade do céu, como dizia o dr. Gervásio, e que não era mais que a doida aspiração da artista incipiente, que germinava no seu peito fraco.
-
-E aquela mesma mágoa parecia-lhe agora doce e embaladora, comparando-se à outra, a Sancha, da sua idade, negra, feia, suja, levada a pontapés, dormindo sem lençóis em uma esteira, comendo em pé, apressada, os restos parcos e frios de duas velhas, vestida de algodões rotos, curvada para um trabalho sem descanso nem pagal
-
-Por quê? Que direito teriam uns a todas as primícias e regalos da vida, se havia outros que nem por uma nesga viam a felicidade?
-
-ALMEIDA, J. L. **A falência**. Disponível em: www.dominiopublico.gov.br.
+>Até ali que sabia das misérias do mundo? Nada. Aquela noite do Castelo, tão simples, tão monótona, fora uma revelação! Era bem certo que a lágrima existia, que irrompiam soluços de peitos oprimidos, que para alguém os dias não tinham cor nem a noite tinha estrelas! Ela, criada entre beijos, no aroma dos seus jardins, com as vontades satisfeitas, o leito fofo, a mesa delicada, sentira sempre no coração um desejo sem nome, um desejo ou uma saudade absurda, a saudade do céu, como dizia o dr. Gervásio, e que não era mais que a doida aspiração da artista incipiente, que germinava no seu peito fraco.
+>
+>E aquela mesma mágoa parecia-lhe agora doce e embaladora, comparando-se à outra, a Sancha, da sua idade, negra, feia, suja, levada a pontapés, dormindo sem lençóis em uma esteira, comendo em pé, apressada, os restos parcos e frios de duas velhas, vestida de algodões rotos, curvada para um trabalho sem descanso nem pagal
+>
+>Por quê? Que direito teriam uns a todas as primícias e regalos da vida, se havia outros que nem por uma nesga viam a felicidade?
+>
+>ALMEIDA, J. L. **A falência**. Disponível em: www.dominiopublico.gov.br.
 Acesso em: 28 dez. 2023.
 
 Nesse fragmento do romance de Júlia Lopes de Almeida, escrito no cenário brasileiro pós-abolição, a narradora exprime um olhar crítico sobre a
@@ -498,13 +475,13 @@ Nesse fragmento do romance de Júlia Lopes de Almeida, escrito no cenário brasi
 
 # QUESTÃO 20
 
-Sempre passo nervoso quando leio minha crônica neste jornal e percebo que escapuliu a palavra “coisa” em alguma frase. Acontece que “coisa” está entre as coisas mais deliciosas do mundo.
+>Sempre passo nervoso quando leio minha crônica neste jornal e percebo que escapuliu a palavra “coisa” em alguma frase. Acontece que “coisa” está entre as coisas mais deliciosas do mundo.
 
-O primeiro banho da minha filha foi embalado pela minha voz dizendo, ao fundo, “cuidado, ela anda é uma coisinha tão pequena”. “Viu só que amor? Nunca vi coisa assim”. O amor que não dá conta de explicação é “a coisa” em seu esplendor e excelência. “Alguma coisa acontece no meu coração” é a frase mais bonita que alguém já disse sobre São Paulo. E quando Caetano, citado aqui pela terceira vez pra defender a dimensão poética da coisa, diz “coisa linda”, nós sabemos que nenhuma palavra definira de forma mais profunda e literária o quão bela e amada uma coisa pode ser.
-
-“Coisar” é verbo de quem está com pressa ou tem lapsos de memória. É pra quando “mexe qualquer coisa dentro doida”. E que coisa magnífica poder se expressar tal qual Caetano Veloso. Agora chega, porque “esse papo já tá qualquer coisa” e eu já tô “pra lá de Marrakech”.
-
-TATI BERNARDI. Disponível em: www1.folha.uol.com.br.
+>O primeiro banho da minha filha foi embalado pela minha voz dizendo, ao fundo, “cuidado, ela anda é uma coisinha tão pequena”. “Viu só que amor? Nunca vi coisa assim”. O amor que não dá conta de explicação é “a coisa” em seu esplendor e excelência. “Alguma coisa acontece no meu coração” é a frase mais bonita que alguém já disse sobre São Paulo. E quando Caetano, citado aqui pela terceira vez pra defender a dimensão poética da coisa, diz “coisa linda”, nós sabemos que nenhuma palavra definira de forma mais profunda e literária o quão bela e amada uma coisa pode ser.
+>
+>“Coisar” é verbo de quem está com pressa ou tem lapsos de memória. É pra quando “mexe qualquer coisa dentro doida”. E que coisa magnífica poder se expressar tal qual Caetano Veloso. Agora chega, porque “esse papo já tá qualquer coisa” e eu já tô “pra lá de Marrakech”.
+>
+>TATI BERNARDI. Disponível em: www1.folha.uol.com.br.
 Acesso em: 3 jan. 2024 (adaptado).
 
 O recurso utilizado na progressão textual para garantir a unidade temática dessa crônica é a
@@ -514,8 +491,6 @@ O recurso utilizado na progressão textual para garantir a unidade temática des
 - **C** reiteração, marcada pela repetição de uma determinada palavra e de seus cognatos.
 - **D** conexão, marcada pela presença dos conectores lógicos “quando” e “porque” entre orações.
 - **E** pronominalização, marcada pela retomada de “minha filha” e “um namorado ruim” pelos pronomes “ela” e “lo”.
-
-enem2024 • LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS E REDAÇÃO • 1º DIA • CADERNO 1 • AZUL 9
 
 # QUESTÃO 21
 
@@ -531,7 +506,7 @@ enem2024 • LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS E REDAÇÃO • 1º DIA •
 
 **Diadema (etnia Kayapó).** Estados do Mato Grosso e Pará. Museu de Arte Indígena, s.d.
 
-Disponível em: www.maimuseu.com.br. Acesso em: 11 jul. 2024.
+>Disponível em: www.maimuseu.com.br. Acesso em: 11 jul. 2024.
 
 Pela leitura desses textos, infere-se que a compreensão da arte plumária indígena requer a consideração da
 
@@ -619,7 +594,7 @@ Nesse fragmento, a discussão dos personagens traz à cena um debate acerca da e
 
 VISCONTI, E. **Três meninas no jardim**. Óleo sobre tela, 81 × 65 cm. Museu Nacional de Belas Artes, Rio de Janeiro, 1935.
 
-Disponível em: www.elisaeuvisconti.com.br. Acesso em: 18 set. 2012.
+>Disponível em: www.elisaeuvisconti.com.br. Acesso em: 18 set. 2012.
 
 Eliseu D'Angelo Visconti (1866-1944) desenvolveu diversas obras no Brasil, com grande influência das escolas europeias. Em sua pintura *Três meninas no jardim*, há
 
@@ -685,13 +660,11 @@ Para apresentar a apropriação literária que faz da obra de Machado de Assis, 
 - **D** justifica as razões pelas quais adotou certa abordagem e, em seguida, reconsidera tal escolha.
 - **E** contextualiza o enredo de forma subjetiva e, na conclusão, explicita o foco narrativo a ser assumido.
 
-![Descrição detalhada da imagem: página de prova do ENEM 2024, contendo o cabeçalho com o logotipo do ENEM 2024 e o texto "Exame Nacional do Ensino Médio", além de um código de barras no canto superior esquerdo. A página apresenta as questões 26, 27 e 28, com textos-base e alternativas, e, no rodapé, a indicação "LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS E REDAÇÃO • 1º DIA • CADERNO 1 • AZUL • enem2024" e o número de página 12.](pg11img0_x0_978_y0_-16_x1_1018_y1_1016.png)
-
 # QUESTÃO 29
 
-Meu irmão é filho adotivo. Há uma tecnicidade no termo, filho adotivo, que contribui para sua aceitação social. Há uma novidade que por um átimo o absolve das mazelas do passado, que parece limpá-lo de seus sentidos indesejáveis. Digo que meu irmão é filho adotivo e as pessoas tendem a assentir com solenidade, disfarçando qualquer pesar, baixando os olhos como se não sentissem nenhuma ânsia de perguntar mais nada. Talvez compartilhem da minha inquietude, talvez de fato se esqueçam do assunto no próximo gole ou na próxima garfada. Se a inquietude continua a reverberar em mim, é porque ouço a frase também de maneira parcial — meu irmão é filho — e é difícil aceitar que ela não termine com a verdade tautológica habitual: meu irmão é filho dos meus pais. Estou entando que meu irmão é filho e uma interrogação sempre me salta aos lábios: filho de quem?
-
-FUCKS, J. **A resistência**. São Paulo: Cia. das Letras, 2015.
+>Meu irmão é filho adotivo. Há uma tecnicidade no termo, filho adotivo, que contribui para sua aceitação social. Há uma novidade que por um átimo o absolve das mazelas do passado, que parece limpá-lo de seus sentidos indesejáveis. Digo que meu irmão é filho adotivo e as pessoas tendem a assentir com solenidade, disfarçando qualquer pesar, baixando os olhos como se não sentissem nenhuma ânsia de perguntar mais nada. Talvez compartilhem da minha inquietude, talvez de fato se esqueçam do assunto no próximo gole ou na próxima garfada. Se a inquietude continua a reverberar em mim, é porque ouço a frase também de maneira parcial — meu irmão é filho — e é difícil aceitar que ela não termine com a verdade tautológica habitual: meu irmão é filho dos meus pais. Estou entando que meu irmão é filho e uma interrogação sempre me salta aos lábios: filho de quem?
+>
+>FUCKS, J. **A resistência**. São Paulo: Cia. das Letras, 2015.
 
 Das reflexões do narrador, apreende-se uma perspectiva que associa a adoção
 
@@ -714,22 +687,22 @@ A 13 de fevereiro de 1946, Graciliano Ramos escreve uma carta a Cândido Portina
 > Dos quadros que você me mostrou quando almocei no Cosme Velho pela última vez, o que mais me comoveu foi aquela mãe com a criança morta. Saí de sua casa com um pensamento horrível: numa sociedade sem classes e sem miséria, seria possível fazer-se aquilo? Numa vida tranquila e feliz, que espécie de arte surgiria? Chego a pensar que teríamos cromos, anjinhos cor-de-rosa, e isto me horroriza.
 >
 > Graciliano
-
-Disponível em: https://graciliano.com.br. Acesso em: 6 fev. 2024 (adaptado).
+>
+>Disponível em: https://graciliano.com.br. Acesso em: 6 fev. 2024 (adaptado).
 
 **TEXTO II**
 
-**Histórias de ninar (adultos)**
-
-Houve um tempo — tão perto, e, ó, tão longe — em que a arte era um holofote na unha encravada, não um campeonato de melhores esmaltes.
-
-Raskolnikov matava velhinhas, a família de Gregor Samsa o assassinava a “macaçadas”, *Memórias póstumas de Brás Cubas* (Machado de Assis) é o retrato mais perfeito de tudo o que tem de pior na sociedade brasileira, uma sequência tristemente hilária de ações moralmente condenáveis, atitudes pusilânimes, cálculos mesquinhos e maus passos cretinos.
-
-A literatura, o cinema e o teatro vêm se transformando num exercício de laciaração: o mal está sempre no outro, os protagonistas são *ironmen/women* da virtude. A pessoa sai da leitura ou da sessão não com a guarda abaxada, as certezas abaladas, mais próxima da verdade (ou, à falta de uma palavra melhor, da sinceridade); sai com suas certezas reforçadas.
-
-A realidade é confusa. Contraditória. Muitas vezes incompreensível. A arte é onde tentamos nos mostrar nus, com todos os nossos defeitos.
-
-PRATA, A. Disponível em: www1.folha.uol.com.br. Acesso em: 12 jan. 2024 (adaptado).
+>**Histórias de ninar (adultos)**
+>
+>Houve um tempo — tão perto, e, ó, tão longe — em que a arte era um holofote na unha encravada, não um campeonato de melhores esmaltes.
+>
+>Raskolnikov matava velhinhas, a família de Gregor Samsa o assassinava a “macaçadas”, *Memórias póstumas de Brás Cubas* (Machado de Assis) é o retrato mais perfeito de tudo o que tem de pior na sociedade brasileira, uma sequência tristemente hilária de ações moralmente condenáveis, atitudes pusilânimes, cálculos mesquinhos e maus passos cretinos.
+>
+>A literatura, o cinema e o teatro vêm se transformando num exercício de laciaração: o mal está sempre no outro, os protagonistas são *ironmen/women* da virtude. A pessoa sai da leitura ou da sessão não com a guarda abaxada, as certezas abaladas, mais próxima da verdade (ou, à falta de uma palavra melhor, da sinceridade); sai com suas certezas reforçadas.
+>
+>A realidade é confusa. Contraditória. Muitas vezes incompreensível. A arte é onde tentamos nos mostrar nus, com todos os nossos defeitos.
+>
+>PRATA, A. Disponível em: www1.folha.uol.com.br. Acesso em: 12 jan. 2024 (adaptado).
 
 No que diz respeito à arte, o posicionamento de Antônio Prata, no Texto II, aproxima-se da tese de Graciliano Ramos, no Texto I, uma vez que ambos
 
@@ -743,11 +716,11 @@ No que diz respeito à arte, o posicionamento de Antônio Prata, no Texto II, ap
 
 **Cap. XLVIII / Terpsícore**
 
-Ao contrário do que ficou dito atrás, Flora não se aborreceu na ilha. Concheu mal, amende-a no tempo. Podia aborrecer-se pelas razões que lá ficam, e ainda outras que poupei ao leitor apressado; mas, em verdade, passou bem a noite. A novidade da festa, a vizinhança do mar, os navios perdidos na sombra, a cidade defronte com os seus lampiões de gás, embaixo e em cima, na praia e nos outeiros, eis aí aspectos novos que a encantaram durante aquelas horas rápidas.
-
-Não lhe faltavam pares, nem conversação, nem alegria alheia e própria. Toda ela compartia da felicidade dos outros. Via, ouvia, sorria, esquecia-se do resto para se meter consigo. Também invejava a princesa imperial, que viria a ser imperatriz um dia, com o absoluto poder de despedir ministros e damas, visitas e requerentes, e ficar só, no mais recôndito do paço, fartando-se de contemplação ou de música. Era assim que Flora definia o ofício de governar. Tais ideias passavam e tornavam. De uma vez alguém lhe disse, como para lhe dar força: “Toda alma livre é imperatriz!”.
-
-ASSIS, M. **Esau e Jacó**. Rio de Janeiro: Nova Aguilar, 1974.
+>Ao contrário do que ficou dito atrás, Flora não se aborreceu na ilha. Concheu mal, amende-a no tempo. Podia aborrecer-se pelas razões que lá ficam, e ainda outras que poupei ao leitor apressado; mas, em verdade, passou bem a noite. A novidade da festa, a vizinhança do mar, os navios perdidos na sombra, a cidade defronte com os seus lampiões de gás, embaixo e em cima, na praia e nos outeiros, eis aí aspectos novos que a encantaram durante aquelas horas rápidas.
+>
+>Não lhe faltavam pares, nem conversação, nem alegria alheia e própria. Toda ela compartia da felicidade dos outros. Via, ouvia, sorria, esquecia-se do resto para se meter consigo. Também invejava a princesa imperial, que viria a ser imperatriz um dia, com o absoluto poder de despedir ministros e damas, visitas e requerentes, e ficar só, no mais recôndito do paço, fartando-se de contemplação ou de música. Era assim que Flora definia o ofício de governar. Tais ideias passavam e tornavam. De uma vez alguém lhe disse, como para lhe dar força: “Toda alma livre é imperatriz!”.
+>
+>ASSIS, M. **Esau e Jacó**. Rio de Janeiro: Nova Aguilar, 1974.
 
 Convidada para o último baile do Império, na Ilha Fiscal, localizada no Rio de Janeiro, Flora devaneia sobre aspectos daquele contexto, no qual o narrador ironiza a
 
@@ -779,7 +752,7 @@ Nesse trecho, o drama do declínio físico da narradora transmite uma sensibilid
 
 ![Descrição detalhada da imagem](pg13img0_x0_56_y0_592_x1_490_y1_769.jpeg)
 
-Disponível em: https://defesacivil.rs.gov.br. Acesso em: 11 mar. 2024 (adaptado).
+>Disponível em: https://defesacivil.rs.gov.br. Acesso em: 11 mar. 2024 (adaptado).
 
 Nesse cartaz, a expressão "You deixar que você se vá", em conjunto com os elementos não verbais utilizados, tem a finalidade de
 
@@ -843,15 +816,15 @@ Ao tematizar o casamento, esse fragmento reproduz uma concepção de literatura 
 
 ![Escultura em pedra de formato ovalado com uma face esculpida em relevo, exibida sobre um fundo cinza claro.](pg14img0_x0_165_y0_536_x1_390_y1_753.jpeg)
 
-Anônimo. **Cabeça de uma figura feminina**. *Circa* 2700-2500 a.C. Escultura em mármore, 8 x 3,2 cm. Metropolitan Museum of Art, Nova Iorque.
+>Anônimo. **Cabeça de uma figura feminina**. *Circa* 2700-2500 a.C. Escultura em mármore, 8 x 3,2 cm. Metropolitan Museum of Art, Nova Iorque.
 
 **TEXTO II**
 
 ![Escultura modernista de uma cabeça feminina estilizada, com traços faciais alongados e geométricos, apoiada sobre uma base retangular.](pg14img1_x0_610_y0_536_x1_833_y1_753.jpeg)
 
-MODIGLIANI, A. **Cabeça de mulher**. *Circa* 1910-1911. Escultura em calcário, 68,3 x 15,9 x 24,1 cm. National Gallery of Art, Washington.
+>MODIGLIANI, A. **Cabeça de mulher**. *Circa* 1910-1911. Escultura em calcário, 68,3 x 15,9 x 24,1 cm. National Gallery of Art, Washington.
 
-WOLKOFF, J. **These 5,000-Year-Old Sculptures Look Shockingly Similar to Modern Art**. Disponível em: www.artsy.net. Acesso em: 19 jun. 2019.
+>WOLKOFF, J. **These 5,000-Year-Old Sculptures Look Shockingly Similar to Modern Art**. Disponível em: www.artsy.net. Acesso em: 19 jun. 2019.
 
 A leitura comparativa das duas esculturas, separadas por mais de 2500 anos, indica a
 
@@ -860,8 +833,6 @@ A leitura comparativa das duas esculturas, separadas por mais de 2500 anos, indi
 - **C** simplificação da forma em razão do tipo de material utilizado.
 - **D** persistência de padrões estéticos em diferentes épocas e culturas.
 - **E** ausência de detalhes como traço distintivo da arte tradicional popular.
-
-![código de barras vertical e logotipo do ENEM 2024](pg15img0_x0_978_y0_-16_x1_1018_y1_1016.png)
 
 # QUESTÃO 37
 
@@ -929,16 +900,14 @@ O "falar errado" a que o texto se refere constitui um preconceito em relação a
 
 ---
 
-16 LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS E REDAÇÃO • 1º DIA • CADERNO 1 • AZUL • enem2024
-
 # QUESTÃO 40
 
-O festival folclórico de Parintins, no Amazonas, anunciou que o Boi Caprichoso levou, em 2018, seu 23º título — contra 31 do adversário Boi Garantido. Desde o fim do evento que não paro de cantar duas músicas que aprendi no Bumbódromo (arena onde ocorre o espetáculo). Revezo entre “meu amor, eu sou feliz, éée azul o meu país”, obviamente do boi azul, o Caprichoso; e “vermelhou o curral, a ideologia avermelhou”, do boi vermelho, o Garantido. Esse revezamento seria proibido em Parintins, cidade tão dividida entre as torcidas dos bois. Em Parintins, você tem de ter um lado. Há aqueles que tentam fugir e dizem que são “garanchosos”, com os quais me identifiquei, mas esses são vistos com certo desdém.
-
-DNYNIEWICZ, L. Disponível em: https://viagem.estadao.com.br.
-Acesso em: 22 nov. 2018 (adaptado).
-
-A apropriação de elementos como rivalidade, competitividade, torcida e gritos de guerra pelo festival de Parintins evidencia a
+>O festival folclórico de Parintins, no Amazonas, anunciou que o Boi Caprichoso levou, em 2018, seu 23º título — contra 31 do adversário Boi Garantido. Desde o fim do evento que não paro de cantar duas músicas que aprendi no Bumbódromo (arena onde ocorre o espetáculo). Revezo entre “meu amor, eu sou feliz, éée azul o meu país”, obviamente do boi azul, o Caprichoso; e “vermelhou o curral, a ideologia avermelhou”, do boi vermelho, o Garantido. Esse revezamento seria proibido em Parintins, cidade tão dividida entre as torcidas dos bois. Em Parintins, você tem de ter um lado. Há aqueles que tentam fugir e dizem que são “garanchosos”, com os quais me identifiquei, mas esses são vistos com certo desdém.
+>
+>DNYNIEWICZ, L. Disponível em: https://viagem.estadao.com.br.
+>Acesso em: 22 nov. 2018 (adaptado).
+>
+>A apropriação de elementos como rivalidade, competitividade, torcida e gritos de guerra pelo festival de Parintins evidencia a
 
 - **A** escolha de um local específico para a festa.
 - **B** importância atribuída pelos turistas aos bois.
@@ -948,17 +917,17 @@ A apropriação de elementos como rivalidade, competitividade, torcida e gritos 
 
 # QUESTÃO 41
 
-O Brasil somou cerca de 60 mil novos casos de câncer de mama até o final de 2019, número que corresponde a 25% de todos os diagnósticos da condição registrados no país, segundo dados do Instituto Nacional do Câncer (Inca). Apesar de o Outubro Rosa ser o mês de conscientização sobre a questão voltada para as mulheres, é muito importante lembrar que um dos grandes mitos da medicina é o de que o câncer de mama não afeta o sexo masculino.
-
-Fatores importantes para detectar o câncer de mama masculino:
-
-1. Genética: se houver casos na família, as chances são um pouco mais elevadas.
-2. Hormônios: homens podem desenvolver tecido real das glândulas mamárias por tomarem certos medicamentos ou apresentarem níveis hormonais anormais.
-3. Caroços: é necessário que os médicos se atentem a alguns sintomas suspeitos, como um caroço na área do tórax.
-4. Retração na pele: em situações mais graves do câncer de mama masculino, é possível também ocorrer uma retração do mamilo.
-
-Disponível em: https://pebmed.com.br.
-Acesso em: 24 nov. 2021 (adaptado).
+>O Brasil somou cerca de 60 mil novos casos de câncer de mama até o final de 2019, número que corresponde a 25% de todos os diagnósticos da condição registrados no país, segundo dados do Instituto Nacional do Câncer (Inca). Apesar de o Outubro Rosa ser o mês de conscientização sobre a questão voltada para as mulheres, é muito importante lembrar que um dos grandes mitos da medicina é o de que o câncer de mama não afeta o sexo masculino.
+>
+>Fatores importantes para detectar o câncer de mama masculino:
+>
+>1. Genética: se houver casos na família, as chances são um pouco mais elevadas.
+>2. Hormônios: homens podem desenvolver tecido real das glândulas mamárias por tomarem certos medicamentos ou apresentarem níveis hormonais anormais.
+>3. Caroços: é necessário que os médicos se atentem a alguns sintomas suspeitos, como um caroço na área do tórax.
+>4. Retração na pele: em situações mais graves do câncer de mama masculino, é possível também ocorrer uma retração do mamilo.
+>
+>Disponível em: https://pebmed.com.br.
+>Acesso em: 24 nov. 2021 (adaptado).
 
 As informações dessa reportagem auxiliam no combate ao câncer de mama masculino por apresentarem um alerta sobre o(s)
 
@@ -972,43 +941,43 @@ As informações dessa reportagem auxiliam no combate ao câncer de mama masculi
 
 **Feijoada à minha moda**
 
-Amiga Helena Sangirardi
-Conforme um dia prometi
-Onde, confesso que esqueci
-E embora — perdoe — tão tarde
-(Melhor do que nunca!) este poeta
-Segundo manda a boa ética
-Envia-lhe a receita (poética)
-De sua feijoada completa.
-Em atenção ao adiantado
-Da hora em que abrimos o olho
-O feijão deve, já catado
-Nos esperar, feliz, de molho.
-Uma vez cozido o feijão
-(Umas quatro horas, fogo médio)
-Nós, bocejando o nosso tédio
-Nos chegaremos ao fogão
-[...]
-De carne-seca suculenta
-Gordos paios, nédio toucinho
-(Nunca orelhas de bacorinho
-Que a tornam em excesso opulenta!)
-[...]
-Enquanto ao lado, em fogo brando
-Desmilinguindo-se de gozo
-Deve também se estar fritando
-O torresminho delicioso
-Em cuja gordura, de resto
-(Melhor gordura nunca houve!)
-Deve depois frigir a couve
-Picada, em fogo alegre e presto.
-[...]
-Dever cumprido. Nunca é vá
-A palavra de um poeta... — jamais!
-Abraça-a, em Brillat-Savarin,
-O seu Vinicius de Moraes.
-
-MORAES, V. In: CÍCERO, A.; QUEIROZ, E. (Org.). **Vinicius de Moraes**: nova antologia poética. São Paulo: Cia. das Letras, 2005 (fragmento).
+>Amiga Helena Sangirardi
+>Conforme um dia prometi
+>Onde, confesso que esqueci
+>E embora — perdoe — tão tarde
+>(Melhor do que nunca!) este poeta
+>Segundo manda a boa ética
+>Envia-lhe a receita (poética)
+>De sua feijoada completa.
+>Em atenção ao adiantado
+>Da hora em que abrimos o olho
+>O feijão deve, já catado
+>Nos esperar, feliz, de molho.
+>Uma vez cozido o feijão
+>(Umas quatro horas, fogo médio)
+>Nós, bocejando o nosso tédio
+>Nos chegaremos ao fogão
+>[...]
+>De carne-seca suculenta
+>Gordos paios, nédio toucinho
+>(Nunca orelhas de bacorinho
+>Que a tornam em excesso opulenta!)
+>[...]
+>Enquanto ao lado, em fogo brando
+>Desmilinguindo-se de gozo
+>Deve também se estar fritando
+>O torresminho delicioso
+>Em cuja gordura, de resto
+>(Melhor gordura nunca houve!)
+>Deve depois frigir a couve
+>Picada, em fogo alegre e presto.
+>[...]
+>Dever cumprido. Nunca é vá
+>A palavra de um poeta... — jamais!
+>Abraça-a, em Brillat-Savarin,
+>O seu Vinicius de Moraes.
+>
+>MORAES, V. In: CÍCERO, A.; QUEIROZ, E. (Org.). **Vinicius de Moraes**: nova antologia poética. São Paulo: Cia. das Letras, 2005 (fragmento).
 
 Apesar de haver marcas formais de carta e receita, a característica que define esse texto como poema é o(a)
 
@@ -1029,7 +998,7 @@ Apesar de haver marcas formais de carta e receita, a característica que define 
 **TEXTO II**
 **Representação de 2953 arcos de luz cruzando o céu, registrando o nascer e o pôr do sol ao longo de oito anos**
 
-![Fotografia em preto e branco mostrando múltiplos arcos de luz curvos e paralelos atravessando o céu, formando um padrão de linhas brilhantes sobre uma paisagem escura na parte inferior.](pg17img0_x0_84_y0_325_x1_461_y1_507.jpx)
+![Fotografia em preto e branco mostrando múltiplos arcos de luz curvos e paralelos atravessando o céu, formando um padrão de linhas brilhantes sobre uma paisagem escura na parte inferior.](fig0q43.png)
 
 > VALKENBORGH, R. Fotografia. Reino Unido: Universidade Hertfordshire (2012-2020).
 >
@@ -1158,8 +1127,6 @@ Disponível em: www.oglobo.com. Acesso em: 29 maio 2024 (adaptado).
 
 A partir da leitura dos textos motivadores e com base nos conhecimentos construídos ao longo de sua formação, redija texto dissertativo-argumentativo em modalidade escrita formal da língua portuguesa sobre o tema “Desafios para a valorização da herança africana no Brasil”, apresentando proposta de intervenção que respeite os direitos humanos. Selecione, organize e relacione, de forma coerente e coesa, argumentos e fatos para defesa de seu ponto de vista.
 
-![Descrição detalhada da página inteira: página de prova do ENEM 2024, área de Ciências Humanas e suas Tecnologias, contendo as questões 46 a 49. No topo, à esquerda, há um código de barras e, à direita, o logotipo do ENEM 2024. O texto está organizado em duas colunas.](pg19img0_x0_978_y0_-16_x1_1018_y1_1016.png)
-
 # CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS
 ## Questões de 46 a 90
 
@@ -1233,8 +1200,6 @@ No Brasil, os eventos descritos ganharam conotação política ao serem vinculad
 - **D** retomada do absolutismo.
 - **E** visão republicana de nação.
 
-20 CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS • 1º DIA • CADERNO 1 • AZUL enem2024
-
 # QUESTÃO 50
 
 > O bispo Bartolomeu de Las Casas é o homem mais odiado da América, o anti-Cristo dos senhores, o açoite destas terras. Por sua culpa, o imperador promulgou novas leis que despojam de escravos índios os filhos dos conquistadores. O que será deles sem os braços que os sustentam nas minas e nas lavouras? As novas leis estão arrancando a comida de suas bocas. Las Casas é o homem mais amado da América. Voz dos mudos, teimoso defensor dos que recebem pior tratamento que o esterco das praças, denunciador de quem por cobiça converte Jesus Cristo no mais cruel dos deuses e o rei em lobo faminto de carne humana.
@@ -1283,7 +1248,7 @@ A reivindicação do movimento norte-americano apresentada no texto consiste na 
 
 ![Gráfico de linhas com eixos cartesianos. O eixo vertical é denominado "Velocidade" e o eixo horizontal é denominado "Tempo de duração". Há duas curvas no gráfico: uma curva tracejada em azul, com pico mais alto e estreito, rotulada "Inundação brusca", e uma curva pontilhada em vermelho, mais baixa e larga, rotulada "Inundação gradual".](pg20img0_x0_524_y0_487_x1_929_y1_697.png)
 
-TOMINAGA, L. K.; SANTORO, J.; AMARAL, R. **Desastres naturais**: conhecer para prevenir. São Paulo: Instituto Geológico, 2009 (adaptado).
+>TOMINAGA, L. K.; SANTORO, J.; AMARAL, R. **Desastres naturais**: conhecer para prevenir. São Paulo: Instituto Geológico, 2009 (adaptado).
 
 A desproporção de velocidade e tempo de duração nos tipos de inundação destacados é condicionada pela
 
@@ -1413,8 +1378,6 @@ O texto apresenta uma reflexão da personagem acerca de um problema característ
 - **D** pressuposição existencial.
 - **E** objetividade do conhecimento.
 
-![Descrição detalhada da imagem](pg22img0_x0_-18_y0_-16_x1_21_y1_1016.png)
-
 # QUESTÃO 62
 
 **TEXTO I**
@@ -1489,9 +1452,9 @@ De acordo com o texto, o processo apresentado contribuiu para
 
 # QUESTÃO 66
 
-Em 1960, a primeira pílula anticoncepcional foi comercializada nos EUA, e, em poucos anos, o método contraceptivo se difundiu pelo mundo, inclusive no Brasil. Em nosso país, a chegada das pílulas anticoncepcionais foi simultânea às discussões neomalthusianas sobre a crise demográfica, à aceleração dos processos de modernização e ao boom da indústria farmacêutica multinacional.
-
-DIAS, T. M. et al. A pílula da oportunidade: discursos sobre as pílulas anticoncepcionais em A Gazeta da Farmácia, 1960-1981. História, Ciências, Saúde — Manguinhos, n. 3, jul.-set. 2018 (adaptado).
+>Em 1960, a primeira pílula anticoncepcional foi comercializada nos EUA, e, em poucos anos, o método contraceptivo se difundiu pelo mundo, inclusive no Brasil. Em nosso país, a chegada das pílulas anticoncepcionais foi simultânea às discussões neomalthusianas sobre a crise demográfica, à aceleração dos processos de modernização e ao boom da indústria farmacêutica multinacional.
+>
+>DIAS, T. M. et al. A pílula da oportunidade: discursos sobre as pílulas anticoncepcionais em A Gazeta da Farmácia, 1960-1981. História, Ciências, Saúde — Manguinhos, n. 3, jul.-set. 2018 (adaptado).
 
 Qual foi o efeito social resultante do avanço tecnológico mencionado no texto?
 
@@ -1503,9 +1466,9 @@ Qual foi o efeito social resultante do avanço tecnológico mencionado no texto?
 
 # QUESTÃO 67
 
-A internet fortalece o engajamento e a visibilidade de populações tradicionais e indígenas por meio de redes sociais, rádios e veículos de mídia digital. Ela também promove a criação e o fortalecimento de mercados e a inovação nos sistemas de financiamento, integrando pequenos agricultores e produtores da comunidade florestal a cadeias de abastecimento maiores.
-
-GROTTERA, C.; CASTRO, L. M.; BRITO, M. C. Como a tecnologia pode ser uma aliada na conservação ambiental. Nexo Jornal, 14 ago. 2021.
+>A internet fortalece o engajamento e a visibilidade de populações tradicionais e indígenas por meio de redes sociais, rádios e veículos de mídia digital. Ela também promove a criação e o fortalecimento de mercados e a inovação nos sistemas de financiamento, integrando pequenos agricultores e produtores da comunidade florestal a cadeias de abastecimento maiores.
+>
+>GROTTERA, C.; CASTRO, L. M.; BRITO, M. C. Como a tecnologia pode ser uma aliada na conservação ambiental. Nexo Jornal, 14 ago. 2021.
 
 A adoção da tecnologia mencionada amplia a rentabilidade das comunidades citadas, ao possibilitar o(a):
 
@@ -1520,14 +1483,14 @@ A adoção da tecnologia mencionada amplia a rentabilidade das comunidades citad
 ## TEXTO I
 
 > Uma única árvore joga entre 300 e 1000 litros de água por dia para a atmosfera. Considerando a demanda mínima que uma pessoa consome de água, ou seja, 120 litros por dia, uma única árvore pode ser capaz de produzir água para até oito pessoas.
-
-MAGNO, C. Estudos explicam o motivo de chover tanto em Belém. Disponível em: www.diarioonline.com.br. Acesso em: 6 nov. 2021.
+>
+>MAGNO, C. Estudos explicam o motivo de chover tanto em Belém. Disponível em: www.diarioonline.com.br. Acesso em: 6 nov. 2021.
 
 ## TEXTO II
 
 > A Amazônia perdeu diariamente uma área de floresta maior do que 4 mil campos de futebol apenas em setembro de 2021. Em todo o mês, foram devastados 1 224 km², o que corresponde ao tamanho da cidade do Rio de Janeiro e é a pior marca para setembro em 10 anos. Os dados são do Sistema de Alerta de Desmatamento (SAD) do Instituto do Homem e Meio Ambiente da Amazônia (Imazon), que monitora a floresta por meio de imagens de satélites.
-
-FREITAS, A. Desmatamento na Amazônia em setembro foi o maior para o período em 10 anos. Disponível em: www.cnnbrasil.com.br. Acesso em: 6 nov. 2021.
+>
+>FREITAS, A. Desmatamento na Amazônia em setembro foi o maior para o período em 10 anos. Disponível em: www.cnnbrasil.com.br. Acesso em: 6 nov. 2021.
 
 Para a região amazônica, a relação entre as informações dos textos indica uma redução do(a)
 
@@ -1657,7 +1620,7 @@ Qual elemento da cultura contemporânea se relaciona às características do con
 
 ![Três capas da revista Travel in Brazil. A primeira, à esquerda, tem fundo vermelho com uma mulher negra de vestido branco e adereços na cabeça; a segunda, ao centro, tem fundo azul e mostra um homem montado a cavalo usando chapéu; a terceira, à direita, tem fundo azul e mostra três pessoas em pé, sendo duas mulheres e um homem, com roupas típicas.](pg27img0_x0_125_y0_110_x1_875_y1_331.jpeg)
 
-VIEIRA, A. P. L. O Departamento de Imprensa e Propaganda e a política editorial do Estado Novo (1937-1945). Rio de Janeiro: Unirio, 2019.
+>VIEIRA, A. P. L. O Departamento de Imprensa e Propaganda e a política editorial do Estado Novo (1937-1945). Rio de Janeiro: Unirio, 2019.
 
 O que as capas da revista *Travel in Brazil*, publicadas entre 1941 e 1944 pelo Departamento de Imprensa e Propaganda (DIP), evidenciam?
 
@@ -1801,13 +1764,13 @@ Qual problema de âmbito nacional argentino o movimento social mencionado expôs
 
 ![Imagem de satélite de Dubai no ano de 2000, mostrando uma área costeira com poucas construções e uma palmeira artificial em construção.](pg29img0_x0_510_y0_130_x1_944_y1_317.jpeg)
 
-Disponível em: https://earth.google.com. Acesso em: 13 out. 2023.
+>Disponível em: https://earth.google.com. Acesso em: 13 out. 2023.
 
 **TEXTO II**
 
 ![Imagem de satélite de Dubai no ano de 2020, mostrando intensa urbanização costeira e várias ilhas artificiais em formato de palmeiras.](pg29img1_x0_510_y0_367_x1_944_y1_554.jpeg)
 
-Disponível em: https://earth.google.com. Acesso em: 13 out. 2023.
+>Disponível em: https://earth.google.com. Acesso em: 13 out. 2023.
 
 A comparação entre as imagens de satélite indica a ocorrência de um processo de
 
@@ -1816,8 +1779,6 @@ A comparação entre as imagens de satélite indica a ocorrência de um processo
 - **C** redefinição de fronteiras nacionais.
 - **D** artificialização do espaço geográfico.
 - **E** mudança da dinâmica macroclimática.
-
-CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS • 1º DIA • CADERNO 1 • AZUL • enem2024
 
 # QUESTÃO 87
 
@@ -1875,5 +1836,4 @@ O texto apresenta uma contradição interna do capitalismo caracterizada pela
 - **D** isonomia remanescente da geração de riquezas.
 - **E** produtividade vinculada ao fortalecimento da autonomia.
 
-![Página de prova do ENEM 2024 com a instrução "Transcreva a sua Redação para a Folha de Redação." e uma folha de redação pautada numerada de 1 a 30, com marcas d'água "RASCUNHO" e "DA REDAÇÃO" e códigos de barras nos cantos](pg31img0_x0_939_y0_-16_x1_978_y1_1016.png)
 

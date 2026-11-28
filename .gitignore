@@ -2,3 +2,4 @@ extraction/.env
 extraction/__pycache__
 extraction/temp
 trash/*
+extraction/test.py

@@ -16,17 +16,17 @@ MODEL_NAME="deepseek-flash"
 
 program_path=Path(os.path.dirname(os.path.realpath(os.path.abspath(__file__))))
 md_folder_path=program_path/"provas_markdown"
-#md_paths=[Path(md_folder_path/x) for x in os.listdir(md_folder_path)]
-md_paths=[Path(x) for x in [
-    r"C:\Users\joaol\c4_2026\open-vest\extraction\provas_markdown\2025_GB_impresso_D1_CD1.md",
-    r"C:\Users\joaol\c4_2026\open-vest\extraction\provas_markdown\2025_GB_impresso_D2_CD5.md",
-    r"C:\Users\joaol\c4_2026\open-vest\extraction\provas_markdown\2025_PV_impresso_D1_CD1.md",
-    r"C:\Users\joaol\c4_2026\open-vest\extraction\provas_markdown\2025_PV_impresso_D2_CD5.md",
-    r"C:\Users\joaol\c4_2026\open-vest\extraction\provas_markdown\2026_GB_impresso_D1_CD1.md",
-    r"C:\Users\joaol\c4_2026\open-vest\extraction\provas_markdown\2026_GB_impresso_D2_CD5.md",
-    r"C:\Users\joaol\c4_2026\open-vest\extraction\provas_markdown\2026_PV_impresso_D1_CD1.md",
-    r"C:\Users\joaol\c4_2026\open-vest\extraction\provas_markdown\2026_PV_impresso_D2_CD5.md"
-]]
+md_paths=[Path(md_folder_path/x) for x in os.listdir(md_folder_path)]
+#md_paths=[Path(x) for x in [
+#    r"C:\Users\joaol\c4_2026\open-vest\extraction\provas_markdown\2023_GB_impresso_D1_CD1.md",
+#    r"C:\Users\joaol\c4_2026\open-vest\extraction\provas_markdown\2023_GB_impresso_D2_CD5.md",
+#    r"C:\Users\joaol\c4_2026\open-vest\extraction\provas_markdown\2023_PV_impresso_D1_CD1.md",
+#    r"C:\Users\joaol\c4_2026\open-vest\extraction\provas_markdown\2023_PV_impresso_D2_CD5.md",
+#    r"C:\Users\joaol\c4_2026\open-vest\extraction\provas_markdown\2024_GB_impresso_D1_CD1.md",
+#    r"C:\Users\joaol\c4_2026\open-vest\extraction\provas_markdown\2024_GB_impresso_D2_CD5.md",
+#    r"C:\Users\joaol\c4_2026\open-vest\extraction\provas_markdown\2024_PV_impresso_D1_CD1.md",
+#    r"C:\Users\joaol\c4_2026\open-vest\extraction\provas_markdown\2024_PV_impresso_D2_CD5.md"
+#]]
 output_json_folder_path=program_path/"provas_json"
 
 print (f"Found {len(md_paths)} files to process")

@@ -1,42 +1,3 @@
-![Código de barras vertical com o número 01 abaixo](pg0img0_x0_-23_y0_-17_x1_223_y1_117.jpx)
-![Texto "2º DIA"](pg0img1_x0_222_y0_-17_x1_469_y1_117.jpx)
-![Texto "EXAME NACIONAL DO ENSINO MÉDIO"](pg0img12_x0_469_y0_-17_x1_715_y1_117.jpx)
-![Texto "PROVA DE CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS PROVA DE MATEMÁTICA E SUAS TECNOLOGIAS"](pg0img23_x0_715_y0_-17_x1_961_y1_117.jpx)
-![Texto "CADERNO 5 AMARELO"](pg0img32_x0_961_y0_-17_x1_1023_y1_207.jpx)
-![Logotipo "enem2024"](pg0img33_x0_-23_y0_117_x1_346_y1_207.png)
-![Faixa com padrão gráfico de palavras "ENEM" repetidas](pg0img34_x0_346_y0_117_x1_715_y1_207.jpx)
-![Faixa com padrão gráfico de palavras "ENEM" repetidas](pg0img35_x0_715_y0_117_x1_961_y1_207.png)
-![Barra lateral esquerda com padrão gráfico](pg0img36_x0_-23_y0_207_x1_38_y1_746.png)
-![Texto "ATENÇÃO: transcreva no espaço apropriado do seu CARTÃO-RESPOSTA, com sua caligrafia usual, considerando as letras maiúsculas e minúsculas, a seguinte frase: Todos têm um ideal. O meu é gostar de ler"](pg0img22_x0_-23_y0_185_x1_223_y1_303.png)
-![Texto "LEIA ATENTAMENTE AS INSTRUÇÕES SEGUINTES:"](pg0img24_x0_223_y0_185_x1_470_y1_303.png)
-![Texto "1. Este CADERNO DE QUESTÕES contém 90 questões numeradas de 91 a 180 e uma FOLHA DE RASCUNHO, dispostas da seguinte maneira: a) questões de número 91 a 135, relativas à área de Ciências da Natureza e suas Tecnologias; b) questões de número 136 a 180, relativas à área de Matemática e suas Tecnologias; c) FOLHA DE RASCUNHO."](pg0img25_x0_469_y0_185_x1_655_y1_303.png)
-![Texto "2. Confira se a quantidade e a ordem das questões do seu CADERNO DE QUESTÕES estão de acordo com as instruções anteriores. Caso o caderno esteja incompleto, tenha defeito ou apresente qualquer divergência, comunique ao aplicador da sala para que ele tome as providências cabíveis."](pg0img26_x0_654_y0_185_x1_716_y1_264.png)
-![Texto "3. Para cada uma das questões objetivas, são apresentadas 5 opções. Apenas uma responde corretamente à questão."](pg0img27_x0_698_y0_185_x1_969_y1_303.png)
-![Texto "4. O tempo disponível para estas provas é de cinco horas."](pg0img28_x0_968_y0_185_x1_1023_y1_303.png)
-![Texto "5. Reserve tempo suficiente para preencher o CARTÃO-RESPOSTA."](pg0img29_x0_644_y0_225_x1_699_y1_303.png)
-![Texto "6. Os rascunhos e as marcações assinaladas no CADERNO DE QUESTÕES e na FOLHA DE RASCUNHO não serão considerados na avaliação."](pg0img30_x0_622_y0_186_x1_737_y1_303.png)
-![Texto "7. Quando terminar as provas, acene para chamar o aplicador e entregue este CADERNO DE QUESTÕES, o CARTÃO-RESPOSTA e a FOLHA DE RASCUNHO."](pg0img31_x0_-22_y0_320_x1_1022_y1_363.png)
-![Texto "8. Você poderá deixar o local de prova somente após decorridas duas horas do início da aplicação e poderá levar seu CADERNO DE QUESTÕES ao deixar em definitivo a sala de prova nos 30 minutos que antecedem o término das provas."](pg0img37_x0_38_y0_297_x1_284_y1_432.png)
-![Selo de certificação FSC](pg0img2_x0_284_y0_297_x1_530_y1_432.png)
-![Logotipo "inep"](pg0img3_x0_530_y0_297_x1_776_y1_432.png)
-![Código de barras horizontal](pg0img4_x0_776_y0_297_x1_1023_y1_432.jpx)
-![Espaço vazio](pg0img5_x0_38_y0_431_x1_284_y1_566.png)
-![Espaço vazio](pg0img6_x0_284_y0_431_x1_530_y1_566.png)
-![Espaço vazio](pg0img7_x0_530_y0_431_x1_776_y1_566.png)
-![Espaço vazio](pg0img8_x0_776_y0_431_x1_1023_y1_566.png)
-![Espaço vazio](pg0img9_x0_38_y0_566_x1_284_y1_701.png)
-![Espaço vazio](pg0img10_x0_284_y0_566_x1_530_y1_701.png)
-![Espaço vazio](pg0img11_x0_530_y0_566_x1_776_y1_701.png)
-![Espaço vazio](pg0img13_x0_776_y0_566_x1_1023_y1_701.png)
-![Espaço vazio](pg0img14_x0_38_y0_701_x1_284_y1_836.png)
-![Espaço vazio](pg0img15_x0_284_y0_701_x1_530_y1_836.png)
-![Espaço vazio](pg0img16_x0_530_y0_701_x1_776_y1_836.png)
-![Espaço vazio](pg0img17_x0_776_y0_701_x1_1023_y1_836.png)
-![Faixa com padrão gráfico de palavras "ENEM" repetidas](pg0img18_x0_-23_y0_746_x1_38_y1_926.jpx)
-![Espaço vazio](pg0img19_x0_38_y0_836_x1_407_y1_926.png)
-![Espaço vazio](pg0img20_x0_407_y0_836_x1_776_y1_926.jpx)
-![Espaço vazio](pg0img21_x0_776_y0_836_x1_1023_y1_926.png)
-
 **2º DIA**
 
 **EXAME NACIONAL DO ENSINO MÉDIO**
@@ -75,9 +36,6 @@ c) FOLHA DE RASCUNHO.
 
 8. Você poderá deixar o local de prova somente após decorridas duas horas do início da aplicação e poderá levar seu CADERNO DE QUESTÕES ao deixar em definitivo a sala de prova nos **30 minutos** que antecedem o término das provas.
 
-![Selo de certificação FSC](pg0img2_x0_284_y0_297_x1_530_y1_432.png)
-![Logotipo "inep"](pg0img3_x0_530_y0_297_x1_776_y1_432.png)
-![Código de barras horizontal](pg0img4_x0_776_y0_297_x1_1023_y1_432.jpx)
 
 # CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS
 **Questões de 91 a 135**
@@ -88,7 +46,7 @@ O esquema representa um experimento feito com células do protozoário *Amoeba p
 
 ![Descrição detalhada: Esquema com duas colunas. À esquerda, sob o rótulo "Grupo controle", duas imagens de uma ameba de formato irregular e com pseudópodes, conectadas por uma seta vertical para baixo. À direita, sob o rótulo "Ameba tratada com citocalasina B", uma imagem de uma ameba com formato irregular e pseudópodes no topo, e abaixo, após uma seta vertical, uma imagem de uma célula arredondada sem pseudópodes.](pg1img0_x0_82_y0_226_x1_462_y1_494.jpeg)
 
-SADAVA, D. et al. **Vida: a ciência da biologia** — volume I: célula e hereditariedade. Porto Alegre: Artmed, 2009 (adaptado).
+>SADAVA, D. et al. **Vida: a ciência da biologia** — volume I: célula e hereditariedade. Porto Alegre: Artmed, 2009 (adaptado).
 
 Qual componente celular foi afetado pela droga utilizada no experimento?
 
@@ -130,8 +88,7 @@ Ao emitirem o som estridente, esses anfíbios
 
 A hidroxiapatita, Ca₅(PO₄)₃OH, é um mineral constituinte do esmalte dos dentes. Entre as diversas reações que ocorrem no meio bucal, encontram-se em equilíbrio as reações de desmineralização e mineralização da hidroxiapatita em meio aquoso, ilustradas a seguir. A desmineralização está associada à fragilização do esmalte do dente e à formação de cáries.
 
-Ca₅(PO₄)₃OH (s) + H⁺ (aq) $\rightleftharpoons$ 5 Ca²⁺ (aq) + 3 PO₄³⁻ (aq) + H₂O (l)
-*(Seta superior: Desmineralização; Seta inferior: Mineralização)*
+![Diagrama químico de uma reação reversível. À esquerda, em uma caixa azul, está a equação Ca5(PO4)3OH(s) + H+(aq). No centro, uma seta superior aponta para a direita com o texto Desmineralização, e uma seta inferior aponta para a esquerda com o texto Mineralização. À direita, em uma caixa cinza, estão os produtos da equação: 5 Ca2+(aq) + 3 PO4 3-(aq) + H2O(l).](fig0q94.png)
 
 O uso de creme dental pode minimizar a perda da hidroxiapatita. O quadro apresenta o agente de polimento e o pH de alguns cremes dentais comerciais.
 
@@ -143,7 +100,7 @@ O uso de creme dental pode minimizar a perda da hidroxiapatita. O quadro apresen
 | IV | Dióxido de silício | 6,9 |
 | V | Fosfato de cálcio | 7,3 |
 
-STORGATTO, G. A.; BRAIBANTE, M. E. F.; BRAIBANTE, H. T. S. A química na odontologia. **Química Nova na Escola**, v. 39, fev. 2017 (adaptado).
+>STORGATTO, G. A.; BRAIBANTE, M. E. F.; BRAIBANTE, H. T. S. A química na odontologia. **Química Nova na Escola**, v. 39, fev. 2017 (adaptado).
 
 Considerando o equilíbrio químico envolvido, qual creme dental promove a maior desmineralização do esmalte do dente?
 
@@ -153,7 +110,7 @@ Considerando o equilíbrio químico envolvido, qual creme dental promove a maior
 - **D** IV
 - **E** V
 
-![Descrição detalhada: Código de barras vertical e logotipo "enem2024 Exame Nacional do Ensino Médio" no cabeçalho da página.](pg1img1_x0_978_y0_-16_x1_1018_y1_1016.png)
+
 
 # QUESTÃO 95
 
@@ -161,7 +118,7 @@ A tirinha ilustra esquimós dentro de um iglu, habitação de formato hemisféri
 
 ![Tirinha com quatro quadros. No primeiro, uma criança pergunta a um esquimó adulto: "Ué, você comprou uma geladeira?!". No segundo, o adulto responde: "É". No terceiro, a criança pergunta: "Pra quê?" e o adulto responde: "É para as crianças.". No quarto, o adulto coloca um alimento na geladeira enquanto outra criança diz: "Elas adoram brincar de casinha."](pg2img0_x0_165_y0_190_x1_379_y1_723.jpeg)
 
-LAERTE. Disponível em: https://artedafisicapibid.blogspot.com. Acesso em: 4 dez. 2021 (adaptado).
+>LAERTE. Disponível em: https://artedafisicapibid.blogspot.com. Acesso em: 4 dez. 2021 (adaptado).
 
 Na tirinha, a geladeira é necessária para fazer gelo porque
 
@@ -177,7 +134,7 @@ Os pesticidas naturais vêm sendo utilizados no controle de pragas e doenças ag
 
 ![Fórmulas estruturais dos compostos 1 e 2. O composto 1 é o ácido salicílico, com um anel benzênico contendo um grupo hidroxila (OH) e um grupo carboxila (COOH). O composto 2 é o ácido jasmônico, com um anel ciclopentanona contendo uma cadeia lateral com um grupo carboxila (COOH).](pg2img1_x0_558_y0_233_x1_896_y1_346.png)
 
-Pinto-Zevallos, D. M.; Zarbin, P. H. G. A química na agricultura: perspectivas para o desenvolvimento de tecnologias sustentáveis. **Química Nova**, n. 10, 2013 (adaptado).
+>   Pinto-Zevallos, D. M.; Zarbin, P. H. G. A química na agricultura: perspectivas para o desenvolvimento de tecnologias sustentáveis. **Química Nova**, n. 10, 2013 (adaptado).
 
 Qual é a função orgânica correspondente ao grupo funcional comum presente nesses dois compostos?
 
@@ -201,19 +158,16 @@ Em relação ao metabolismo energético, os microrganismos presentes nos tubos 1
 - **D** anaeróbio estrito, aeróbio estrito e anaeróbio facultativo.
 - **E** aeróbio estrito, anaeróbio facultativo e anaeróbio estrito.
 
-enem2024 • CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS • 2º DIA • CADERNO 5 • AMARELO
-
-3
 
 # QUESTÃO 98
 
-As placas que indicam saída de emergência brilham no escuro, pois apresentam substâncias que fosforecem na cor amarelo-esverdeada após exposição à luz ambiente, conforme a figura.
-
-![Placa de saída de emergência verde com uma figura humana estilizada correndo em direção a uma porta, sobre fundo amarelo claro.](pg3img0_x0_138_y0_173_x1_407_y1_369.png)
-
-Esse fenômeno ocorre pela presença do sulfeto de zinco (ZnS), dopado com prata ou cobre, na superfície da placa.
-
-> **Zinc Sulphide Phosphorescence**. Disponível em: https://physicopenlab.org. Acesso em: 8 nov. 2023 (adaptado).
+>As placas que indicam saída de emergência brilham no escuro, pois apresentam substâncias que fosforecem na cor amarelo-esverdeada após exposição à luz ambiente, conforme a figura.
+>
+>![Placa de saída de emergência verde com uma figura humana estilizada correndo em direção a uma porta, sobre fundo amarelo claro.](pg3img0_x0_138_y0_173_x1_407_y1_369.png)
+>
+>Esse fenômeno ocorre pela presença do sulfeto de zinco (ZnS), dopado com prata ou cobre, na superfície da placa.
+>
+>**Zinc Sulphide Phosphorescence**. Disponível em: https://physicopenlab.org. Acesso em: 8 nov. 2023 (adaptado).
 
 O aparecimento do brilho nessas condições ocorre como consequência de
 
@@ -225,9 +179,10 @@ O aparecimento do brilho nessas condições ocorre como consequência de
 
 # QUESTÃO 99
 
-Indústrias farmacêuticas e instituições científicas têm trabalhado no desenvolvimento de diferentes vacinas contra a covid-19. Em algumas dessas vacinas, a principal estrutura antigênica é uma proteína de superfície viral chamada espícula (spike, em inglês). Essa proteína só existe em coronavírus, incluindo o SARS-CoV-2. Ela se liga a receptores de membrana específicos das células humanas por um mecanismo do tipo “chave-fechadura”. Dessa forma, os vírus entram nas células, podendo se multiplicar e acarretar a doença.
-
+>Indústrias farmacêuticas e instituições científicas têm trabalhado no desenvolvimento de diferentes vacinas contra a covid-19. Em algumas dessas vacinas, a principal estrutura antigênica é uma proteína de superfície viral chamada espícula (spike, em inglês). Essa proteína só existe em coronavírus, incluindo o SARS-CoV-2. Ela se liga a receptores de membrana específicos das células humanas por um mecanismo do tipo “chave-fechadura”. Dessa forma, os vírus entram nas células, podendo se multiplicar e acarretar a doença.
+>
 > **O que são vacinas?** Disponível em: www.cienciaviva.pt. Acesso em: 30 nov. 2021 (adaptado).
+
 
 Nessas vacinas, essa proteína viral induz a
 
@@ -243,7 +198,7 @@ Em um experimento de laboratório, duas barras metálicas, **A** e **B**, são c
 
 ![Duas barras verticais paralelas, com sinais positivos à esquerda (A) e negativos à direita (B), e linhas de campo elétrico retas e paralelas entre elas.](pg3img1_x0_636_y0_201_x1_817_y1_360.png)
 
-> ALMEIDA, M. A. T. **Introdução às ciências físicas 2** — volume 4: módulo 4. Rio de Janeiro: Fundação CECIERJ, 2007 (adaptado).
+>ALMEIDA, M. A. T. **Introdução às ciências físicas 2** — volume 4: módulo 4. Rio de Janeiro: Fundação CECIERJ, 2007 (adaptado).
 
 Ao repetir o experimento colocando um cilindro metálico oco entre as placas, o esquema que representa o formato das linhas de campo assumido pelo farelo é:
 
@@ -259,7 +214,7 @@ Placas solares comuns dependem de dias ensolarados para gerar energia. Mas podem
 
 ![Ilustração de uma nuvem de chuva sobre uma placa solar. Gotas de chuva caem sobre uma superfície com a indicação "Camada fina de grafeno". Acima desta, uma elipse mostra a "Camada fina de água" contendo íons Am+, Bn- e elétrons e-. Uma seta vermelha aponta para cima, indicando "Alto potencial elétrico", e outra aponta para baixo, indicando "Baixo potencial elétrico".](pg4img0_x0_56_y0_242_x1_488_y1_492.jpeg)
 
-TANG, Q. et al. A Solar Cell that Is Triggered by Sun and Rain. **Angewandte Chemie International Edition**, n. 55, 2016 (adaptado).
+>TANG, Q. et al. A Solar Cell that Is Triggered by Sun and Rain. **Angewandte Chemie International Edition**, n. 55, 2016 (adaptado).
 
 Ao produzir eletricidade em dias chuvosos, o grafeno
 
@@ -298,7 +253,7 @@ As etapas representadas no diagrama estão descritas no quadro.
 | V | 4 a 1 | Liberação de energia na forma de calor. |
 | VI | 1 a 0 | Liberação dos gases resultantes da combustão. |
 
-Disponível em: www.mspc.eng.br. Acesso em: 24 fev. 2013 (adaptado).
+>Disponível em: www.mspc.eng.br. Acesso em: 24 fev. 2013 (adaptado).
 
 A transformação da energia térmica em energia útil ocorre na etapa
 
@@ -324,9 +279,9 @@ Nessa situação, em quantos minutos o nadador completará a prova?
 
 # QUESTÃO 105
 
-O vírus linfotrópico de células T humanas tipo 1 (HTLV-1) é um retrovírus do mesmo grupo do vírus da imunodeficiência humana (HIV). Ambos são transmitidos da mesma forma e infectam as mesmas células de defesa do organismo, os linfócitos T. A diferença entre eles é que o HTLV-1 estimula o aumento da produção desses linfócitos, enquanto o HIV causa destruição dessas células.
-
-ROMANELLI, L. C. F.; CARAMELLI, P.; PROIETTI, A. B. F. C. O vírus linfotrópico de células T humanas tipo 1 (HTLV-1): quando suspeitar da infecção? **Revista da Associação Médica Brasileira**, v. 56, 2010 (adaptado).
+>O vírus linfotrópico de células T humanas tipo 1 (HTLV-1) é um retrovírus do mesmo grupo do vírus da imunodeficiência humana (HIV). Ambos são transmitidos da mesma forma e infectam as mesmas células de defesa do organismo, os linfócitos T. A diferença entre eles é que o HTLV-1 estimula o aumento da produção desses linfócitos, enquanto o HIV causa destruição dessas células.
+>
+>ROMANELLI, L. C. F.; CARAMELLI, P.; PROIETTI, A. B. F. C. O vírus linfotrópico de células T humanas tipo 1 (HTLV-1): quando suspeitar da infecção? **Revista da Associação Médica Brasileira**, v. 56, 2010 (adaptado).
 
 Uma possível consequência da infecção por HTLV-1 é o desenvolvimento de
 
@@ -342,7 +297,7 @@ Na tirinha, Calvin se divertia em um balanço antes de soltar-se dele e cair ao 
 
 ![Tirinha em quatro quadros. No primeiro, Calvin está balançando em um balanço, segurando as correntes. No segundo, ele solta as correntes e é projetado para frente, com a boca aberta gritando. No terceiro, ele aparece caindo de cabeça para baixo, com uma linha de movimento circular indicada por uma seta. No quarto, Calvin está no chão, com a cabeça apoiada na mão, e uma fala diz: "HOUSTON, ESTAMOS COM UM PROBLEMA NA TRAJETÓRIA ORBITAL".](pg5img1_x0_513_y0_191_x1_941_y1_599.png)
 
-WATTERSON, B. Disponível em: https://tiras-do-calvin.tumblr.com. Acesso em: 19 nov. 2021 (adaptado).
+>WATTERSON, B. Disponível em: https://tiras-do-calvin.tumblr.com. Acesso em: 19 nov. 2021 (adaptado).
 
 Qual vetor representa a força resultante exercida pelo chão sobre Calvin no exato momento em que ele toca o chão?
 
@@ -352,25 +307,23 @@ Qual vetor representa a força resultante exercida pelo chão sobre Calvin no ex
 - **D** ![Seta apontando para cima.](pg5img5_x0_550_y0_840_x1_564_y1_922.png)
 - **E** ![Seta apontando para a direita.](pg5img6_x0_537_y0_932_x1_650_y1_943.png)
 
-CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS • 2º DIA • CADERNO 5 • AMARELO • enem2024
-
 # QUESTÃO 107
 
-A fitorremediação é uma técnica que utiliza plantas para a remediação de ambientes contaminados. A descontaminação de solos pode ocorrer por descarte, absorção e metabolização, imobilização, extração ou volatilização do poluente, conforme representado na figura.
-
-![Ilustração esquemática de uma planta mostrando os processos de fitorremediação: à esquerda, a fitoextração é representada por raízes absorvendo partículas do solo; à direita, a fitovolatilização é mostrada por folhas liberando substâncias gasosas; abaixo, a fitoestabilização é indicada por raízes que imobilizam contaminantes no solo e a fitodegradação por raízes com microrganismos e setas de degradação. Ao lado direito, um quadro com definições textuais de fitoestabilização, fitovolatilização, fitodegradação, fitoestimulação e fitoextração.](pg6img0_x0_77_y0_157_x1_922_y1_506.jpeg)
-
-**Fitoestabilização:** imobilização dos contaminantes através de sorção por raízes, precipitação, complexação ou redução de valência.
-
-**Fitovolatilização:** retirada de poluentes pelas plantas e transferência para uma forma volátil.
-
-**Fitodegradação:** degradação dos contaminantes orgânicos por ação enzimática.
-
-**Fitoestimulação:** estimulação dos microrganismos degradadores de contaminantes orgânicos.
-
-**Fitoextração:** remoção de poluentes pelas raízes e sua transferência e acúmulo na parte aérea das plantas.
-
-LUIZ, E. P. **Avaliação dos métodos de fitorremediação [...] na remoção de chumbo, cobre e zinco**. São Paulo: UFABC, 2016 (adaptado).
+>A fitorremediação é uma técnica que utiliza plantas para a remediação de ambientes contaminados. A descontaminação de solos pode ocorrer por descarte, absorção e metabolização, imobilização, extração ou volatilização do poluente, conforme representado na figura.
+>
+>![Ilustração esquemática de uma planta mostrando os processos de fitorremediação: à esquerda, a fitoextração é representada por raízes absorvendo partículas do solo; à direita, a fitovolatilização é mostrada por folhas liberando substâncias gasosas; abaixo, a fitoestabilização é indicada por raízes que imobilizam contaminantes no solo e a fitodegradação por raízes com microrganismos e setas de degradação. Ao lado direito, um quadro com definições textuais de fitoestabilização, fitovolatilização, fitodegradação, fitoestimulação e fitoextração.](pg6img0_x0_77_y0_157_x1_922_y1_506.jpeg)
+>
+>**Fitoestabilização:** imobilização dos contaminantes através de sorção por raízes, precipitação, complexação ou redução de valência.
+>
+>**Fitovolatilização:** retirada de poluentes pelas plantas e transferência para uma forma volátil.
+>
+>**Fitodegradação:** degradação dos contaminantes orgânicos por ação enzimática.
+>
+>**Fitoestimulação:** estimulação dos microrganismos degradadores de contaminantes orgânicos.
+>
+>**Fitoextração:** remoção de poluentes pelas raízes e sua transferência e acúmulo na parte aérea das plantas.
+>
+>LUIZ, E. P. **Avaliação dos métodos de fitorremediação [...] na remoção de chumbo, cobre e zinco**. São Paulo: UFABC, 2016 (adaptado).
 
 O método que retira o mercúrio de uma área contaminada, impedindo sua entrada na cadeia alimentar, é a
 
@@ -384,9 +337,10 @@ O método que retira o mercúrio de uma área contaminada, impedindo sua entrada
 
 **Brasil fecha 2020 entre os maiores recicladores de latas de alumínio**
 
-A bauxita contém alumina (Al₂O₃), que é a matéria-prima para produção do alumínio (Al). De forma geral, são necessários 50 kg de bauxita para produzir 10 kg de alumínio. O Brasil fechou 2020 como um dos principais líderes mundiais em reciclagem de latas de alumínio. De acordo com levantamento da Associação Brasileira dos Fabricantes de Latas de Alumínio (Abralatas), o país obteve um índice de reciclagem de 97,4%, de um total de 4,0 × 10⁵ toneladas de latas vendidas. Considere que a lata é constituída de alumínio puro.
+>A bauxita contém alumina (Al₂O₃), que é a matéria-prima para produção do alumínio (Al). De forma geral, são necessários 50 kg de bauxita para produzir 10 kg de alumínio. O Brasil fechou 2020 como um dos principais líderes mundiais em reciclagem de latas de alumínio. De acordo com levantamento da Associação Brasileira dos Fabricantes de Latas de Alumínio (Abralatas), o país obteve um índice de reciclagem de 97,4%, de um total de 4,0 × 10⁵ toneladas de latas vendidas. Considere que a lata é constituída de alumínio puro.
+>
+>Disponível em: https://agenciabrasil.ebc.com.br. Acesso em: 30 nov. 2021 (adaptado).
 
-Disponível em: https://agenciabrasil.ebc.com.br. Acesso em: 30 nov. 2021 (adaptado).
 
 Levando em conta apenas a reciclagem de latas, qual é o valor mais próximo da massa de bauxita, em tonelada, que deixou de ser extraída da natureza em 2020 no Brasil?
 
@@ -395,8 +349,6 @@ Levando em conta apenas a reciclagem de latas, qual é o valor mais próximo da 
 - **C** 5,0 × 10⁵ ton
 - **D** 1,9 × 10⁶ ton
 - **E** 2,0 × 10⁷ ton
-
-![Código de barras vertical na lateral esquerda da página.](pg6img1_x0_-18_y0_-16_x1_21_y1_1016.png)
 
 # QUESTÃO 109
 
@@ -448,7 +400,7 @@ A nimesulida é um fármaco pouco solúvel em água, utilizado como anti-inflama
 
 **Nimesulida**
 
-GONÇALVES, A. A. et al. Contextualizando reações ácido-base de acordo com a teoria protônica de Brønsted-Lowry usando comprimidos de propranolol e nimesulida. **Química Nova**, n. 3, 2013 (adaptado).
+>GONÇALVES, A. A. et al. Contextualizando reações ácido-base de acordo com a teoria protônica de Brønsted-Lowry usando comprimidos de propranolol e nimesulida. **Química Nova**, n. 3, 2013 (adaptado).
 
 Na estrutura desse fármaco, o grupamento capaz de reagir com a base de Brønsted-Lowry é o grupo
 
@@ -504,7 +456,7 @@ Apesar de os animais representados no cladograma compartilharem um mesmo ancestr
 
 ![Cladograma com a seguinte estrutura: na base, Mammalia; acima, dividindo-se em Prototheria (à esquerda) e Theria (à direita). Theria divide-se em Metatheria e Eutheria. Prototheria leva a Monotremata (com ilustração de um ornitorrinco). Metatheria leva a Marsupialia (com ilustração de um canguru). Eutheria leva a Placentalia (com ilustração de um elefante).](pg9img0_x0_56_y0_175_x1_489_y1_412.jpeg)
 
-DIXSON, A. F. **Mammalian Sexuality**: The Act of Mating and the Evolution of Reproduction. Disponível em: www.cambridge.org. Acesso em: 2 jul. 2024 (adaptado).
+>DIXSON, A. F. **Mammalian Sexuality**: The Act of Mating and the Evolution of Reproduction. Disponível em: www.cambridge.org. Acesso em: 2 jul. 2024 (adaptado).
 
 Ao longo do processo evolutivo, percebem-se, entre esses animais, perdas e ganhos nos padrões citados que envolvem o(a)
 
@@ -534,7 +486,7 @@ O equipamento ilustrado na figura, de dimensões apresentadas no esquema, é com
 
 ![Figura dividida em duas partes. Na parte superior, uma representação tridimensional de dois espelhos côncavos unidos pelas bordas, formando uma estrutura semelhante a uma tampa oval, com uma pequena figura de um cachorro sobre a abertura superior. Na parte inferior, um esquema bidimensional do corte transversal do equipamento, com a seguinte configuração: dois espelhos côncavos opostos, identificados como E1 (espelho inferior) e E2 (espelho superior). O esquema mostra um objeto (pequena figura de um cachorro) posicionado sobre o vértice de E1. Raios de luz partem do objeto, refletem em E2 e depois em E1, formando uma imagem. Estão indicadas as seguintes dimensões: a distância entre os vértices dos espelhos é de 5 cm; a altura total entre as bordas é de 3,8 cm na parte superior e 3,8 cm na parte inferior; a largura da abertura é de 23 cm.](pg9img1_x0_516_y0_339_x1_937_y1_659.jpeg)
 
-SALZMANN, W. Disponível em: https://wissenstexte.de. Acesso em: 27 jun. 2024 (adaptado).
+>SALZMANN, W. Disponível em: https://wissenstexte.de. Acesso em: 27 jun. 2024 (adaptado).
 
 A natureza da imagem formada e a distância vertical entre cada ponto objeto e seu correspondente ponto imagem são
 
@@ -544,19 +496,18 @@ A natureza da imagem formada e a distância vertical entre cada ponto objeto e s
 - **D** virtual e 7,6 cm.
 - **E** virtual e 3,8 cm.
 
-CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS • 2º DIA • CADERNO 5 • AMARELO • enem2024
-
 # QUESTÃO 119
 
-Muitas pessoas ainda se espantam com o fato de um passageiro sair ileso de um acidente de carro enquanto o veículo onde estava teve perda total. Essas pessoas talvez considerem, equivocadamente, que os carros mais seguros são os que têm as estruturas mais rígidas, ou seja, estruturas que, durante uma colisão, apresentam menor deformação. Na verdade, o que ocorre é o contrário. Por isso, a partir de 1958, passaram a ser produzidos carros com partes que se deformam facilmente.
+>Muitas pessoas ainda se espantam com o fato de um passageiro sair ileso de um acidente de carro enquanto o veículo onde estava teve perda total. Essas pessoas talvez considerem, equivocadamente, que os carros mais seguros são os que têm as estruturas mais rígidas, ou seja, estruturas que, durante uma colisão, apresentam menor deformação. Na verdade, o que ocorre é o contrário. Por isso, a partir de 1958, passaram a ser produzidos carros com partes que se deformam facilmente.
+>
+>DAY, C. **Crumple Zones**. Disponível em: https://pubs.aip.org. Acesso em: 2 jul. 2024 (adaptado).
 
-DAY, C. **Crumple Zones**. Disponível em: https://pubs.aip.org. Acesso em: 2 jul. 2024 (adaptado).
 
 Assim, além dos cintos de segurança e dos airbags, os carros modernos passaram a contar com o dispositivo de segurança conhecido como *crumple zone* (região deformável), conforme a figura.
 
 ![Figura de um carro em colisão com um muro, mostrando a região deformável na parte frontal. Acima do carro, há três retângulos com os textos: "Crumple zone (Região deformável)", "Air bag" e "Seat belts (Cintos de segurança)". Dentro do carro, dois ocupantes estão representados em amarelo, com cintos de segurança afivelados. O impacto contra o muro é indicado por listras vermelhas e brancas.](pg10img0_x0_61_y0_339_x1_484_y1_513.jpeg)
 
-**Momentum and Car safety**. GCSE Physics Revision. Disponível em: www.shalom-education.com. Acesso em: 5 jul. 2024 (adaptado).
+>**Momentum and Car safety**. GCSE Physics Revision. Disponível em: www.shalom-education.com. Acesso em: 5 jul. 2024 (adaptado).
 
 Considerando o carro, seus ocupantes e o muro da figura como um sistema isolado, o *crumple zone* aumenta a segurança dos passageiros porque, durante uma colisão, a deformação da estrutura do carro
 
@@ -576,7 +527,7 @@ $\text{CH}_3\text{COO}^- \text{ (aq)} + 2 \text{H}_2\text{O (l)} \rightarrow 2 \
 
 $4 \text{H}^+ \text{ (aq)} + \text{O}_2 \text{ (g)} + 4 \text{e}^- \rightarrow 2 \text{H}_2\text{O (l)}$
 
-QUINTO, A. C. **Biotabaterias geram eletricidade a partir de esgoto sanitário e efluentes agroindustriais**. Disponível em: https://jornal.usp.br. Acesso em: 1 dez. 2021 (adaptado).
+>QUINTO, A. C. **Biotabaterias geram eletricidade a partir de esgoto sanitário e efluentes agroindustriais**. Disponível em: https://jornal.usp.br. Acesso em: 1 dez. 2021 (adaptado).
 
 Qual das equações representa a reação global que ocorre durante o funcionamento dessa CCM?
 
@@ -604,11 +555,10 @@ A concepção científica atual define esses compostos como substâncias
 
 O esquema representa a ação de organismos no ciclo do nitrogênio e no ciclo do carbono. Os números correspondem a algumas etapas dos dois ciclos distintos.
 
-**Procariantes no ciclo do nitrogênio**
+![Diagrama educativo intitulado "Procariontes no ciclo do nitrogênio". O esquema ilustra o ciclo biogeoquímico dividido entre a atmosfera (fundo azul) e o solo (fundo bege). No topo central, há uma caixa rosa com o texto "Nitrogênio atmosférico (N2)". O ciclo segue uma sequência de setas e etapas numeradas: 1. Uma seta aponta para a esquerda indicando o passo "1". Uma caixa descreve "Procariontes fixadores de nitrogênio: convertem N2 em amônia (NH3)". Abaixo, ícones de bactérias (desenhadas em marrom dentro de um círculo azul) apontam para as raízes de uma planta leguminosa. 2. Setas descem dessas raízes para um quadro laranja na base esquerda, que diz: "Procariontes nitrificantes: convertem NH3 em nitritos (NO2-) e nitratos (NO3-)". 3. A partir desse quadro, uma seta aponta para cima e para a direita, em direção às raízes de uma planta de tomate, indicando a absorção de nitratos pela planta. 4. Outra seta aponta para a direita, para o passo "2", onde ícones de bactérias (em outro círculo azul) acompanham um quadro rosa que diz: "Procariontes desnitrificantes: convertem nitratos em N2". 5. Por fim, uma longa seta curva parte desse último quadro, sobe pela direita e retorna ao topo, fechando o ciclo no "Nitrogênio atmosférico (N2)".](fig0q122.png)
+![Diagrama educativo intitulado "Procariontes no ciclo do carbono". O esquema ilustra o ciclo dividido entre a atmosfera (fundo azul) e o solo (fundo bege). No topo, uma caixa rosa clara indica o "Carbono atmosférico (CO2)". O fluxo é dividido em etapas numeradas: No passo 3, à esquerda, uma seta desce para uma caixa indicando "Procariontes fotossintetizantes: fixam CO2". Abaixo dela, um círculo azul com bactérias e setas apontando para o solo junto a uma planta leguminosa. No passo 4, no centro, uma seta desce do CO2 para a caixa "Plantas: fixam CO2", apontando para a mesma planta leguminosa. A imagem mostra as raízes de duas plantas no solo: a leguminosa à esquerda e um tomateiro à direita. No passo 5, na parte inferior esquerda, setas partem das raízes da leguminosa para a caixa: "Procariontes decompositores: convertem o carbono fixado em CO2". À direita, perto das raízes do tomateiro, há outro ícone de bactérias em círculo azul. Uma longa seta curva parte dessa região inferior direita, contorna o lado direito da imagem e retorna à caixa de carbono atmosférico no topo, fechando o ciclo.](fig1q122.png)
 
-![Diagrama do ciclo do nitrogênio e do carbono. No topo, sob fundo azul, a seta indica o Nitrogênio atmosférico (N2) entrando no sistema. À esquerda, o número 1 em um círculo amarelo aponta para o texto "Procariantes fixadores de nitrogênio: convertem N2 em amônia (NH3)", com uma seta para baixo até um círculo contendo bactérias. Em seguida, uma seta aponta para o texto "Procariantes nitrificantes: convertem NH3 em nitritos (NO2-) e nitratos (NO3-)", com uma seta para outro círculo de bactérias e, depois, para o número 2 em um círculo amarelo, que indica "Procariantes desnitrificantes: convertem nitratos em N2". Duas plantas são mostradas: uma com raízes expostas e nódulos, e outra com tomates. Abaixo, sob fundo azul, está o "Carbono atmosférico (CO2)" com uma seta para baixo. À esquerda, o número 3 em um círculo amarelo aponta para "Procariantes fotossintetizantes: fixam CO2", seguido por uma seta para um círculo de bactérias. Ao lado, o número 4 em um círculo amarelo indica "Plantas: fixam CO2", posicionado acima das mesmas duas plantas. Por fim, o número 5 em um círculo amarelo aponta para "Procariantes decompositores: convertem o carbono fixado em CO2", com uma seta para um último círculo de bactérias.](pg11img0_x0_11_y0_179_x1_527_y1_570.jpeg)
-
-Disponível em: https://pt.khanacademy.org. Acesso em: 27 jun. 2024 (adaptado).
+>Disponível em: https://pt.khanacademy.org. Acesso em: 27 jun. 2024 (adaptado).
 
 Em qual etapa numerada ocorre uma transformação redox como a que ocorre nos procariantes nitrificantes?
 
@@ -624,7 +574,7 @@ Um dos agentes que mais contribui para a poluição do ar é o automóvel a comb
 
 ![Gráfico de linhas intitulado "Razão estequiométrica ar/combustível". O eixo horizontal representa a "Razão ar/combustível (massa/massa)", variando de 10 a 20, com uma seta central apontando para a direita, dividindo a área em "Deficiência" (à esquerda) e "Excesso" (à direita). O eixo vertical à esquerda representa "O2, CO2 (% volume)", variando de 0 a 14. O eixo vertical à direita representa "NO (10³ vpm), HC como C6 (10⁴ vpm)", variando de 0 a 7. Quatro curvas são mostradas: uma curva azul para CO2, que atinge um pico próximo a 15 no eixo horizontal; uma curva vermelha para HC, que decresce acentuadamente; uma curva verde para CO, que decresce; e uma curva laranja para NO, que atinge um pico próximo a 15. Uma linha vertical tracejada indica o valor 15 no eixo horizontal. Uma curva azul clara para O2 também é mostrada, crescendo a partir de 15.](pg11img2_x0_510_y0_471_x1_944_y1_778.png)
 
-RANGEL, M. C.; CARVALHO, M. F. A. Impacto dos catalisadores automotivos no controle da qualidade do ar. **Química Nova**, v. 26, 2003 (adaptado).
+>RANGEL, M. C.; CARVALHO, M. F. A. Impacto dos catalisadores automotivos no controle da qualidade do ar. **Química Nova**, v. 26, 2003 (adaptado).
 
 Na condição de razão ar/combustível igual a 18, haverá uma emissão
 
@@ -634,17 +584,15 @@ Na condição de razão ar/combustível igual a 18, haverá uma emissão
 - **D** baixa de HC e alta de CO.
 - **E** baixa de CO2 e alta de HC.
 
-CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS • 2º DIA • CADERNO 5 • AMARELO • enem2024
-
 # QUESTÃO 124
 
 **A saúde do professor: acústica arquitetônica**
 
-> Dentre os parâmetros acústicos que afetam a inteligibilidade dos sons emitidos em ambientes fechados, destacam-se o ruído de fundo do ambiente e o decréscimo do nível sonoro com a distância da fonte emissora. Assim, sentar-se no fundo da sala de aula pode prejudicar a aprendizagem dos estudantes, por impedir que eles distingam, com precisão, os sons emitidos, diminuindo a inteligibilidade da fala de seus professores. Considere a situação exemplificada pelo infográfico: à distância de 1 metro, o nível sonoro da fala de um professor é de 60 dB e diminui com a distância. Considere, ainda, que o ruído de fundo nessa sala de aula pode chegar a 45 dB e que, para ser compreendida, o nível sonoro da fala do professor deve estar 5 dB acima desse ruído.
+Dentre os parâmetros acústicos que afetam a inteligibilidade dos sons emitidos em ambientes fechados, destacam-se o ruído de fundo do ambiente e o decréscimo do nível sonoro com a distância da fonte emissora. Assim, sentar-se no fundo da sala de aula pode prejudicar a aprendizagem dos estudantes, por impedir que eles distingam, com precisão, os sons emitidos, diminuindo a inteligibilidade da fala de seus professores. Considere a situação exemplificada pelo infográfico: à distância de 1 metro, o nível sonoro da fala de um professor é de 60 dB e diminui com a distância. Considere, ainda, que o ruído de fundo nessa sala de aula pode chegar a 45 dB e que, para ser compreendida, o nível sonoro da fala do professor deve estar 5 dB acima desse ruído.
 
 ![Gráfico de linha mostrando a diminuição do nível sonoro em decibéis (dB) no eixo vertical, de 0 a 60, à medida que a distância em metros no eixo horizontal aumenta de 0 a 10. Abaixo do gráfico, uma ilustração de uma sala de aula com um professor em pé à esquerda e alunos sentados em carteiras enfileiradas, com uma régua indicando distâncias de 0 a 10 metros.](pg12img0_x0_64_y0_338_x1_481_y1_502.jpeg)
 
-> Disponível em: www.ufrj.br. Acesso em: 2 dez. 2021 (adaptado).
+>Disponível em: www.ufrj.br. Acesso em: 2 dez. 2021 (adaptado).
 
 Para um valor máximo do ruído de fundo, a maior distância que um estudante pode estar do professor para que ainda consiga compreender sua fala é mais próxima de
 
@@ -656,7 +604,7 @@ Para um valor máximo do ruído de fundo, a maior distância que um estudante po
 
 # QUESTÃO 125
 
-> Uma agricultora, com a intenção de comercializar o milho recém-colhido, testou uma forma de preservar o sabor adocicado do seu produto. O melhor resultado foi obtido quando ela mergulhou as espigas em água fervente durante alguns minutos e, em seguida, em água gelada. Com esse procedimento, parte da glicose do milho não foi transformada em amido, mantendo o seu sabor adocicado.
+Uma agricultora, com a intenção de comercializar o milho recém-colhido, testou uma forma de preservar o sabor adocicado do seu produto. O melhor resultado foi obtido quando ela mergulhou as espigas em água fervente durante alguns minutos e, em seguida, em água gelada. Com esse procedimento, parte da glicose do milho não foi transformada em amido, mantendo o seu sabor adocicado.
 
 Utilizando esse procedimento, o sabor foi conservado porque houve
 
@@ -668,11 +616,11 @@ Utilizando esse procedimento, o sabor foi conservado porque houve
 
 # QUESTÃO 126
 
-> Aquecedores solares são equipamentos utilizados para o aquecimento de água pelo calor do Sol. São compostos por coletores solares, nos quais ocorre o aquecimento da água, e por um reservatório térmico, em que é armazenada a água quente para ser utilizada posteriormente. A figura ilustra esquematicamente como funciona esse equipamento.
+Aquecedores solares são equipamentos utilizados para o aquecimento de água pelo calor do Sol. São compostos por coletores solares, nos quais ocorre o aquecimento da água, e por um reservatório térmico, em que é armazenada a água quente para ser utilizada posteriormente. A figura ilustra esquematicamente como funciona esse equipamento.
 
 ![Ilustração esquemática de um sistema de aquecimento solar. Um coletor solar de tubo a vácuo, representado por tubos inclinados, recebe radiação solar. Tubos conectam o coletor a um reservatório de água com isolamento térmico de poliuretano. Setas azuis indicam a entrada de água fria e setas vermelhas indicam a saída de água quente do reservatório.](pg12img1_x0_513_y0_203_x1_940_y1_347.jpeg)
 
-> **5 dicas de instalação de aquecedor solar.** Disponível em: https://instaline.com.br. Acesso em: 3 nov. 2023 (adaptado).
+>**5 dicas de instalação de aquecedor solar.** Disponível em: https://instaline.com.br. Acesso em: 3 nov. 2023 (adaptado).
 
 O processo pelo qual ocorre transferência de calor dos coletores solares para o reservatório térmico é a
 
@@ -684,11 +632,11 @@ O processo pelo qual ocorre transferência de calor dos coletores solares para o
 
 # QUESTÃO 127
 
-> As autoridades sanitárias brasileiras têm se preocupado muito nos últimos anos com o aumento da ocorrência de doenças transmitidas por mosquitos, principalmente arboviroses como chikungunya e zika, que se tornaram epidêmicas ou endêmicas em áreas urbanas. Parte de uma análise da relação entre a urbanização e a incidência dessas doenças está representada no fluxograma.
+As autoridades sanitárias brasileiras têm se preocupado muito nos últimos anos com o aumento da ocorrência de doenças transmitidas por mosquitos, principalmente arboviroses como chikungunya e zika, que se tornaram epidêmicas ou endêmicas em áreas urbanas. Parte de uma análise da relação entre a urbanização e a incidência dessas doenças está representada no fluxograma.
 
 ![Fluxograma com setas que indicam relações de causa e efeito. A caixa "Urbanização" aponta para "Ausência de saneamento básico", que aponta para "Contaminação da água". Esta aponta para "Redução da biodiversidade aquática", que por sua vez aponta para "Riscos para a saúde humana".](pg12img2_x0_511_y0_653_x1_943_y1_758.png)
 
-> ALMEIDA, L. S.; COTA, A. L. S.; RODRIGUES, D. F. Saneamento, arboviroses e determinantes ambientais: impactos na saúde urbana. **Ciência & Saúde Coletiva**, v. 25, n. 10, 2020 (adaptado).
+>ALMEIDA, L. S.; COTA, A. L. S.; RODRIGUES, D. F. Saneamento, arboviroses e determinantes ambientais: impactos na saúde urbana. **Ciência & Saúde Coletiva**, v. 25, n. 10, 2020 (adaptado).
 
 Nesse contexto, como a urbanização está causando riscos à saúde humana?
 
@@ -716,7 +664,7 @@ Em animais vertebrados, essa associação de poluentes será preferencialmente a
 
 # QUESTÃO 129
 
-> Em aeroportos, por razões de segurança, os passageiros devem ter suas bagagens de mão examinadas antes do embarque, passando-as em esteiras para sua inspeção por aparelhos de raios X. Nessas inspeções, os passageiros são orientados a retirar seus computadores portáteis (notebooks ou laptops) de malas, mochilas ou bolsas para passá-los isoladamente pela esteira.
+Em aeroportos, por razões de segurança, os passageiros devem ter suas bagagens de mão examinadas antes do embarque, passando-as em esteiras para sua inspeção por aparelhos de raios X. Nessas inspeções, os passageiros são orientados a retirar seus computadores portáteis (notebooks ou laptops) de malas, mochilas ou bolsas para passá-los isoladamente pela esteira.
 
 Que explicação física justifica esse procedimento?
 
@@ -728,7 +676,7 @@ Que explicação física justifica esse procedimento?
 
 # QUESTÃO 130
 
-> Com base em testes realizados em ratos, concluiu-se que os compostos nitrosos são substâncias mutagênicas, ou seja, produzem mutações nas células e possivelmente câncer. Esses compostos podem ser obtidos pela reação entre o nitrito de sódio, que é um conservante adicionado às carnes, e o ácido clorídrico. O ácido nitroso produzido irá reagir com compostos nitrogenados, como as aminas, dando origem aos compostos nitrosos.
+Com base em testes realizados em ratos, concluiu-se que os compostos nitrosos são substâncias mutagênicas, ou seja, produzem mutações nas células e possivelmente câncer. Esses compostos podem ser obtidos pela reação entre o nitrito de sódio, que é um conservante adicionado às carnes, e o ácido clorídrico. O ácido nitroso produzido irá reagir com compostos nitrogenados, como as aminas, dando origem aos compostos nitrosos.
 
 Em qual órgão esse processo será iniciado?
 
@@ -770,21 +718,23 @@ Um atleta que sonha em disputar os Jogos Olímpicos e tem uma maior proporção 
 
 # QUESTÃO 133
 
-O Cerrado e a Amazônia abrigam grande número de serpentes popularmente conhecidas como cobras-corais. Na Amazônia predominam as corais-verdadeiras, que são peçonhentas, enquanto no Cerrado prevalecem as falsas-corais, que não possuem peçonha. Essas espécies apresentam um padrão de coloração muito semelhante. Essa similaridade traz uma vantagem tanto para as corais falsas como para as verdadeiras.
-
+>O Cerrado e a Amazônia abrigam grande número de serpentes popularmente conhecidas como cobras-corais. Na Amazônia predominam as corais-verdadeiras, que são peçonhentas, enquanto no Cerrado prevalecem as falsas-corais, que não possuem peçonha. Essas espécies apresentam um padrão de coloração muito semelhante. Essa similaridade traz uma vantagem tanto para as corais falsas como para as verdadeiras.
+>
 > FRANÇA, F. G. R. [...] serpentes corais em ambientes campestres, savânicos e florestais da América do Sul. Brasília: UnB, 2008 (adaptado).
+
+
 
 Nas fotografias, são apresentados exemplos dessas serpentes: uma coral-verdadeira e uma falsa-coral.
 
-![Fotografia de uma cobra com faixas vermelhas, pretas e brancas, identificada como Coral-verdadeira (Micrurus decoratus); ao lado, fotografia de uma cobra com faixas vermelhas, pretas e brancas, identificada como Falsa-coral (Erythrolamprus aesculapii)](pg14img0_x0_60_y0_310_x1_484_y1_450.jpeg)
-
-**Coral-verdadeira**
-(Micrurus decoratus)
-
-**Falsa-coral**
-(Erythrolamprus aesculapii)
-
-> SILVA, L. C.; COTTA, G. A.; RESENDE, F. C. Cobra-coral: aplicativo educativo para reconhecimento das cobras-corais do estado de Minas Gerais, Brasil. Herpetologia Brasileira, n. 1, 2021 (adaptado).
+>![Fotografia de uma cobra com faixas vermelhas, pretas e brancas, identificada como Coral-verdadeira (Micrurus decoratus); ao lado, fotografia de uma cobra com faixas vermelhas, pretas e brancas, identificada como Falsa-coral (Erythrolamprus aesculapii)](pg14img0_x0_60_y0_310_x1_484_y1_450.jpeg)
+>
+>**Coral-verdadeira**
+>(Micrurus decoratus)
+>
+>**Falsa-coral**
+>(Erythrolamprus aesculapii)
+>
+>SILVA, L. C.; COTTA, G. A.; RESENDE, F. C. Cobra-coral: aplicativo educativo para reconhecimento das cobras-corais do estado de Minas Gerais, Brasil. Herpetologia Brasileira, n. 1, 2021 (adaptado).
 
 Qual é a vantagem dessa similaridade para as falsas-corais?
 
@@ -812,31 +762,18 @@ Um dos exemplos mais conhecidos de herança recessiva ligada ao cromossomo X é 
 
 Considere a legenda:
 
-![Ícone de círculo com ponto central: Mulher heterozigota portadora do gene para daltonismo](pg14img1_x0_-18_y0_-16_x1_21_y1_1016.png)
-
-- Mulher heterozigota portadora do gene para daltonismo
-- Mulher não daltônica
-- Mulher daltônica
-- Homem não daltônico
-- Homem daltônico
-
-> GRIFFITHS, A. et al. Introdução à genética. Rio de Janeiro: Guanabara Koogan, 2016 (adaptado).
+>![Legenda de ícones de heredograma](fig0q135.png)  
+>GRIFFITHS, A. et al. Introdução à genética. Rio de Janeiro: Guanabara Koogan, 2016 (adaptado).
 
 Qual heredograma foi recebido pelo casal?
 
-- **A** [Heredograma com casal em que a mulher é heterozigota portadora e o homem é não daltônico, com três descendentes: uma mulher não daltônica, uma mulher daltônica e um homem daltônico.]
-- **B** [Heredograma com casal em que a mulher é heterozigota portadora e o homem é não daltônico, com três descendentes: uma mulher não daltônica, uma mulher heterozigota portadora e um homem daltônico.]
-- **C** [Heredograma com casal em que a mulher é heterozigota portadora e o homem é não daltônico, com três descendentes: uma mulher heterozigota portadora, uma mulher heterozigota portadora e um homem não daltônico.]
-- **D** [Heredograma com casal em que a mulher é heterozigota portadora e o homem é não daltônico, com três descendentes: uma mulher não daltônica, uma mulher não daltônica e um homem daltônico.]
-- **E** [Heredograma com casal em que a mulher é heterozigota portadora e o homem é não daltônico, com três descendentes: uma mulher daltônica, uma mulher daltônica e um homem não daltônico.]
+- **A** ![Heredograma com casal em que a mulher é heterozigota portadora e o homem é não daltônico, com três descendentes: uma mulher não daltônica, uma mulher daltônica e um homem daltônico.](fig1q135.png)
+- **B** ![Heredograma com casal em que a mulher é heterozigota portadora e o homem é não daltônico, com três descendentes: uma mulher não daltônica, uma mulher heterozigota portadora e um homem daltônico.](fig2q135.png)
+- **C** ![Heredograma com casal em que a mulher é heterozigota portadora e o homem é não daltônico, com três descendentes: uma mulher heterozigota portadora, uma mulher heterozigota portadora e um homem não daltônico.](fig3q135.png)
+- **D** ![Heredograma com casal em que a mulher é heterozigota portadora e o homem é não daltônico, com três descendentes: uma mulher não daltônica, uma mulher não daltônica e um homem daltônico.](fig4q135.png)
+- **E** ![Heredograma com casal em que a mulher é heterozigota portadora e o homem é não daltônico, com três descendentes: uma mulher daltônica, uma mulher daltônica e um homem não daltônico.](fig5q135.png)
 
 ---
-
-enem2024 • CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS • 2º DIA • CADERNO 5 • AMARELO
-
-15
-
-![Descrição detalhada da página: A imagem exibe uma página de prova do ENEM 2024, com o logotipo no topo direito e um código de barras no topo esquerdo. A página é dividida em duas colunas, contendo as questões 136, 137, 138 e 139 de Matemática e suas Tecnologias. No rodapé, consta o número da página 16 e a identificação do caderno.](pg15img0_x0_978_y0_-16_x1_1018_y1_1016.png)
 
 # MATEMÁTICA E SUAS TECNOLOGIAS
 ## Questões de 136 a 180
@@ -902,7 +839,6 @@ A expressão numérica que representa o número máximo de maneiras distintas de
 - **E** $\left( \frac{7!}{3! \times 4!} \times \frac{6!}{2! \times 4!} \right) + \left( \frac{7!}{4! \times 3!} \times \frac{6!}{1! \times 5!} \right) + \left( \frac{7!}{5! \times 2!} \times \frac{6!}{0! \times 6!} \right)$
 
 ---
-16 MATEMÁTICA E SUAS TECNOLOGIAS • 2º DIA • CADERNO 5 • AMARELO • enem2024
 
 # QUESTÃO 140
 
@@ -938,7 +874,7 @@ Atualmente, há telefones celulares com telas de diversos tamanhos e em formatos
 
 ![Imagem de dois telefones celulares. O da esquerda, denominado "Celular 1", tem uma linha diagonal sobre a tela com a indicação "3 1/2 polegadas". O da direita, denominado "Celular 2", tem uma linha diagonal sobre a tela com a indicação "4 5/6 polegadas".](pg16img0_x0_549_y0_258_x1_904_y1_528.png)
 
-Disponível em: www.tecmundo.com.br. Acesso em: 5 nov. 2014 (adaptado).
+>Disponível em: www.tecmundo.com.br. Acesso em: 5 nov. 2014 (adaptado).
 
 A diferença de tamanho, em valor absoluto, entre as medidas, em polegada, das telas do celular 2 e do celular 1, representada apenas com uma casa decimal, é
 
@@ -966,10 +902,7 @@ Qual é o mês que esse cliente deveria escolher para realizar a compra do apart
 
 Um sistema de polias circulares e correias é um dos mecanismos responsáveis pela transmissão de movimento em máquinas rotativas. O manual de um motor traz uma figura representando um sistema composto por duas polias e uma correia de transmissão, tensionada e perfeitamente ajustada sobre as polias, de modo a não apresentar folgas nos contatos com as polias. Considere que as partes dessa correia que não ficam em contato com as polias são representadas por segmentos de reta tangentes às polias.
 
-r = 4 cm
-R = 8 cm
-15 cm
-15 cm
+![Imagem de doas rodas connectadas por uma correia de tamanhos diferentes, uma de raio 4cm e outra de  8cm com 15cm de corrente entre os circulos](pg17img0_x0_59_y0_618_x1_485_y1_778.jpeg)
 
 Para substituição dessa correia, é necessária a especificação de seu comprimento.
 Considere 3 como valor aproximado para $\pi$.
@@ -986,7 +919,7 @@ A medida do comprimento dessa correia, em centímetro, é
 
 A prefeitura de uma cidade planeja construir três postos de saúde. Esses postos devem ser construídos em locais equidistantes entre si e de forma que as distâncias desses três postos ao hospital dessa cidade sejam iguais. Foram conseguidos três locais para a construção dos postos de saúde que apresentam as características desejadas, e que distam 10 km entre si, conforme o esquema, no qual o ponto $H$ representa o local onde está construído o hospital; os pontos $P_1$, $P_2$ e $P_3$, os postos de saúde; e esses quatro pontos estão em um mesmo plano.
 
-![Esquema geométrico com quatro pontos. Os pontos P1, P2 e P3 formam um triângulo equilátero e estão ligados por segmentos de reta tracejados que indicam a distância de 10 km entre eles. O ponto H está no centro do triângulo, ligado aos três vértices por segmentos de reta com marcas de congruência.](pg17img0_x0_59_y0_618_x1_485_y1_778.jpeg)
+![Esquema geométrico com quatro pontos. Os pontos P1, P2 e P3 formam um triângulo equilátero e estão ligados por segmentos de reta tracejados que indicam a distância de 10 km entre eles. O ponto H está no centro do triângulo, ligado aos três vértices por segmentos de reta com marcas de congruência.](pg17img1_x0_543_y0_261_x1_910_y1_526.png)
 
 A distância, em quilômetro, entre o hospital e cada um dos postos de saúde, é um valor entre
 
@@ -1050,9 +983,9 @@ Qual câmera registra o momento em que os ônibus A e B se encontram?
 
 A criptografia refere-se à construção e análise de protocolos que impedem terceiros de lerem mensagens privadas. Júlio César, imperador romano, utilizava um código para proteger as mensagens enviadas a seus generais. Assim, se a mensagem caísse em mãos inimigas, a informação não poderia ser compreendida. Nesse código, cada letra do alfabeto era substituída pela letra três posições à frente, ou seja, o “A” era substituído pelo “D”, o “B” pelo “E”, o “C” pelo “F”, e assim sucessivamente.
 
-![Tabela de duas linhas com sequências alfabéticas. A linha superior mostra as letras A a Z seguidas de A, B e C, rotulada como "Letra do texto codificado". A linha inferior mostra as letras A a Z, rotulada como "Letra do texto original". Setas apontam verticalmente da linha inferior para a superior.](pg20img0_x0_-18_y0_-16_x1_21_y1_1016.png)
+![Tabela de duas linhas com sequências alfabéticas. A linha superior mostra as letras A a Z seguidas de A, B e C, rotulada como "Letra do texto codificado". A linha inferior mostra as letras A a Z, rotulada como "Letra do texto original". Setas apontam verticalmente da linha inferior para a superior.](fig0q149.png)
 
-Disponível em: www.codifica.ibict.br. Acesso em: 15 out. 2019.
+>Disponível em: www.codifica.ibict.br. Acesso em: 15 out. 2019.
 
 Qualquer código que tenha um padrão de substituição de letras como o descrito é considerado uma Cifra de César ou um Código de César. Note que, para decifrar uma Cifra de César, basta descobrir por qual letra o “A” foi substituído, pois isso define todas as demais substituições a serem feitas.
 
@@ -1110,7 +1043,6 @@ A estimativa da receita, em milhão de reais, dessa indústria, para o ano de 20
 - **D** 10.
 - **E** 11.
 
-MATEMÁTICA E SUAS TECNOLOGIAS • 2º DIA • CADERNO 5 • AMARELO • enem2024
 
 # QUESTÃO 153
 
@@ -1128,7 +1060,6 @@ O gráfico que descreve, em cada instante, a maior altura de coluna de água, de
 - **D** ![Gráfico de linha com eixos Maior altura (m) e Tempo (h). A linha apresenta patamares: constante em um nível de 0 a 2 h, desce para um nível inferior de 2 a 4 h, retorna ao nível inicial de 4 a 6 h e sobe para um nível superior de 6 a 12 h.](pg22img4_x0_527_y0_395_x1_837_y1_572.png)
 - **E** ![Gráfico de linha com eixos Maior altura (m) e Tempo (h). A linha apresenta patamares: constante em um nível de 0 a 2 h, desce para um nível inferior de 2 a 4 h, retorna ao nível inicial de 4 a 6 h e sobe para um nível superior de 6 a 12 h.](pg22img5_x0_527_y0_574_x1_837_y1_751.png)
 
-enem2024 • MATEMÁTICA E SUAS TECNOLOGIAS • 2º DIA • CADERNO 5 • AMARELO                                                                    23
 
 # QUESTÃO 154
 
@@ -1145,7 +1076,7 @@ O quadro apresenta uma amostra do tempo considerado necessário para a leitura c
 | E | 13 |
 | F | 13 |
 
-ROMERO, L. Não li e concordo. **Superinteressante**, n. 307, ago. 2012 (adaptado).
+>ROMERO, L. Não li e concordo. **Superinteressante**, n. 307, ago. 2012 (adaptado).
 
 O tempo médio, em minuto, necessário para a leitura completa de um contrato de serviço dentre os listados no quadro é, com uma casa decimal, aproximadamente,
 
@@ -1200,8 +1131,6 @@ Nessas condições, a expressão que fornece o valor $V$ a ser pago por uma viag
 - **C** $2,00 + 0,26T + D$
 - **D** $0,26T + 1,40D$
 - **E** $F + T + D$
-
-![Código de barras vertical na margem esquerda da página.](pg23img1_x0_978_y0_-16_x1_1018_y1_1016.png)
 
 # QUESTÃO 157
 
@@ -1455,9 +1384,9 @@ O sólido obtido foi um(a)
 
 # QUESTÃO 172
 
-O estádio do Maracanã passou por algumas modificações estruturais para a realização da Copa do Mundo de 2014, como, por exemplo, as dimensões do campo retangular. Para se adaptar aos padrões da Fifa, as dimensões do campo foram reduzidas de 110 m × 75 m para 105 m × 68 m.
-
-Disponível em: http://virgula.uol.com.br.
+>O estádio do Maracanã passou por algumas modificações estruturais para a realização da Copa do Mundo de 2014, como, por exemplo, as dimensões do campo retangular. Para se adaptar aos padrões da Fifa, as dimensões do campo foram reduzidas de 110 m × 75 m para 105 m × 68 m.
+>
+>Disponível em: http://virgula.uol.com.br.
 Acesso em: 14 ago. 2013 (adaptado).
 
 Em quantos metros quadrados a área do campo do Maracanã foi reduzida?
@@ -1496,10 +1425,10 @@ A compra será realizada na loja
 
 # QUESTÃO 174
 
-O arquiteto Renzo Piano exibiu a maquete da nova sede do Museu Whitney de Arte Americana, um prédio assimétrico que tem um vão aberto para a galeria principal, cuja medida da área é 1 672 m².
-
-Considere que a escala da maquete exibida é 1 : 200.
-
+>O arquiteto Renzo Piano exibiu a maquete da nova sede do Museu Whitney de Arte Americana, um prédio assimétrico que tem um vão aberto para a galeria principal, cuja medida da área é 1 672 m².
+>
+>Considere que a escala da maquete exibida é 1 : 200.
+>
 > Época, n. 682, jun. 2011 (adaptado).
 
 A medida da área do vão aberto nessa maquete, em centímetro quadrado, é
@@ -1519,8 +1448,8 @@ O gráfico apresenta o valor total de exportações e o valor total de importaç
 
 ![Gráfico de linhas mostrando a evolução do valor total de exportações e importações, em bilhão de dólares, entre junho de 2009 e junho de 2010. O eixo vertical vai de 9 a 18. A linha de exportações é mais escura e a de importações mais clara. Em junho de 2010, as exportações atingem 17,1 e as importações 14,8.](pg29img1_x0_513_y0_213_x1_940_y1_457.png)
 
-Fonte: Ministério do Desenvolvimento.
-Disponível em: http://blogs.estadao.com.br.
+>Fonte: Ministério do Desenvolvimento.
+>Disponível em: http://blogs.estadao.com.br.
 Acesso em: 20 fev. 2013 (adaptado).
 
 Considere que os saldos da balança comercial brasileira, nos três meses destacados no gráfico, sejam representados por:
@@ -1549,7 +1478,6 @@ Qual é a representação decimal da taxa percentual desse crescimento populacio
 - **D** 1,3525
 - **E** 0,13525
 
-MATEMÁTICA E SUAS TECNOLOGIAS • 2º DIA • CADERNO 5 • AMARELO • enem2024
 
 # QUESTÃO 177
 
@@ -1608,6 +1536,4 @@ A medida da aresta da nova embalagem, em centímetro, deve ser
 - **C** \(6\sqrt{6}\)
 - **D** \(6\sqrt[3]{6}\)
 - **E** \(3\sqrt[3]{12}\)
-
-![Fundo da página com a logomarca "enem2024" e o texto "Exame Nacional do Ensino Médio" centralizados, além de códigos de barras e uma faixa lateral com a inscrição "ENEM2024" repetida verticalmente.](pg31img0_x0_938_y0_-16_x1_977_y1_1016.png)
 
